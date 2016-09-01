@@ -1,0 +1,186 @@
+        #myNavbar {
+            margin: 0 auto;
+            width: 100%;
+            box-shadow: 0px 0px 5px gray;
+        }
+
+        .background {
+            background: url('../img/light_wool.png') repeat;
+            height: 100%;
+        }
+
+        #tasksMenu {
+            border-right: 1px solid #D7D7D7;
+        }
+
+        .myTitle {
+            font-size: 1.4em;
+            padding: 10px 35px 10px 35px;
+            margin-bottom: 20px;
+            margin-left: 20%;
+            background-color: #F8F8F8;
+            color: #89AB93;
+            border-radius: 0px 7px 0px 7px;
+            border-left: 1px solid gray;
+            border-right: 1px solid gray;
+            border-bottom: 1px solid gray;
+            background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAGElEQVQImWPoXD35P0Pn6sn/GSZsWAAhAG13C0stqlL5AAAAAElFTkSuQmCC) 
+                repeat;
+        }
+
+        .content {
+            background-color: #F8F8F8;
+            box-shadow: 0px 0px 10px gray;
+            border-radius: 7px;
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+        .contentMain {
+            padding: 30px;
+            font-size: 0.9em;
+            overflow: auto;
+        }
+        .contentMain h2 {
+            color: gray;
+            border-bottom: 1px solid #D7D7D7;
+            padding-left: 20px;
+            padding-right: 40px;
+            padding-top: 3px;
+            font-weight: normal;
+            font-size: 1.8em;
+            padding-bottom: 5px;
+            width: 100%;
+
+        }
+
+        .contentMain h1 {
+            color: gray;
+            border-bottom: 2px solid #D7D7D7;
+            border-top: 2px solid #D7D7D7;
+            padding-left: 20px;
+            padding-right: 40px;
+            padding-top: 3px;
+            font-weight: normal;
+            font-size: 2.0em;
+            padding-bottom: 5px;
+            width: 100%;
+            background-color: #eee;
+            line-height: 1.4em;
+        }
+        .contentMain a {
+            text-decoration: none;
+        }
+
+        .grupoweDetale {
+            color: gray;
+            line-height: 1.1em;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+            padding-left: 20px;
+            border-left: 8px solid #89AB93;
+        }
+
+        .note {
+            background-color: #EEFFC4;
+            border: 1px solid #B6FF06;
+            padding: 10px;
+        }
+
+
+        .download ul li {
+                background-image: url('../img/iconfile.jpg');
+                background-repeat: no-repeat;
+                background-position: 0px center;
+                padding-left: 20px; 
+                list-style-type: none;
+                padding-bottom: 4px;
+        }
+
+        .download a:visited {
+            color: gray;
+        }
+
+        .download a {
+            color: gray;
+        }
+
+        .download a:hover {
+            color: gray;
+            text-decoration: underline;
+        }
+
+        img.imgCenter {
+            display:block;
+            margin: 0 auto;
+            padding-bottom: 30px;
+        }
+
+        /*
+            main colors:
+            biały: #F8F8F8;
+            szary: #AB9A9A;
+            khaki:  #89AB93;
+            morski: #E7E7E7;
+            czerwony: #87131B;
+        */
+/*
+        .contentMain table {
+            border-collapse: collapse;
+            padding-left: 10px;
+            font-size: 0.7em;
+        }
+        .contentMain tr {
+            background-color: #FFFFFF;
+        }
+        .contentMain tr.odd {
+            background-color: #F5F5F5;
+        }
+        .contentMain th {
+            background-color: #D7D7D7;
+        }
+        .contentMain td, .contentMain th {
+            border: 1px solid gray;
+            padding: 5px;
+        }
+        .contentMain td ul {
+            padding-left: 7px;
+        }
+
+        .contentMain th {
+            border-bottom: 2px solid gray;
+            color: gray;
+            font-weight: normal;
+            font-style: italic;
+        }
+*/
+.contentMain table {
+    border-collapse: collapse;
+    padding-left: 20px;
+    border-bottom: 4px solid #89AB93;
+    width: 100%;
+    font-size: 1.0em;
+}
+.contentMain tr.odd {
+    background-color: #E7E7E7;
+}
+.contentMain th {
+    background-color: #89AB93;
+}
+.contentMain td {
+   
+    padding: 10px;
+}
+.contentMain th {
+   
+    padding: 10px;
+}
+.contentMain td ul {
+    padding-left: 10px;
+}
+
+.contentMain th {
+    border-bottom: 2px solid gray;
+    color: white;
+    font-weight: normal;
+    font-style: italic;
+}

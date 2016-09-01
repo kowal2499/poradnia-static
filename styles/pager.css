@@ -1,0 +1,43 @@
+.myPager {
+	width: 90%;
+	margin-left: 0px;
+	font-size: 0.7em;
+}
+
+.myPager ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	text-align: right;
+}
+.myPager li {
+	display: inline-block;
+	border: 1px solid #808080;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	
+	padding: 0px;
+}
+
+/*
+	brick class - inner element inside li, before href. We prefer to have clickable all area, not the text only.
+*/
+.brick {
+	
+	width: 25px; 
+	height: 100%; 
+	padding: 1px;
+	text-align: center;
+}
+.myPager a {
+	color: #808080;
+}
+
+.myPager a:hover {
+	text-decoration: none;
+}
+
+.pageSelected, .pageSelected a {
+    background-color: #89AB93;
+    color: white;
+}

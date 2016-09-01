@@ -1,0 +1,76 @@
+        #logoBadge {
+            background-image: url("img/poradnia-150px.png");
+            background-position: 5px 5px;
+            background-repeat: no-repeat;
+       
+            border: 2px solid red;
+
+        }
+        .logo {
+            float: right;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .logo img {
+            border-radius: 7px;
+            box-shadow: 0px 0px 5px gray;
+            padding: 6px;
+        }
+        .horizCenteredWrap {
+            float: right; 
+            display: table; 
+            height: 130px;
+            overflow: hidden;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .horCenterContent {
+            display:table-cell;
+            vertical-align:middle;
+        }
+        .motto {
+            font-style: italic;
+            text-align: left;
+            padding-left: 30px;
+            color: #E0E0E0;
+            font-family: serif;
+            font-size:1.0em;
+            font-family: Georgia,"Times New Roman",Times,serif;
+            text-shadow: 2px 2px gray;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.4);
+            padding-bottom: 5px;
+            padding-right: 10px;
+            text-align: right;
+            overflow: hidden;
+        }
+        .poradnia {
+            text-align: center;
+            font-size: 1.9em;
+            color: #90B0A0;
+            font-variant: small-caps;
+            text-shadow: 2px 2px #F0F0F0;
+            background-color: #F8F8F8;
+            padding: 10px 0px 10px 0px;
+        }
+
+.nav {
+    border-top: 0px solid blue;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.footer {
+    background-color: #F8F8F8;
+    border-top: 1px solid #E7E7E7;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}

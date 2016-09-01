@@ -1,0 +1,49 @@
+.welcomeTitle {
+            font-size: 1.4em;
+            padding: 10px 35px 10px 35px;
+            margin: 0px;
+            margin-left: 20%;
+            
+            background-color: #89AB93;
+            color: white;
+            border-radius: 0px 7px 0px 7px;
+            border-left: 1px solid gray;
+            border-right: 1px solid gray;
+            border-bottom: 1px solid gray;
+            float: right;
+            display: inline-block;
+            text-align: center;
+            background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAGElEQVQImWPoXD35P0Pn6sn/GSZsWAAhAG13C0stqlL5AAAAAElFTkSuQmCC) 
+                repeat;
+
+        }
+
+        .dwnl li {
+                background-image: url('../img/iconfile.jpg');
+                background-repeat: no-repeat;
+                background-position: 0px center;
+                padding-left: 20px; 
+                list-style-type: none;
+                padding-bottom: 4px;
+        }
+
+        .dwnl a:visited {
+            color: red;
+        }
+
+        .dwnl a {
+            color: gray;
+        }
+
+        .dwnl a:visited {
+            color: gray;
+        }
+
+        .dwnl a:hover {
+            color: gray;
+            text-decoration: underline;
+        }
+
+         .clear {
+            clear: both;
+        }

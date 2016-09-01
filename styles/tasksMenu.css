@@ -1,0 +1,57 @@
+
+#tasksMenu {
+    
+    background-color: #F8F8F8;
+    padding-left: 0px;
+    padding-top: 60px;
+    float: left;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    border-radius: 7px 0px 0px 7px;
+    height: auto;
+    overflow: auto;
+}
+
+#tasksMenu ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#tasksMenu ul ul {
+    padding-left: 20px;
+}
+
+#tasksMenu li {
+    border-bottom: 1px solid #D7D7D7;
+
+}
+
+#tasksMenu li a {
+    text-decoration: none;
+}
+
+.liElement {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin: 0px;
+}
+
+
+img {
+    padding-top: 30px;
+}
+
+.attention {
+    background-color: #EEFFC4;
+    border: 1px solid #B6FF06;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 0.7em;
+    color: #333333;
+    
+}

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aktualności>
+
+	<!-- ################################################################## -->
+
+<!--     <wiadomość>
+        <tytuł>
+            <tekst>Szkolenie dla logopedów: &quot;Ćwiczenia artykulacyjne w terapii logopedycznej. Jak skutecznie je prowadzić?&quot;</tekst>
+        </tytuł>
+        <data>
+            09/04/2016
+        </data>
+        <obrazek>
+             <plik>img/dziecko-mówi.jpg</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            <p>Serdecznie zapraszamy logopedów przedszkolnych i szkolnych na szkolenie na temat 
+            <strong>&quot;Ćwiczenia artykulacyjne w terapii logopedycznej. Jak skutecznie je 
+            prowadzić?&quot;</strong> w ramach Grupy Rozwoju Zawodowego Logopedów w dniu 21 kwietnia o 
+            godzinie 17.00 w Poradni Psychologiczno-Pedagogicznej w Białogardzie /w Klubie 
+            Nauczyciela na parterze/.
+            </p>
+            <p>Prowadzące:</p>
+            <ul>
+                <li>Maria Jonko - <i>neurologopeda</i></li>
+                <li>Małgorzata Weiszewska - <i>neurologopeda</i></li>
+            </ul>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość> -->
+
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Kontakt telefoniczny z Poradnią</tekst>
+        </tytuł>
+        <data>
+            16/06/2016
+        </data>
+        <obrazek>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Informujemy, że z powodu awarii telefon stacjonarny jest nieczynny. Zachęcamy do kontaktu pod numerem telefonu komórkowego: <strong>515 082 620</strong>.
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Gimnastyka buzi i języka, czyli jak doskonalić mowę? - spotkanie logopedyczne</tekst>
+        </tytuł>
+        <data>
+            08/05/2016
+        </data>
+        <obrazek>
+            <plik>img/dziecko-mówi.jpg</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            21 kwietnia 2016 roku, po raz drugi w tym roku szkolnym, w Poradni Psychologiczno-Pedagogicznej w Białogardzie odbyło się spotkanie Grupy Wsparcia Logopedów z naszego powiatu białogardzkiego.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html>
+            <![CDATA[
+                <div style='margin: 10px; border-radius: 7px; border: 1px solid gray;'>
+                    <div class='myTitle' style='width: 80%; margin-bottom: 30px;'>Gimnastyka buzi i języka, czyli jak doskonalić mowę? - spotkanie logopedyczne</div>
+                    <img src='img/spotkanie_logopedyczne.jpg' style='width: 80%'>
+
+                    <div style='margin:20px;'>
+                        <p>
+                            21 kwietnia 2016 roku, po raz drugi w tym roku szkolnym, w Poradni Psychologiczno-Pedagogicznej w Białogardzie odbyło się spotkanie Grupy Wsparcia Logopedów z naszego powiatu białogardzkiego. 
+                        </p>
+
+                        <p>
+                            Dyskutowano tym razem nad tym, do czego służy 'magiczny kapelusz' i jak jeszcze można wykorzystać makaron, paluszki, chrupki czy żelki, aby usprawnić język, wargi czy żuchwę. Pomysłów uczestniczki miały bardzo wiele. Prowadzące - neurologopeda z PPP Maria Jonko przedstawiła prezentację dotyczącą rodzajów ćwiczeń artykulacyjnych stosowanych w terapii logopedycznej i ich skuteczności, a z kolei neurologopeda PPP Małgorzata Weiszewska zaprezentowała sposoby korygowania nieprawidłowego położenia języka u dzieci. Uczestniczki spotkania zastanawiały się, co zrobić, aby ćwiczenia były skuteczne, przy tym nie stresujące i – co równie ważne – jak prowadzić terapię, aby u logopedy nie było nudno. Pamiętać należy, że terapia, która wygląda jak zabawa, przynosi najlepsze efekty w pracy z dzieckiem. 
+                        </p>
+
+                        <p>
+                            Cieszymy, się że na spotkanie przybyło liczne grono zainteresowanych. Nie wszystkie panie mogły być z nami, ale miło będzie znowu się zobaczyć i wymienić doświadczeniami. <span style='font-weight: bold;''>Zapraszamy wszystkich logopedów do udziału w następnym spotkaniu, które odbędzie się jesienią w nowym roku szkolnym, o czym poinformujemy na stronie internetowej.</span>
+                       </p>
+
+                       <p style='text-align: center; margin: 30px;'>SERDECZNIE ZAPRASZAMY</p>
+                       <p style='text-align: right;'>Maria Jonko, Małgorzata Weiszewska - neurologopedzi</p>
+
+
+                    </div>
+                </div>
+            ]]>
+        </okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Powierzenie pełnienia obowiązków dyrektora Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
+        </tytuł>
+        <data>
+            31/03/2016
+        </data>
+        <obrazek>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Informujemy, że Zarząd Powiatu w Białogardzie powierzył Pani Alicji Gudańskiej-Walkowskiej pełnienie od 1 kwietnia 2016 roku do dnia 31 sierpnia 2016 roku obowiązków dyrektora Poradni Psychologiczno-Pedagogicznej w Białogardzie na podstawie Uchwały nr 18/2016 Zarządu Powiatu w Białogardzie z dnia 22 marca 2016 roku.
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Wesołych Świąt Wielkanocnych !</tekst>
+        </tytuł>
+        <data>
+            21/03/2016
+        </data>
+        <obrazek>
+            <plik>img/wielkanoc-poradnia-2016-mini.jpg</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Wielu radosnych i niepowtarzalnych chwil na Święta Wielkanocne, smacznego jajka oraz wiosennego nastroju w rodzinnym gronie życzą pracownicy Poradni Psychologiczno-Pedagogicznej w Białogardzie.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek>img/wielkanoc-poradnia-2016.jpg</okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+    
+    <wiadomość>
+        <tytuł>
+            <tekst>II Powiatowa Konferencja już za nami...</tekst>
+            <link>extra/konferencja2016/konferencja.html</link>
+        </tytuł>
+        <data>
+            16/02/2016
+        </data>
+        <obrazek>
+            <plik>img/news-konferencja01.jpg</plik>
+            <link>extra/konferencja2016/konferencja.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            <p>Dziękujemy prelegentom za przyjęcie zaproszenia, wyczerpujące i atrakcyjne przybliżenie nam wskazanej problematyki, jak również wszystkim przybyłym gościom i uczestnikom.</p><p><a href='extra/konferencja2016/konferencja.html'>Zachęcamy do obejrzenia zdjęć z konferencji, jak również zapoznania się z prezentacją multimedialną p. Artura Kołakowskiego „ADHD - skuteczne prowadzenie dziecka z ADHD”.</a></p>
+            ]]>
+        </opis>
+
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+<!--     <wiadomość>
+        <tytuł>
+            <tekst>Ostatnie wolne miejsca na II Powiatową Konferencję</tekst>
+            <link>subpages/pomocDlaRodzicówKonferencja.html</link>
+        </tytuł>
+        <data>
+            11/01/2016
+        </data>
+        <obrazek>
+            <plik>img/news-konferencja01.jpg</plik>
+            <link>subpages/pomocDlaRodzicówKonferencja.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            <p>W imieniu Poradni Psychologiczno-Pedagogicznej w Białogardzie oraz Starostwa Powiatowego w Białogardzie chcemy poinformować, 
+            że istnieje jeszcze możliwość zapisów na <a href='subpages/pomocDlaRodzicówKonferencja.html'>II Powiatową Konferencję na temat "Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?"</a>.</p><p>Wszystkich zainteresowanych zapraszamy do kontaktu osobistego z sekretariatem poradni lub pod numerem telefonu 94 312 25 96,
+            kom. 515 082-620.</p><p>Jednocześnie przypominamy osobom zapisanym na konferencję o potrzebie wpłaty 150&nbsp;złotych do 05.02.2016r. na konto poradni:</p>
+            <p style='text-align: center; font-weight: bold;'>72 1240 3666 1111 0000 4344 7880</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość> -->
+
+    <!-- ################################################################## -->
+
+<!--     <wiadomość>
+        <tytuł>
+            <tekst>Nowy artykuł: "Samookaleczenia - moda czy coś więcej?"</tekst>
+            <link>porady/article014.html</link>
+        </tytuł>
+        <data>
+            02/01/2016
+        </data>
+        <obrazek>
+            <plik>img/blade-mini.jpg</plik>
+            <link>porady/article014.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Zapraszamy do zapoznania się z nowym artykułem na temat:<br> <a href='porady/article014.html'>"Samookaleczenia – moda czy coś więcej?"</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość> -->
+
+    <!-- ################################################################## -->
+
+    <!-- <wiadomość>
+        <tytuł>
+            <tekst>Wesołych Świąt !</tekst>
+        </tytuł>
+        <data>
+            17/12/2015
+        </data>
+        <obrazek>
+            <plik>img/christmas-card-mini.jpg</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Z okazji Świąt Bożego Narodzenia wielu głębokich i radosnych przeżyć, wewnętrznego spokoju i radości oraz wszelkiej pomyślności w każdym dniu nadchodzącego Roku życzą pracownicy Poradni Psychologiczno-Pedagogicznej w Białogardzie.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek>img/christmas-card.jpg</okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość> -->
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Harmonogram zajęć grupowych dla dzieci i młodzieży</tekst>
+            <link>subpages/pomocGrupowe.html#harmonogram</link>
+        </tytuł>
+        <data>
+            23/10/2015
+        </data>
+        <obrazek>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Od października 2015 roku rozpoczęły się w Poradni Psychologiczno-Pedagogicznej w Białogardzie zajęcia grupowe dla dzieci i
+            młodzieży. Cieszą się one dużym zainteresowaniem. Przedstawiamy <a href='subpages/pomocGrupowe.html#harmonogram'>harmonogram</a> zajęć.
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+  <!--   <wiadomość>
+        <tytuł>
+            <tekst>Nowy artykuł: "Nadpobudliwość psychoruchowa u dzieci"</tekst>
+            <link>porady/article013.html</link>
+        </tytuł>
+        <data>
+            22/10/2015
+        </data>
+        <obrazek>
+            <plik>img/article13mini.jpg</plik>
+            <link>porady/article013.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            <p>Temat nadpobudliwości psychoruchowej nurtuje wielu rodziców i nauczycieli, w związku z tym zapraszamy do przeczytania <a href='porady/article013.html'>artykułu</a> na ten temat i do uczestnictwa w <strong><a href='subpages/pomocDlaRodzicówKonferencja.html'>II Powiatowej Konferencji organizowanej przez Poradnię Psychologiczno-Pedagogiczną w Białogardzie i Starostwo Powiatowe w Białogardzie w dniu 12.02.2016r.</a></strong>, gdzie gościem będzie autorytet w tej dziedzinie dr n. med. Artur Kołakowski.
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość> -->
+
+     <!-- ################################################################## -->
+
+<!--     <wiadomość>
+        <tytuł>
+            <tekst>Nowy artykuł: "Kiedy nic się nie chce..."</tekst>
+            <link>porady/article012.html</link>
+        </tytuł>
+        <data>
+            22/10/2015
+        </data>
+        <obrazek>
+            <plik>img/article12mini.jpg</plik>
+            <link>porady/article012.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            <p>Pragnąc zasygnalizować istnienie problemu depresji u dzieci i nastolatków przedstawiamy nowy artykuł pt. <a href='porady/article012.html'>"Kiedy nic się nie chce..."</a></p><p>Jednocześnie zachęcamy wszystkich nauczycieli, rodziców i osoby chcące głębiej się zapoznać z zagadnieniem depresji wśród dzieci i młodzieży do wzięcia  udziału w 
+            <strong><a href='subpages/pomocDlaRodzicówKonferencja.html'>II Powiatowej Konferencji organizowanej przez Poradnię Psychologiczno-Pedagogiczną w Białogardzie i Starostwo Powiatowe w Białogardzie w dniu 12.02.2016r.</a></strong></p><p>Wykład na temat depresji wygłosi mgr Małgorzata Łuba.
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość> -->
+
+    <!-- ################################################################## -->
+    
+    <wiadomość>
+        <tytuł>
+            <tekst>Szkolenie na temat: "Jak skutecznie pokonać jąkanie?"</tekst>
+        </tytuł>
+        <data>
+            01/10/2015
+        </data>
+        <obrazek>
+            <plik></plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            Zapraszamy wszystkich logopedów pracujących w przedszkolach i szkołach na kolejne szkolenie na temat: "Jak skutecznie pokonać jąkanie?", które odbędzie się 15 października 2015 roku o godzinie 17.00 w Poradni Psychologiczno-Pedagogicznej w Białogardzie.
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html>
+            <![CDATA[
+               <div style='margin: 10px; border-radius: 7px; border: 1px solid gray;'>
+                    <div class='myTitle' style='width: 80%; margin-bottom: 30px;'>Szkolenie na temat: 'Jak skutecznie pokonać jąkanie?'</div>
+                    <img src='img/logopedzi.jpg' style='width: 80%'>
+
+                    <div style='margin:20px;'>
+                       <p>W Poradni Psychologiczno-Pedagogicznej w Białogardzie odbywają się cykliczne spotkania logopedów pracujących w przedszkolach i szkołach
+                       Miasta i Gminy Białogard, Miasta i Gminy Karlino oraz Miasta i Gminy Tychowo z logopedami pracującymi w białogardzkiej poradni (tzw. Grupa Rozwoju Zawodowego Logopedów Przedszkolnych i Szkolnych).</p><p>Ostatnie spotkanie
+                       miało miejsce w połowie maja 2015 roku. Była to okazja, aby wymienić się doświadczeniami,
+                       wspólnie ustalić sposoby postępowania terapeutycznego.</p><p>W pierwszej części szkolenia neurologopeda z PPP Maria Jonko przedstawiła prezentację 'Emisja głosu
+                       – ćwiczenia dla przedszkolaka i ucznia, jak je prawidłowo prowadzić?'. Zebrane osoby miały okazję, aby przypomnieć sobie zagadnienia związane z pracą nad 
+                       emisją głosu - prowadzącą do uzyskania: odpowiedniej dźwięczności i nośności emitowanego dźwięku, odpowiedniej stabilności i jednolitości wydobywanego dźwięku 
+                       uwarunkowanym podparciem oddechowym, prawidłowej dykcji, ekspresji słowa oraz sugestywności głosu.</p><p>Blok ćwiczeń praktycznych przeprowadziła z kolei neurologopeda
+                       z PPP Małgorzata Weiszewska - uczestniczki miały się zrelaksować i wsłuchać w swój oddech. Były też ćwiczenia ekonomicznego zużywania powietrza, uruchamiające 
+                       rezonatory oraz pobudzające do pracy przeponę. Rozmawiano także o znaczeniu wykorzystania wizualizacji w czasie terapii mowy. Uczestniczki spotkania otrzymały 
+                       zestaw materiałów do ćwiczeń dla osób pracujących głosem i nad głosem.</p>
+                       <p><strong>Zapraszamy wszystkich logopedów pracujących w przedszkolach i szkołach na kolejne szkolenie na temat: 'Jak skutecznie pokonać jąkanie?', które odbędzie się 
+                       15 października 2015 roku o godzinie 17.00 w Poradni Psychologiczno-Pedagogicznej w Białogardzie</strong> /na parterze budynku/. Prowadzić je będą neurologopedzi z 
+                       tutejszej poradni: H.Górzyńska, M.Jonko, M.Weiszewska.</p>
+                       <p style='text-align: center; margin: 30px;'>SERDECZNIE ZAPRASZAMY</p>
+                       <p style='text-align: right;'>Maria Jonko, Małgorzata Weiszewska - neurologopedzi</p>
+                    </div>
+               </div>
+            ]]>
+        </okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Nowa edycja "Szkoły dla Rodziców"</tekst>
+        </tytuł>
+        <data>
+            14/09/2015
+        </data>
+        <obrazek>
+            <plik>img/szkołaDlaRodziców2015mini.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                Serdecznie zapraszamy rodziców chcących rozwijać swoje umiejętności wychowawcze na zajęcia "Szkoła dla Rodziców" organizowane na terenie poradni. <a href='subpages/pomocDlaRodzicówSzkoła.html'>Kliknij tutaj</a> aby uzyskać więcej informacji.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek>img/szkoladlarodzicow.jpg</okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Życzenia na nowy rok szkolny</tekst>
+        </tytuł>
+        <data>
+            01/09/2015
+        </data>
+        <obrazek>
+            <plik>img/news-rokszkolny.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <div>W imieniu wszystkich pracowników Poradni życzymy, aby nowy rok szkolny stał się dla uczniów okazją do rozwijania swoich umiejętności, dla rodziców - sposobnością do odkrywania mocnych stron dzieci, a dla nauczycieli - czasem obfitującym w satysfakcję z pracy pedagogicznej.</div>
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek>img/rokszkolny2015-2016_big.jpg</okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Nowa oferta Poradni</tekst>
+        </tytuł>
+        <data>
+            31/08/2015
+        </data>
+        <obrazek>
+            <plik>img/news-oferta.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                Zapraszamy do zapoznania się z ofertą Poradni na rok szkolny 2015/2016. Pełny jej opis zawarliśmy w zakładce <a href='subpages/zadania.html'>"Oferta"</a>.<br>Można także pobrać plik "pdf" z całą ofertą Poradni <a href='download/ofertaPoradni_2015-2016.pdf' download> >> klikając tutaj <<</a>.
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- ################################################################## -->
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Konferencja powiatowa</tekst>
+        </tytuł>
+        <data>
+            17/08/2015
+        </data>
+        <obrazek>
+            <plik>img/news-konferencja01.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                Starostwo Powiatowe w Białogardzie oraz Poradnia Psychologiczno-Pedagogiczna w Białogardzie serdecznie zapraszają nauczycieli, wychowawców, rodziców i wszystkich zainteresowanych do udziału w II Powiatowej Konferencji nt.: <div style="font-weight: bold; margin:10px; text-align: center;">"Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?"</div><p>która odbędzie się w dniu <strong>12.02.2016r</strong>. (ostatni piątek ferii zimowych) w Centrum Kultury i Spotkań Europejskich w Białogardzie, ul. 1-go Maja 15.</p><a href="subpages/pomocDlaRodzicówKonferencja.html">>> Kliknij tutaj <<</a> dla uzyskania dalszych informacji.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek>img/depresja-plakat-big.jpg</okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+</aktualności>
+

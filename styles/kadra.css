@@ -1,0 +1,51 @@
+.welcomeTitle {
+            font-size: 1.4em;
+            padding: 10px 35px 10px 35px;
+            margin: 0px;
+            margin-left: 20%;
+            
+            background-color: #89AB93;
+            color: white;
+            border-radius: 0px 7px 0px 7px;
+            border-left: 1px solid gray;
+            border-right: 1px solid gray;
+            border-bottom: 1px solid gray;
+            float: right;
+            display: inline-block;
+            text-align: center;
+            background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAGElEQVQImWPoXD35P0Pn6sn/GSZsWAAhAG13C0stqlL5AAAAAElFTkSuQmCC) 
+                repeat;
+        }
+.tableWrapper {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    overflow: auto;
+    width: 80%;
+    margin: 0 auto;
+    overflow: auto; 
+}
+table {
+    border-collapse: collapse;
+    border-bottom: 4px solid #89AB93;
+    width: 100%;
+}
+tr.odd {
+    background-color: #E7E7E7;
+}
+th {
+    background-color: #89AB93;
+}
+td, th {
+   
+    padding: 10px;
+}
+td ul {
+    padding-left: 10px;
+}
+
+th {
+    border-bottom: 2px solid gray;
+    color: white;
+    font-weight: normal;
+    font-style: italic;
+}
