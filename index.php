@@ -18,6 +18,7 @@
     <link href="styles/homepage.css" rel="stylesheet">
     <link href="styles/index.css" rel="stylesheet">
     <link href="styles/lightbox.css" rel="stylesheet">
+    <link href="styles/common.css" rel="stylesheet">
 
     <style>
         .img-center {
@@ -337,12 +338,14 @@
     <!-- <script type="text/javascript" src="scripts/news.js"></script> -->
     <script type="text/javascript" src="scripts/events.js"></script>
     <script type="text/javascript" src="scripts/past-events.js"></script>
+
+    
     
     <script src="https://maps.googleapis.com/maps/api/js"></script>
     <script>
         function initialize() {
             var mapCanvas=document.getElementById('map');
-            var pos = new google.maps.LatLng(54.009630, 15.983089)
+            var pos = new google.maps.LatLng(54.009630, 15.983089);
             var mapOptions = {
                   center: pos,
                   zoom: 15,
@@ -355,9 +358,10 @@
                 position: pos,
                 map: map,
                 title: 'Poradnia Psychologiczno-Pedagogiczna\nul. Dworcowa 2\n78-200 Białogard'
-            })
+            }) 
         }
-        google.maps.event.addDomListener(window, 'load', initialize);
+        // google.maps.event.addDomListener(window, 'load', initialize);
+
 
         function attach(img) {
         var elm = document.getElementById("lightboxCanvas");
@@ -373,6 +377,8 @@ function attachHTML(content) {
         elm2.innerHTML = '';
 }
     </script>
+
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQGfqQzuQ09iqS32nZnfoCfoO9s1UoJKU&callback=initialize" type="text/javascript"></script>
 
 </body>
 </html>

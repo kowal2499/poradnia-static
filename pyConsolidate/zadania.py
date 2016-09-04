@@ -10,97 +10,103 @@ class Zadania(Template):
         self.database = {
             u'pomocGrupoweWiekSzkolny.html':
                 [u"Zajęcia grupowe dla dzieci w wieku szkolnym",
-                 u"""<p>Oferta zajęć grupowych dla dzieci w wieku szkolnym w roku szkolnym 2015/2016</p>
+                 u"""<p>Oferta zajęć grupowych dla dzieci w wieku szkolnym w roku szkolnym 2016/2017</p>
                                 <table>
                                     <tr><th>Lp.</th><th>Nazwa zajęć</th><th>Prowadzące</th></tr>
                                     <tr>
                                         <td>1.</td>
                                         <td><a href='szkPomocGrupoweSherborne.html'>Zajęcia prowadzone Metodą Ruchu Rozwijającego Weroniki Sherborne - ilość grup wg potrzeb.</a></td>
-                                        <td><ul><li>M. Lis</li><li>M. Hewelt</li><li>S. Cąkała</li><li>A. Gudańska-Walkowska</li><li>M. Jonko</li></ul></td>
+                                        <td><ul><li>M. Hewelt</li><li>S. Sokołowska</li><li>A. Gudańska-Walkowska</li><li>M. Jonko</li></ul></td>
                                     </tr>
 
                                     <tr class="odd">
                                         <td>2.</td>
                                         <td>Zajęcia stymulujące ogólny rozwój dla dzieci o zaburzonym lub opóźnionym rozwoju – ilość grup wg potrzeb.</td>
-                                        <td><ul><li>A. Politowska–Kowal</li><li>M. Hewelt</li><li>A. Gudańska–Walkowska</li><li>J. Piotrowicz</li><li>S. Cąkała</li></ul></td>
+                                        <td><ul><li>A. Politowska–Kowal</li><li>M. Hewelt</li><li>S. Sokołowska</li></ul></td>
                                     </tr>
 
                                     <tr>
                                         <td>3.</td>
                                         <td><a href="szkPomocGrupoweDobryStart1.html">Metoda Dobrego Startu" dla uczniów kl. I szkoły podstawowej.</a></td>
-                                        <td><ul><li>M. Jakubowska</li><li>A. Politowska–Kowal</li><li>M. Jonko</li><li>E. Cieszko-Kowalska  </li></ul></td>
+                                        <td><ul><li>M. Jakubowska</li><li>A. Gudańska-Walkowska</li></ul></td>
                                     </tr>
 
                                     <tr class="odd">
                                         <td>4.</td>
-                                        <td><a href="szkPomocGrupoweDobryStart2.html">"Metoda Dobrego Startu" dla uczniów kl. I szkoły podstawowej (o obniżonych możliwościach intelektualnych).</a></td>
-                                        <td><ul><li>A. Politowska-Kowal</li><li>S. Cąkała</li><li>J. Piotrowicz</li></ul></td>
+                                        <td><a href="pomocGrupoweTerapiaReki.html">Terapia ręki dla dzieci 5-7 letnich. <span class='attention'>NOWOŚĆ !</span></a></td>
+                                        <td><ul><li>M. Hewelt</li></ul></td>
                                     </tr>
 
                                     <tr>
                                         <td>5.</td>
-                                        <td><a href="pomocGrupoweTwórczeMyślenie.html">Trening twórczego myślenia – dla uczniów kl. IV–VI szkoły podstawowej</a></td>
-                                        <td><ul><li>E. Cieszko–Kowalska</li><li>S. Cąkała</li></ul></td>
+                                        <td><a href="pomocGrupoweBystryUmysl.html">"Bystry umysł" - zajęcia doskonalące koncentrację uwagi dla klas II-IV szkoły podstawowej.<span class='attention'>NOWOŚĆ !</span></a></td>
+                                        <td><ul><li>M. Hewelt</li><li>A. Gudańska-Walkowska</li></ul></td>
                                     </tr>
 
                                     <tr class="odd">
                                         <td>6.</td>
-                                        <td><a href="pomocGrupoweKompetencjeSpołeczne.html">Zajęcia podnoszące kompetencje społeczne – dla uczniów z klas I-III <span class='attention'>NOWOŚĆ !</span> i IV-VI szkoły podstawowej.</a></td>
-                                        <td><ul><li>E. Cieszko–Kowalska</li><li>S. Cąkała</li></ul></td>
+                                        <td><a href="pomocGrupoweTwórczeMyślenie.html">Trening twórczego myślenia – dla uczniów kl. IV–VI szkoły podstawowej</a></td>
+                                        <td><ul><li>E. Cieszko–Kowalska</li></ul></td>
                                     </tr>
 
-                                    <tr>
+                                    <tr class="">
                                         <td>7.</td>
+                                        <td><a href="pomocGrupoweKompetencjeSpołeczne.html">Zajęcia podnoszące kompetencje społeczne (socjoterapeutyczne) – dla uczniów z klas III-VI szkoły podstawowej.</a></td>
+                                        <td><ul><li>E. Cieszko–Kowalska</li><li>S. Sokołowska</li></ul></td>
+                                    </tr>
+
+                                    <tr class="odd">
+                                        <td>8.</td>
                                         <td>Zajęcia dla dzieci jąkających się.</td>
                                         <td><ul><li>H. Górzyńska</li></ul></td>
                                     </tr>
 
-                                   <tr class="odd">
-                                        <td>8.</td>
-                                        <td>Zajęcia stymulujące ogólny rozwój dla dzieci o zaburzonym rozwoju z wykorzystaniem arteterapii – kl. III-V szkoły podstawowej.</td>
-                                        <td><ul><li>A. Gudańska - Walkowska</li></ul></td>
-                                    </tr>
-
-                                    <tr>
+                                   <tr class="">
                                         <td>9.</td>
-                                        <td><a href="szkPomocGrupoweBajkoterapia.html">Bajkoterapia kl. 0-II <span class='attention'>NOWOŚĆ !</span> i III-IV szkoły podstawowej.</a></td>
-                                        <td><ul><li>M. Hewelt</li></ul></td>
+                                        <td>Zajęcia stymulujące ogólny rozwój dla dzieci o zaburzonym rozwoju z wykorzystaniem arteterapii – kl. IV-VI szkoły podstawowej.</td>
+                                        <td><ul><li>A. Gudańska - Walkowska</li></ul></td>
                                     </tr>
 
                                     <tr class="odd">
                                         <td>10.</td>
-                                        <td><a href="szkPomocGrupoweSensoryka.html">Zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 6 lat.</a></td>
+                                        <td><a href="szkPomocGrupoweBajkoterapia.html">Bajkoterapia kl. 0-II i III-IV szkoły podstawowej.</a></td>
                                         <td><ul><li>M. Hewelt</li></ul></td>
                                     </tr>
 
-                                    <tr>
+                                    <tr class="">
                                         <td>11.</td>
-                                        <td>Zajęcia stymulujące funkcje słuchowe u dzieci słabosłyszących <span class='attention'>NOWOŚĆ !</span></td>
-                                        <td><ul><li>A. Politowska–Kowal</li><li>J. Piotrowicz</li></ul></td>
+                                        <td><a href="szkPomocGrupoweSensoryka.html">Zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 7 lat.</a></td>
+                                        <td><ul><li>M. Hewelt</li><li>A. Gudańska - Walkowska</li></ul></td>
                                     </tr>
 
                                     <tr class="odd">
                                         <td>12.</td>
-                                        <td>Zajęcia stymulujące funkcje wzrokowe u dzieci słabowidzących <span class='attention'>NOWOŚĆ !</span></td>
-                                        <td><ul><li>M. Jakubowska</li></ul></td>
+                                        <td>Zajęcia stymulujące funkcje słuchowe u dzieci słabosłyszących</td>
+                                        <td><ul><li>A. Politowska–Kowal</li></ul></td>
                                     </tr>
 
-                                    <tr>
+                                    <tr class="">
                                         <td>13.</td>
-                                        <td><a href="pomocGrupoweZajeciaKorekcyjnoKompensacyjne.html">Zajęcia korekcyjno – kompensacyjne dla uczniów ze specyficznymi trudnościami w uczeniu się:<ul><li>klasy I-III szkoły podstawowej</li><li>klasy IV-VI szkoły podstawowej</li><li>klasy I-III gimnazjum</li></ul></a></td>
-                                        <td><ul><li>A. Politowska–Kowal</li><li>M. Hewelt</li></ul></td>
+                                        <td>Zajęcia stymulujące funkcje wzrokowe u dzieci słabowidzących</td>
+                                        <td><ul><li>M. Jakubowska</li><li>A. Politowska–Kowal</li></ul></td>
                                     </tr>
 
                                     <tr class="odd">
                                         <td>14.</td>
+                                        <td><a href="pomocGrupoweZajeciaKorekcyjnoKompensacyjne.html">Zajęcia korekcyjno – kompensacyjne dla uczniów ze specyficznymi trudnościami w uczeniu się:<ul><li>klasy I-III szkoły podstawowej</li><li>klasy IV-VI szkoły podstawowej</li><li>klasy I-III gimnazjum</li></ul></a></td>
+                                        <td><ul><li>A. Politowska–Kowal</li><li>M. Hewelt</li></ul></td>
+                                    </tr>
+
+                                    <tr class="">
+                                        <td>15.</td>
                                         <td><a href="pomocGrupoweMatematyka.html">Matematyka bez trudności – zajęcia terapeutyczne dla dzieci z trudnościami w nauce matematyki – kl. IV–VI szkoły podstawowej</a></td>
                                         <td><ul><li>A. Gudańska - Walkowska</li></ul></td>
                                     </tr>
 
-                                    <tr>
-                                        <td>15.</td>
+                                    <tr class="odd">
+                                        <td>16.</td>
                                         <td><a href='szkPomocGrupoweGrupaWsparcia.html'>Grupa wsparcia i rozwoju osobistego dla młodzieży</a></td>
-                                        <td><ul><li>S. Cąkała</li><li>M. Jakubowska</li></ul></td>
+                                        <td><ul><li>S. Sokołowska</li></ul></td>
                                     </tr>
                                 </table>
                   """,
@@ -112,20 +118,20 @@ class Zadania(Template):
                 [
                   u"Zajęcia grupowe dla dzieci w wieku przedszkolnym:",
                   u"""
-                    <p>Oferta zajęć grupowych dla dzieci w wieku przedszkolnym w roku szkolnym 2015/2016</p>
+                    <p>Oferta zajęć grupowych dla dzieci w wieku przedszkolnym w roku szkolnym 2016/2017</p>
 
                     <table>
                         <tr><th>Lp.</th><th>Nazwa zajęć</th><th>Prowadzące</th></tr>
                         <tr>
                             <td>1.</td>
                             <td><a href='pomocGrupoweSherborne.html'>Zajęcia prowadzone Metodą Ruchu Rozwijającego Weroniki Sherborne - ilość grup wg potrzeb.</a></td>
-                            <td><ul><li>M. Lis</li><li>M. Hewelt</li><li>S. Cąkała</li><li>A. Gudańska-Walkowska</li><li>M. Jonko</li></ul></td>
+                            <td><ul><li>M. Hewelt</li><li>S. Sokołowska</li><li>A. Gudańska-Walkowska</li><li>A. Politowska-Kowal</li></ul></td>
                         </tr>
 
                         <tr class="odd">
                             <td>2.</td>
                             <td>Zajęcia stymulujące ogólny rozwój dla dzieci o zaburzonym lub opóźnionym rozwoju – ilość grup wg potrzeb.</td>
-                            <td><ul><li>A. Politowska–Kowal</li><li>M. Hewelt</li><li>A. Gudańska–Walkowska</li><li>J. Piotrowicz</li><li>S. Cąkała</li></ul></td>
+                            <td><ul><li>A. Politowska–Kowal</li><li>M. Hewelt</li><li>S. Sokołowska</li></ul></td>
                         </tr>
 
                         <tr>
@@ -136,26 +142,26 @@ class Zadania(Template):
 
                         <tr class="odd">
                             <td>4.</td>
-                            <td><a href="pomocGrupowePercepcjaSłuchowa.html">Zajęcia rozwijające percepcję słuchową, przygotowujące do nauki czytania dzieci 5–letnich.</a></td>
+                            <td><a href="pomocGrupowePercepcjaSłuchowa.html">Zajęcia rozwijające percepcję słuchową, przygotowujące do nauki czytania dzieci 6–letnich.</a></td>
                             <td><ul><li>H. Górzyńska</li></ul></td>
                         </tr>
 
                         <tr>
                             <td>5.</td>
-                            <td><a href="pomocGrupoweSłuchamiOpowiadam.html">"Słucham i opowiadam" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 5 letnich.</a></td>
-                            <td><ul><li>M. Jonko</li></ul></td>
+                            <td><a href="pomocGrupoweSłuchamiOpowiadam.html">"Bystrzaki - przedszkolaki" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6 letnich <span class='attention'>NOWOŚĆ !</span></a></td>
+                            <td><ul><li>M. Jonko</li><li>M. Waiszewska</li></ul></td>
                         </tr>
 
                         <tr class="odd">
                             <td>6.</td>
-                            <td><a href="pomocGrupoweDobryStart.html">"Metoda Dobrego Startu" dzieci 5–letnich.</a></td>
-                            <td><ul><li>A. Gudańska–Walkowska</li><li>S. Cąkała</li></ul></td>
+                            <td><a href="pomocGrupoweDobryStart.html">"Metoda Dobrego Startu" dzieci 6–letnich.</a></td>
+                            <td><ul><li>S. Sokołowska</li></ul></td>
                         </tr>
 
                         <tr>
                             <td>7.</td>
-                            <td><a href="pomocGrupoweDobryStartOdr.html">"Metoda Dobrego Startu" dla dzieci odroczonych od obowiązku szkolnego. <span class='attention'>NOWOŚĆ !</span></a></td>
-                            <td><ul><li>M. Jakubowska</li><li>A. Gudańska-Walkowska</li></ul></td>
+                            <td><a href="pomocGrupoweTerapiaReki2.html">Terapia ręki dla dzieci 5-7 letnich<span class='attention'>NOWOŚĆ !</span></a></td>
+                            <td><ul><li>M. Hewelt</li></ul></td>
                         </tr>
 
                         <tr class="odd">
@@ -166,32 +172,26 @@ class Zadania(Template):
 
                         <tr>
                             <td>9.</td>
-                            <td><a href="pomocGrupoweBajkoterapia.html">Bajkoterapia kl. 0-II szkoły podstawowej. <span class='attention'>NOWOŚĆ !</span></a></td>
+                            <td><a href="pomocGrupoweBajkoterapia.html">Bajkoterapia kl. 0-I szkoły podstawowej.</a></td>
                             <td><ul><li>M. Hewelt</li></ul></td>
                         </tr>
 
                         <tr class="odd">
                             <td>10.</td>
-                            <td><a href="pomocGrupoweSensoryka.html">Zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 6 lat.</a></td>
-                            <td><ul><li>M. Hewelt</li></ul></td>
+                            <td><a href="pomocGrupoweSensoryka.html">Zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 7 lat.</a></td>
+                            <td><ul><li>M. Hewelt</li><li>A. Gudańska-Walkowska</li></ul></td>
                         </tr>
 
                         <tr>
                             <td>11.</td>
-                            <td>Zajęcia stymulujące funkcje słuchowe u dzieci słabosłyszących. <span class='attention'>NOWOŚĆ !</span></td>
-                            <td><ul><li>A. Politowska–Kowal</li><li>J. Piotrowicz</li></ul></td>
+                            <td>Zajęcia stymulujące funkcje słuchowe u dzieci słabosłyszących.</td>
+                            <td><ul><li>A. Politowska–Kowal</li></ul></td>
                         </tr>
 
                         <tr class="odd">
                             <td>12.</td>
-                            <td>Zajęcia stymulujące funkcje wzrokowe u dzieci słabowidzących. <span class='attention'>NOWOŚĆ !</span></td>
-                            <td><ul><li>M. Jakubowska</li></ul></td>
-                        </tr>
-
-                        <tr>
-                            <td>13.</td>
-                            <td><a href="pomocGrupoweLepiejGloskuje.html">Zajęcia \"Lepiej głoskuję, lepiej opowiadam\" – stymulujące funkcje słuchowe dzieci 5-letnich. <span class='attention'>NOWOŚĆ !</span></a></td>
-                            <td><ul><li>M.&nbsp;Weiszewska</li></ul></td>
+                            <td>Zajęcia stymulujące funkcje wzrokowe u dzieci słabowidzących.</td>
+                            <td><ul><li>M. Jakubowska</li><li>A. Politowska–Kowal</li></ul></td>
                         </tr>
 
 
@@ -210,6 +210,7 @@ class Zadania(Template):
                     <li><a href="pomocGrupowe.html">zajęcia grupowe na terenie poradni,</a></li>
                     <li><a href="pomocWczesnyRozwój.html">wczesne wspomaganie rozwoju na terenie poradni,</a></li>
                     <li><a href="pomocWarsztaty.html">zajęcia warsztatowe na terenie szkół.</a></li>
+                    <li><a href="pomocFerie.html">"FERIE Z PORADNIĄ" <span class='attention'>NOWOŚĆ !</span></a></li>
                     </ul>
                     """,
                     u"""
@@ -577,7 +578,7 @@ class Zadania(Template):
                         <h2>Materiały do pobrania</h2>
                         <div class="download">
                             <ul>
-                                <li><a href='../download/PROCEDURY DOTYCZĄCE KWALIFIKOWANIA ORGANIZOWANIA.doc' download>Procedury dotyczące kwalifikowania, organizowania grupowych zajęć specjalistycznych i korzystania z nich na terenie Poradni Psychologiczno-Pedagogicznej w Bałogardzie – zobacz (dokument Word)</a></li>
+                                <li><a href='../download/Procedury dotyczące kwalifikowania, organizowania i korzystania z zajęć specjalistycznych na terenie Poradni Psychologiczno-Pedagogicznej w Białogardzie.doc' download>Procedury dotyczące kwalifikowania, organizowania grupowych zajęć specjalistycznych i korzystania z nich na terenie Poradni Psychologiczno-Pedagogicznej w Bałogardzie – zobacz (dokument Word)</a></li>
                                 <li><a href='../download/wniosek o objęcie dziecka terapią.doc' download>Wniosek o objęcie dziecka terapią – zobacz (dokument Word)</a></li>
                             </ul>
                         </div>
@@ -646,7 +647,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweSensoryka.html':
                 [
-                    u"Zajęcia usprawniające sensorykę i rozwój ogólny",
+                    u"Zajęcia usprawniające sensorykę i rozwój ogólny w wieku od 2 do 7 lat",
                     u"""
                     <!--<div class="grupoweDetale">
                         <p>Prowadzące:</p>
@@ -673,7 +674,7 @@ class Zadania(Template):
                 ],
     u'szkPomocGrupoweSensoryka.html':
                 [
-                    u"Zajęcia usprawniające sensorykę i rozwój ogólny",
+                    u"Zajęcia usprawniające sensorykę i rozwój ogólny w wieku od 2 do 7 lat",
                     u"""
                     <!--<div class="grupoweDetale">
                         <p>Prowadzące:</p>
@@ -700,7 +701,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupowePercepcjaSłuchowa.html':
                 [
-                    u"Zajęcia grupowe rozwijające percepcję słuchową u dzieci 5–letnich",
+                    u"Zajęcia rozwijające percepcję słuchową, przygotowujące do nauki czytania dzieci 6–letnich.",
                     u"""
                     <!--<div class="grupoweDetale">
                         <p>Prowadzące: H. Górzyńska</p>
@@ -724,7 +725,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweDobryStart.html':
                 [
-                    u"Metoda Dobrego Startu dla dzieci 5-letnich",
+                    u"Metoda Dobrego Startu dla dzieci 6-letnich",
                     u"""
                             <!--<div class="grupoweDetale">
                                 <p>Prowadzące: A. Gudańska-Walkowska, S. Cąkała</p>
@@ -866,7 +867,7 @@ class Zadania(Template):
 
     u'pomocGrupoweBajkoterapia.html':
                 [
-                    u"Bajkoterapia",
+                    u"Bajkoterapia dla dzieci kl. 0-I szkoły podstawowej",
                     u"""
                         <!--<div class="grupoweDetale">
                             <p>Prowadzące: M. Hewelt</p>
@@ -893,13 +894,8 @@ class Zadania(Template):
                 ],
     u'szkPomocGrupoweBajkoterapia.html':
                 [
-                    u"Bajkoterapia",
+                    u"Bajkoterapia dla dzieci klas 0-I i II-III szkoły podstawowej",
                     u"""
-                        <!--<div class="grupoweDetale">
-                            <p>Prowadzące: M. Hewelt</p>
-                            <p>Termin zajęć: środa godz.</p>
-                            <p>Miejsce: PPP Białogard, gabinet nr , parter</p>
-                        </div>-->
                         <p>Bajkoterapia to - mówiąc najprościej – terapia przez bajki. Terapeutyczne opowiadania pomagają uporać się z dziecięcymi lękami i wątpliwościami. Wyjaśniają istotę zachowań uznawanych przez społeczeństwo. Bajki dotykają ważnych obszarów takich, jak zazdrość i odwaga, złość, tolerancja, wdzięczność, rywalizacja między rówieśnikami, agresja, lęk i wiele innych. Dla szkraba są wyjątkowo bezpieczne gdyż ma ona możliwość stawienia czoła problemom, które przeżywają zwierzątka, misie, rycerze lub inni bohaterowie. Dziecko identyfikuje się z tym, który w jakiś sposób jest mu najbliższy. Robi to jednak zupełnie nieświadomie dzięki czemu nie czuje się „przyciskane”, kontrolowane lub zmuszane do wynurzeń. W taki sposób znajduje zrozumienie, czuje, że nie jest samo, doświadcza rozwiązania i ma szansę zdecydować czy ono mu odpowiada. Często próbuje tego samego rozwiązania w świecie realnym.</p>
                         <h2>Cele terapii</h2>
                         <ul>
@@ -920,7 +916,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweKompetencjeSpołeczne.html':
                 [
-                    u"Zajęcia podnoszące kompetencje społeczne – dla uczniów z klas I-III i IV-VI szkoły podstawowej.",
+                    u"Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. III - VI szkoły podstawowej",
                     u"""
                         <!--<div class="grupoweDetale">
                             <p>Prowadzące: E. Cieszko-Kowalska, S. Cąkała</p>
@@ -945,7 +941,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweTwórczeMyślenie.html':
                 [
-                    u"Trening twórczego myślenia",
+                    u"Trening twórczego myślenia dla uczniów klas IV-VI szkoły podstawowej",
                     u"""
                         <!--<div class="grupoweDetale">
                             <p>Prowadząca: E. Cieszko-Kowalska</p>
@@ -969,13 +965,9 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweSłuchamiOpowiadam.html':
                 [
-                    u"Słucham i opowiadam",
+                    u"\"Bystrzaki - przedszkolaki\" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6 letnich <span class='attention'>NOWOŚĆ !</span>",
                     u"""
-                        <!--<div class="grupoweDetale">
-                            <p>Prowadzące:</p>
-                            <p>Termin zajęć:</p>
-                            <p>Miejsce:</p>
-                        </div>-->
+                        
                         <h2>Cele</h2>
                         <ul>
                             <li>stymulowanie i usprawnianie percepcji słuchowej oraz wspieranie rozwoju psychoruchowego,</li>
@@ -1037,7 +1029,7 @@ class Zadania(Template):
 
                     <tr>
                         <td>1.</td>
-                        <td>"Jestem uczniem" - zajęcia integracyjne dla klas I szkoły podstawowej <span class='attention'>NOWOŚĆ !</span></td>
+                        <td>"Jestem uczniem" - zajęcia integracyjne</td>
                         <td>kl. I szkoły podstawowej</td>
                     </tr>
                     <tr class="odd">
@@ -1045,73 +1037,68 @@ class Zadania(Template):
                         <td>Komunikacja interpersonalna</td>
                         <td>kl. IV-VI szkoły podstawowej, gimnazjum</td>
                     </tr>
-                    <tr>
+                    <tr class="">
                         <td>3.</td>
-                        <td>Asertywność</td>
-                        <td>gimnazjum</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>4.</td>
                         <td>Jak sobie radzić ze stresem?</td>
                         <td>gimnazjum, szkoła ponadgimnazjalna</td>
                     </tr>
-                    <tr>
-                        <td>5.</td>
-                        <td>Doceń siebie – czyli jak wzmacniać poczucie własnej wartości? <span class='attention'>NOWOŚĆ !</span></td>
+                    <tr class="odd">
+                        <td>4.</td>
+                        <td>Doceń siebie – czyli jak wzmacniać poczucie własnej wartości?</td>
                         <td>kl. IV-VI szkoły podstawowej</td>
                     </tr>
-                    <tr class="odd">
-                        <td>6.</td>
+                    <tr class="">
+                        <td>5.</td>
                         <td>Jak radzić sobie w sytuacjach kryzysowych?</td>
                         <td>gimnazjum, szkoła ponadgimnazjalna</td>
                     </tr>
-                    <tr>
-                        <td>7.</td>
+                    <tr class="odd">
+                        <td>6.</td>
                         <td>Trening twórczego myślenia</td>
                         <td>kl. III-VI szkoły podstawowej</td>
                     </tr>
-                    <tr class="odd">
-                        <td>8.</td>
+                    <tr class="">
+                        <td>7.</td>
                         <td>Zaburzenia odżywiania – anoreksja, bulimia</td>
                         <td>gimnazjum, szkoła ponadgimnazjalna</td>
                     </tr>
-                    <tr>
-                        <td>9.</td>
+                    <tr class="odd">
+                        <td>8.</td>
                         <td>Jak radzić sobie z własną złością?</td>
                         <td>kl. IV-VI szkoły podstawowej, kl. I gimnazjum</td>
                     </tr>
-                    <tr class="odd">
-                        <td>10.</td>
+                    <tr class="">
+                        <td>9.</td>
                         <td>Internet – fascynacja czy zagrożenie?</td>
                         <td>kl. IV-VI szkoły podstawowej</td>
                     </tr>
-                    <tr>
-                        <td>11.</td>
+                    <tr class="odd">
+                        <td>10.</td>
                         <td>Gry komputerowe – grać czy nie grać?</td>
                         <td>kl. IV-VI szkoły podstawowej</td>
                     </tr>
-                    <tr class="odd">
-                        <td>12.</td>
+                    <tr class="">
+                        <td>11.</td>
                         <td>"Potrafię się uczyć" - aktywne metody uczenia się</td>
                         <td>kl. V-VI szkoły podstawowej</td>
                     </tr>
-                    <tr>
-                        <td>13.</td>
+                    <tr class="odd">
+                        <td>12.</td>
                         <td>Samookaleczenia- moda czy coś więcej?</td>
                         <td>kl. V-VI szkoły podstawowej, gimnazjum</td>
                     </tr>
-                    <tr class="odd">
-                        <td>14.</td>
+                    <tr class="">
+                        <td>13.</td>
                         <td>Zajęcia zawodoznawcze "Kim być?"</td>
                         <td>dla uczniów kl. III gimnazjum</td>
                     </tr>
-                    <tr>
-                        <td>15.</td>
-                        <td>Zajęcia zawodoznawcze "Planuję przyszłość"<span class='attention'>NOWOŚĆ !</span></td>
+                    <tr class="odd">
+                        <td>14.</td>
+                        <td>Zajęcia zawodoznawcze "Planuję przyszłość"</td>
                         <td>szkoła ponadgimnazjalna</td>
                     </tr>
-                    <tr class="odd">
-                        <td>16.</td>
+                    <tr class="">
+                        <td>15.</td>
                         <td>Inne w miarę potrzeb szkół w celu rozwiązywania problemów zaistniałych w klasie</td>
                         <td>szkoła podstawowa, gimnazjum, szkoła ponadgimnazjalna</td>
                     </tr>
@@ -1126,6 +1113,19 @@ class Zadania(Template):
                     </script>
                     """
                 ],
+
+    u'pomocFerie.html':
+                [
+                    u""" "FERIE Z PORADNIĄ" <span class='attention'>NOWOŚĆ !</span> """,
+                    u""" <p>Zajęcia terapeutyczno-wychowawcze dla uczniów z kl. I-III szkoły podstawowej w terminie 13-17.02.2017 roku, w godzinach dopołudniowych. Szczegółowy program będzie podany w styczniu 2017 roku.</p>
+                         <p>Osobami odpowiedzialnymi za zajęcia są: E. Cieszko-Kowalska, M. Jonko, A. Politowska-Kowal.</p>""",
+                    u"""
+                        <script type="text/javascript">
+                            markSelected('ferie');
+                        </script>
+                    """
+
+                ],   
     u'pomocDlaRodziców.html':
                 [
                     u"Pomoc dla rodziców",
@@ -1134,9 +1134,10 @@ class Zadania(Template):
                     <ul>
                         <li><a href="pomocDlaRodzicówSzkoła.html">Szkoła dla Rodziców i Wychowawców,</a></li>
                         <li><a href="pomocDlaRodzicówPorady.html">Porady dla rodziców,</a></li>
-                        <li><a href="pomocDlaRodzicówDyżur.html">Dyżur pedagoga specjalnego, socjoterapeuty,</a></li>
-                        <li><a href="pomocDlaRodzicówByćMamą.html">Cykl zajęć pt. "Być mamą".</a></li>
-                        <li><a href="pomocDlaRodzicówKonferencja.html">Konferencja \"Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?\".</a></li>
+                        <li><a href="pomocDlaRodzicówDzieckoEmocje.html">Jak pomóc dziecku w radzeniu sobie z emocjami?,</a></li>
+                        <!-- <li><a href="pomocDlaRodzicówDyżur.html">Dyżur pedagoga specjalnego, socjoterapeuty,</a></li> -->
+                        <!-- <li><a href="pomocDlaRodzicówByćMamą.html">Cykl zajęć pt. "Być mamą".</a></li> -->
+                        <!-- <li><a href="pomocDlaRodzicówKonferencja.html">Konferencja \"Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?\".</a></li> -->
                         <li><a href="pomocDlaRodzicówPogadanki.html">Pogadanki, prelekcje, wasztaty na terenie szkół, przedszkoli i placówek,</a></li>
 
                     </ul>
@@ -1153,10 +1154,12 @@ class Zadania(Template):
                     u"""
                         <h1>Część I - "Jak mówić, żeby dzieci nas słuchały i jak słuchać, żeby dzieci do nas mówiły"</h1>
 
-                        W Poradni Psychologiczno-Pedagogicznej w Białogardzie prowadzone są dwie edycje zajęć <strong>"Szkoły dla Rodziców cz. I, czyli jak mówić, żeby dzieci nas słuchały
+                        W Poradni Psychologiczno-Pedagogicznej w Białogardzie prowadzone są zazwyczaj dwie edycje zajęć <strong>"Szkoły dla Rodziców cz. I, czyli jak mówić, żeby dzieci nas słuchały
                         i jak słuchać, żeby dzieci do nas mówiły"</strong> w I i II semestrze.
 
-                        <p>Zapisy można dokonywać w sekretariacie poradni przez cały rok.</p>
+                        <p>Sekretariat poradni przyjmuje zapisy przez cały rok.</p>
+
+                        <div class="attention" style="font-size: 1.3em;">Spotkanie organizacyjne odbędzie się 4 października 2016 roku o godz. 16:00 w Klubie Nauczyciela w budynku poradni.</div>
 
                         <h2>Cele treningu</h2>
                         <ul>
@@ -1243,169 +1246,238 @@ class Zadania(Template):
                     </script>
                     """
                 ],
-    u'pomocDlaRodzicówDyżur.html':
+    u'pomocDlaRodzicówDzieckoEmocje.html':
                 [
-                    u"Dyżur pedagoga specjalnego, socjoterapeuty",
+                    u"Jak pomóc dziecku w radzeniu sobie z emocjami?",
                     u"""
-                        <p>w godzinach od 12:00 do 18:00 w każdy wtorek na terenie poradni w celu porad, konsultacji, wsparcia – ustalenie terminu przez sekretariat poradni.</p>
+                     <p>Zajęcia dla rodziców dzieci uczęszczających na indywidualne zajęcia wspierające w poradni (3 spotkania) – na terenie poradni.</p>
+                     <p>Przewidywany termin rozpoczęcia zajęć: styczeń 2017 roku.</p>
                     """,
                     u"""
                     <script type="text/javascript">
-                        markSelected('pomocRodziceDyzur');
+                        markSelected('pomocRodziceEmocje');
                     </script>
                     """
                 ],
-    u'pomocDlaRodzicówByćMamą.html':
+    # u'pomocDlaRodzicówDyżur.html':
+    #             [
+    #                 u"Dyżur pedagoga specjalnego, socjoterapeuty",
+    #                 u"""
+    #                     <p>w godzinach od 12:00 do 18:00 w każdy wtorek na terenie poradni w celu porad, konsultacji, wsparcia – ustalenie terminu przez sekretariat poradni.</p>
+    #                 """,
+    #                 u"""
+    #                 <script type="text/javascript">
+    #                     markSelected('pomocRodziceDyzur');
+    #                 </script>
+    #                 """
+    #             ],
+    # u'pomocDlaRodzicówByćMamą.html':
+    #             [
+    #                 u"\"Być mamą\" – zajęcia dla mam dzieci od 1 do 4 roku życia",
+    #                 u"""
+    #                     <p>Podczas zajęć warsztatowych poruszane będą następujące zagadnienia: rola rodzica w życiu dziecka, etapy
+    #                     rozwojowe dziecka w pierwszych 4 latach (zadania rozwojowe, momenty krytyczne), a także aspekty wychowawcze tj. wspieranie dziecka
+    #                     w samodzielności, wyznaczanie mu granic, towarzyszenie w przeżywanych stanach emocjonalnych, pokazywanie dziecku konsekwencji jego działań, wspieranie
+    #                     i chwalenie podejmowanych wysiłków, lepsze panowanie nad własnymi emocjami w kontakcie z dzieckiem, by nie podejmować krzywdzących działań.</p>
+    #                     <h2>Jakie korzyści ma mama z warsztatów?</h2>
+    #                     <ul>
+    #                         <li>nawiązanie kontaktu z innymi mamami i wymienianie z nimi doświadczeń;</li>
+    #                         <li>doskonalenie wiedzy na temat rozwoju i potrzeb dziecka;</li>
+    #                         <li>zdobywanie umiejętności rozpoznawania emocji własnych i dziecka;</li>
+    #                         <li>rozwijanie wiedzy i umiejętności z zakresu wychowywania dziecka;</li>
+    #                         <li>poznanie nowych sposobów reagowania na trudności dziecka;</li>
+    #                         <li>zyskanie większej świadomości własnych kompetencji rodzicielskich w kontakcie z dzieckiem.</li>
+    #                     </ul>
+    #                     <p>Przewidywany termin rozpoczęcia zajęć: II semestr roku szkolnego 2015/2016. Na zajęcia zapisać się można w sekretariacie poradni lub u prowadzących: E. Cieszko-Kowalskiej i J. Piotrowicz.</p>
+    #                 """,
+    #                 u"""
+    #                 <script type="text/javascript">
+    #                     markSelected('pomocRodziceBycMama');
+    #                 </script>
+    #                 """
+    #             ],
+    # u'pomocDlaRodzicówKonferencja.html':
+    #             [
+    #                 u"Konferencja &quot;Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?&quot;",
+    #                 u"""
+    #                 <p>II Powiatowa Konferencja nt. &quot;Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?&quot; odbędzie się w dniu <strong>12.02.2016r.</strong> (ostatni piątek ferii zimowych) w Centrum Kultury i Spotkań Europejskich w Białogardzie przy ul. 1-go Maja 15.
+    #                     Wykłady prowadzone będą przez specjalistów- praktyków zajmujących się powyższą problematyką, między innymi wykład dotyczący ADHD wygłosi autorytet w tej dziedzinie – <strong>dr n. med.
+    #                     Artur Kołakowski</strong>.</p>
+    #                     <p>Szczegółowe informacje można uzyskać w sekretariacie poradni lub pod numerem telefonu 94 312 25 96, kom. 515 082-620.</p>
+    #                      <p>Przewidywany koszt konferencji wynosi 150zł (w tej sumie mieszczą się materiały konferencyjne oraz dwa posiłki). Wpłat można dokonywać od 02.01.2016r. do 05.02.2016r. na konto poradni:</p>
+    #                     <div style='text-align: center; padding-bottom: 15px;'>
+    #                      72 1240 3666 1111 0000 4344 7880
+    #                     </div>
+
+    #                     <h2>Program</h2>
+    #                     <style>
+    #                         .biography {
+    #                             padding-left: 30px;
+    #                             padding-top: 10px;
+    #                             font-size: 12px;
+    #                         }
+    #                         .timetable td {
+    #                             padding-top: 5px;
+    #                             padding-bottom: 5px;
+    #                         }
+
+    #                         .timetable {
+    #                             border-bottom: none !important;
+    #                         }
+    #                     </style>
+    #                         <table class="timetable">
+    #                             <tr><td>08.45 – 09.10</td><td>Rejestracja uczestników</td></tr>
+    #                             <tr class="odd"><td>09.15 – 09.30</td><td>Powitanie</td></tr>
+    #                             <tr><td>09.30 – 11.00</td><td>Wykład: &quot;Samookaleczenia&quot; - mgr Małgorzata Łuba</td></tr>
+    #                             <tr class="odd"><td>11.00 – 11.25</td><td>Przerwa kawowa</td></tr>
+    #                             <tr><td>11.25 – 12.30</td><td>Wykład: &quot;Depresja&quot; - mgr Małgorzata Łuba</td></tr>
+    #                             <tr class="odd"><td>12.30 – 14.00</td><td>Wykład: &quot;Nadpobudliwość psychoruchowa&quot; - dr n. med. Artur Kołakowski</td></tr>
+    #                             <tr><td>14.00 – 14.30</td><td>Przerwa obiadowa</td></tr>
+    #                             <tr class="odd"><td>14.30 – 16.00</td><td>Wykład: &quot;Autyzm&quot; - mgr Marta Wójcik</td></tr>
+    #                             <tr><td>16.00 – 16.15</td><td>Zakończenie konferencji</td></tr>
+    #                         </table>
+
+    #                     <h2>Prelegenci</h2>
+
+    #                         <strong>dr n. med. Artur Kołakowski</strong>
+    #                         <div class="biography">
+    #                             <ul>
+    #                                 <li>Specjalista psychiatra,</li>
+    #                                 <li>Specjalista psychiatrii dzieci i młodzieży,</li>
+    #                                 <li>Psychoterapeuta poznawczo – behawioralny,</li>
+    #                                 <li>Certyfikat Polskiego Towarzystwa Terapii Poznawczej i Behawioralnej (PTTTiB), certyfikat European Association of Cognitive Behavioural Therapy (EACBT),</li>
+    #                                 <li>Superwizor – dydaktyk PTTPiB.</li>
+    #                             </ul>
+    #                             <p>Pracuje z dziećmi i młodzieżą z problemami rozwojowymi, psychologicznymi i psychoterapeutycznymi, zarówno jako lekarz jak i psychoterapeuta, obecnie w Ośrodku Poza Schematami. Specjalizuje się w
+    #                             diagnozie i leczeniu zaburzeń rozwojowych u dzieci i młodzieży oraz psychoterapii nastolatków oraz osób dorosłych. Od kilku lat pracuje także w nurcie psychoterapii schematu. Od wielu lat uczy prowadzenia
+    #                             terapii poznawczo – behawioralnej – obecnie w Centrum Psychoterapii Poznawczo – Behawioralnej oraz w Fundacji Rozwoju Psychiatrii i Psychoterapii. Współautor między innymi następujących pozycji:</p>
+    #                             <ol><li>Artur Kołakowski, Tomasz Wolańczyk, Agnieszka Pisula, Magdalena Skotnicka, Anita Bryńska: <i>&quot;ADHD – zespół nadpobudliwości psychoruchowej – Przewodnik dla rodziców i wychowawców&quot;</i>, Gdańskie Wydawnictwo Psychologiczne, 2006</li>
+    #                             <li>Artur Kołakowski, Agnieszka Pisula – <i>&quot;Sposób na trudne dziecko, przyjazna terapia behawioralna – Niezbędnik dla rodziców, nauczycieli i terapeutów&quot;</i>, Gdańskie Wydawnictwo Psychologiczne, Sopot 2011, ISBN 978-83-7489-203-2</li>
+    #                             <li>Artur Kołakowski (Redakcja Naukowa): <i>&quot;Zaburzenia zachowania u dzieci. Teoria i praktyka.&quot;</i> GWP Sopot 2013</li></ol>
+    #                         </div>
+
+    #                         <strong>mgr Małgorzata Łuba</strong>
+    #                         <div class="biography">
+    #                             <ul>
+    #                                 <li>Psycholog (Wydział Psychologii UW), w trakcie szkolenia na psychoterapeutę poznawczo-behawioralnego,</li>
+    #                                 <li>Trener umiejętności psychologicznych, certyfikowany trener biznesu (House of Skills), trener metody odkrywania potencjału zawodowego &quot;Spadochron&quot; (FISE),</li>
+    #                                 <li>Członek zarządu Polskiego Towarzystwa Suicydologicznego, współzałożycielka nieformalnego Stowarzyszenia Pomocy Rodzinom i Bliskim Samobójców &quot;Tabu&quot;,</li>
+    #                                 <li>Zajmuje się psychologią praktyczną – prowadzi psychoterapię, rehabilitację neuropsychologiczną, grupy wsparciowe i rozwojowe oraz spotkania psychoedukacyjne,</li>
+    #                                 <li>Prowadzi zajęcia dydaktyczne na Akademii Pedagogiki Specjalnej, współpracuje m.in. z Centrum CBT-EDU, Instytutem Badań w Oświacie, Wydawnictwem &quot;Fraszka Edukacyjna&quot;,</li>
+    #                                 <li>Publikuje artykuły o terapeutycznej pracy z dziećmi i młodzieżą w &quot;Głosie Pedagogicznym&quot;.</li>
+    #                             </ul>
+    #                         </div>
+
+    #                         <strong>mgr Marta Wójcik</strong>
+    #                         <div class="biography">
+    #                             <ul>
+    #                                 <li>Psycholog, trener,</li>
+    #                                 <li>Terapeuta w Instytucie Wspierania Rozwoju Dziecka w Gdańsku (IWRD), który wszechstronnie pomaga dzieciom z autyzmem i ich rodzinom. IWRD uzyskał status pierwszej w Polsce i Europie repliki Princeton Child Development Institute w USA (jednej z najlepszych placówek terapeutycznych na świecie),</li>
+    #                                 <li>Dyrektor IWRD Niepublicznego Ośrodka Doskonalenia Nauczycieli, konsultant w Niepublicznej Poradni Psychologiczno-Pedagogicznej,</li>
+    #                                 <li>Prowadzi zajęcia na Studium Podyplomowym: &quot;Wczesne wspomaganie, edukacja i terapia dzieci i młodzieży z zaburzeniami rozwoju&quot; oraz wykłady i szkolenia z zakresu terapii behawioralnej dzieci z autyzmem dla nauczycieli i terapeutów na terenie całego kraju,</li>
+    #                                 <li>Studentka studiów doktoranckich z Analizy Behawioralnej na Oslo and Akershus University College of Applied Sciences (HiOA),</li>
+    #                                 <li>Współautorka następujących publikacji:
+    #                                     <ol>
+    #                                         <li>Budzińska A., Lubomirska A., Wójcik M., Krant, P. J., McClannahan L. (2014). <i>&quot;Use of scripts and scripts-fading procedure and activity schedule to develop spontaneous social interaction in three-year-old girl with autism.&quot;</i> Health Psychology Report, vo. 2(1), 2014</li>
+    #                                         <li>Budzinska A., Wojcik M. (2012). <i>&quot;Promoting the generalization of verbal behavior in autistic child.&quot;</i> Acta Neuropsychologica Nr 2 (10)</li>
+    #                                         <li>Budzińska A., Wójcik M. (2010). <i>&quot;Zespół Aspergera. Księga pytań i odpowiedzi.&quot;</i> Wydawnictwo Harmonia.</li>
+    #                                         <li>Budzińska A., Wójcik M. (2010). <i>&quot;Teaching verbal behaviors to a four-year-old autistic boy using techniques off Applied Behavior Analysis.&quot;</i> Acta Neuropsychologica, vol. 8, no. 2.</li>
+    #                                     </ol>
+
+    #                                 </li>
+    #                             </ul>
+    #                         </div>
+
+    #                     <h2>Media</h2>
+    #                     <img class="imgCenter" src="../img/depresja-plakat-big.jpg" />
+
+    #                 """,
+    #                 u"""
+    #                 <script type="text/javascript">
+    #                     markSelected('pomocRodziceKonferencja');
+    #                 </script>
+    #                 """
+    #             ],
+
+    u'pomocGrupoweBystryUmysl.html':
                 [
-                    u"\"Być mamą\" – zajęcia dla mam dzieci od 1 do 4 roku życia",
+                    u"\"Bystry umysł\" - zajęcia doskonalące koncentrację uwagi dla klas II-IV szkoły podstawowej. <span class='attention'>NOWOŚĆ !</span>",
                     u"""
-                        <p>Podczas zajęć warsztatowych poruszane będą następujące zagadnienia: rola rodzica w życiu dziecka, etapy
-                        rozwojowe dziecka w pierwszych 4 latach (zadania rozwojowe, momenty krytyczne), a także aspekty wychowawcze tj. wspieranie dziecka
-                        w samodzielności, wyznaczanie mu granic, towarzyszenie w przeżywanych stanach emocjonalnych, pokazywanie dziecku konsekwencji jego działań, wspieranie
-                        i chwalenie podejmowanych wysiłków, lepsze panowanie nad własnymi emocjami w kontakcie z dzieckiem, by nie podejmować krzywdzących działań.</p>
-                        <h2>Jakie korzyści ma mama z warsztatów?</h2>
+                        <p>"Bystry umysł" to zajęcia mające na celu rozwijanie procesów poznawczych, szczególnie koncentracji uwagi, a także: pamięci, myślenia logicznego i twórczego oraz umiejętności skutecznego uczenia się.</p>
+                    """,
+                    u""" 
+                        <script type="text/javascript">
+                            markSelected('szkPomocGrupoweDobryStart2');
+                        </script>
+                    """
+                ],
+
+    u'pomocGrupoweTerapiaReki.html':
+                [
+                    u"Terapia ręki dla dzieci 5-7 letnich <span class='attention'>NOWOŚĆ !</span>",
+                    u"""<h2>Cele:</h2>
                         <ul>
-                            <li>nawiązanie kontaktu z innymi mamami i wymienianie z nimi doświadczeń;</li>
-                            <li>doskonalenie wiedzy na temat rozwoju i potrzeb dziecka;</li>
-                            <li>zdobywanie umiejętności rozpoznawania emocji własnych i dziecka;</li>
-                            <li>rozwijanie wiedzy i umiejętności z zakresu wychowywania dziecka;</li>
-                            <li>poznanie nowych sposobów reagowania na trudności dziecka;</li>
-                            <li>zyskanie większej świadomości własnych kompetencji rodzicielskich w kontakcie z dzieckiem.</li>
+                            <li>usprawnianie małej motoryki, czyli precyzyjnych ruchów dłoni i palców,</li>
+                            <li>dostarczanie wrażeń dotykowych i poznawania dzięki nim różnych kształtów i struktur materiałów oraz nabywanie umiejętności ich rozróżniania.</li>
                         </ul>
-                        <p>Przewidywany termin rozpoczęcia zajęć: II semestr roku szkolnego 2015/2016. Na zajęcia zapisać się można w sekretariacie poradni lub u prowadzących: E. Cieszko-Kowalskiej i J. Piotrowicz.</p>
                     """,
-                    u"""
-                    <script type="text/javascript">
-                        markSelected('pomocRodziceBycMama');
-                    </script>
+                    u""" 
+                        <script type="text/javascript">
+                            markSelected('szkPomocGrupoweTerapiaReki');
+                        </script>
                     """
                 ],
-    u'pomocDlaRodzicówKonferencja.html':
+    u'pomocGrupoweTerapiaReki2.html':
                 [
-                    u"Konferencja &quot;Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?&quot;",
-                    u"""
-                    <p>II Powiatowa Konferencja nt. &quot;Depresja, samookaleczenia, ADHD, autyzm – jak pomóc?&quot; odbędzie się w dniu <strong>12.02.2016r.</strong> (ostatni piątek ferii zimowych) w Centrum Kultury i Spotkań Europejskich w Białogardzie przy ul. 1-go Maja 15.
-                        Wykłady prowadzone będą przez specjalistów- praktyków zajmujących się powyższą problematyką, między innymi wykład dotyczący ADHD wygłosi autorytet w tej dziedzinie – <strong>dr n. med.
-                        Artur Kołakowski</strong>.</p>
-                        <p>Szczegółowe informacje można uzyskać w sekretariacie poradni lub pod numerem telefonu 94 312 25 96, kom. 515 082-620.</p>
-                         <p>Przewidywany koszt konferencji wynosi 150zł (w tej sumie mieszczą się materiały konferencyjne oraz dwa posiłki). Wpłat można dokonywać od 02.01.2016r. do 05.02.2016r. na konto poradni:</p>
-                        <div style='text-align: center; padding-bottom: 15px;'>
-                         72 1240 3666 1111 0000 4344 7880
-                        </div>
-
-                        <h2>Program</h2>
-                        <style>
-                            .biography {
-                                padding-left: 30px;
-                                padding-top: 10px;
-                                font-size: 12px;
-                            }
-                            .timetable td {
-                                padding-top: 5px;
-                                padding-bottom: 5px;
-                            }
-
-                            .timetable {
-                                border-bottom: none !important;
-                            }
-                        </style>
-                            <table class="timetable">
-                                <tr><td>08.45 – 09.10</td><td>Rejestracja uczestników</td></tr>
-                                <tr class="odd"><td>09.15 – 09.30</td><td>Powitanie</td></tr>
-                                <tr><td>09.30 – 11.00</td><td>Wykład: &quot;Samookaleczenia&quot; - mgr Małgorzata Łuba</td></tr>
-                                <tr class="odd"><td>11.00 – 11.25</td><td>Przerwa kawowa</td></tr>
-                                <tr><td>11.25 – 12.30</td><td>Wykład: &quot;Depresja&quot; - mgr Małgorzata Łuba</td></tr>
-                                <tr class="odd"><td>12.30 – 14.00</td><td>Wykład: &quot;Nadpobudliwość psychoruchowa&quot; - dr n. med. Artur Kołakowski</td></tr>
-                                <tr><td>14.00 – 14.30</td><td>Przerwa obiadowa</td></tr>
-                                <tr class="odd"><td>14.30 – 16.00</td><td>Wykład: &quot;Autyzm&quot; - mgr Marta Wójcik</td></tr>
-                                <tr><td>16.00 – 16.15</td><td>Zakończenie konferencji</td></tr>
-                            </table>
-
-                        <h2>Prelegenci</h2>
-
-                            <strong>dr n. med. Artur Kołakowski</strong>
-                            <div class="biography">
-                                <ul>
-                                    <li>Specjalista psychiatra,</li>
-                                    <li>Specjalista psychiatrii dzieci i młodzieży,</li>
-                                    <li>Psychoterapeuta poznawczo – behawioralny,</li>
-                                    <li>Certyfikat Polskiego Towarzystwa Terapii Poznawczej i Behawioralnej (PTTTiB), certyfikat European Association of Cognitive Behavioural Therapy (EACBT),</li>
-                                    <li>Superwizor – dydaktyk PTTPiB.</li>
-                                </ul>
-                                <p>Pracuje z dziećmi i młodzieżą z problemami rozwojowymi, psychologicznymi i psychoterapeutycznymi, zarówno jako lekarz jak i psychoterapeuta, obecnie w Ośrodku Poza Schematami. Specjalizuje się w
-                                diagnozie i leczeniu zaburzeń rozwojowych u dzieci i młodzieży oraz psychoterapii nastolatków oraz osób dorosłych. Od kilku lat pracuje także w nurcie psychoterapii schematu. Od wielu lat uczy prowadzenia
-                                terapii poznawczo – behawioralnej – obecnie w Centrum Psychoterapii Poznawczo – Behawioralnej oraz w Fundacji Rozwoju Psychiatrii i Psychoterapii. Współautor między innymi następujących pozycji:</p>
-                                <ol><li>Artur Kołakowski, Tomasz Wolańczyk, Agnieszka Pisula, Magdalena Skotnicka, Anita Bryńska: <i>&quot;ADHD – zespół nadpobudliwości psychoruchowej – Przewodnik dla rodziców i wychowawców&quot;</i>, Gdańskie Wydawnictwo Psychologiczne, 2006</li>
-                                <li>Artur Kołakowski, Agnieszka Pisula – <i>&quot;Sposób na trudne dziecko, przyjazna terapia behawioralna – Niezbędnik dla rodziców, nauczycieli i terapeutów&quot;</i>, Gdańskie Wydawnictwo Psychologiczne, Sopot 2011, ISBN 978-83-7489-203-2</li>
-                                <li>Artur Kołakowski (Redakcja Naukowa): <i>&quot;Zaburzenia zachowania u dzieci. Teoria i praktyka.&quot;</i> GWP Sopot 2013</li></ol>
-                            </div>
-
-                            <strong>mgr Małgorzata Łuba</strong>
-                            <div class="biography">
-                                <ul>
-                                    <li>Psycholog (Wydział Psychologii UW), w trakcie szkolenia na psychoterapeutę poznawczo-behawioralnego,</li>
-                                    <li>Trener umiejętności psychologicznych, certyfikowany trener biznesu (House of Skills), trener metody odkrywania potencjału zawodowego &quot;Spadochron&quot; (FISE),</li>
-                                    <li>Członek zarządu Polskiego Towarzystwa Suicydologicznego, współzałożycielka nieformalnego Stowarzyszenia Pomocy Rodzinom i Bliskim Samobójców &quot;Tabu&quot;,</li>
-                                    <li>Zajmuje się psychologią praktyczną – prowadzi psychoterapię, rehabilitację neuropsychologiczną, grupy wsparciowe i rozwojowe oraz spotkania psychoedukacyjne,</li>
-                                    <li>Prowadzi zajęcia dydaktyczne na Akademii Pedagogiki Specjalnej, współpracuje m.in. z Centrum CBT-EDU, Instytutem Badań w Oświacie, Wydawnictwem &quot;Fraszka Edukacyjna&quot;,</li>
-                                    <li>Publikuje artykuły o terapeutycznej pracy z dziećmi i młodzieżą w &quot;Głosie Pedagogicznym&quot;.</li>
-                                </ul>
-                            </div>
-
-                            <strong>mgr Marta Wójcik</strong>
-                            <div class="biography">
-                                <ul>
-                                    <li>Psycholog, trener,</li>
-                                    <li>Terapeuta w Instytucie Wspierania Rozwoju Dziecka w Gdańsku (IWRD), który wszechstronnie pomaga dzieciom z autyzmem i ich rodzinom. IWRD uzyskał status pierwszej w Polsce i Europie repliki Princeton Child Development Institute w USA (jednej z najlepszych placówek terapeutycznych na świecie),</li>
-                                    <li>Dyrektor IWRD Niepublicznego Ośrodka Doskonalenia Nauczycieli, konsultant w Niepublicznej Poradni Psychologiczno-Pedagogicznej,</li>
-                                    <li>Prowadzi zajęcia na Studium Podyplomowym: &quot;Wczesne wspomaganie, edukacja i terapia dzieci i młodzieży z zaburzeniami rozwoju&quot; oraz wykłady i szkolenia z zakresu terapii behawioralnej dzieci z autyzmem dla nauczycieli i terapeutów na terenie całego kraju,</li>
-                                    <li>Studentka studiów doktoranckich z Analizy Behawioralnej na Oslo and Akershus University College of Applied Sciences (HiOA),</li>
-                                    <li>Współautorka następujących publikacji:
-                                        <ol>
-                                            <li>Budzińska A., Lubomirska A., Wójcik M., Krant, P. J., McClannahan L. (2014). <i>&quot;Use of scripts and scripts-fading procedure and activity schedule to develop spontaneous social interaction in three-year-old girl with autism.&quot;</i> Health Psychology Report, vo. 2(1), 2014</li>
-                                            <li>Budzinska A., Wojcik M. (2012). <i>&quot;Promoting the generalization of verbal behavior in autistic child.&quot;</i> Acta Neuropsychologica Nr 2 (10)</li>
-                                            <li>Budzińska A., Wójcik M. (2010). <i>&quot;Zespół Aspergera. Księga pytań i odpowiedzi.&quot;</i> Wydawnictwo Harmonia.</li>
-                                            <li>Budzińska A., Wójcik M. (2010). <i>&quot;Teaching verbal behaviors to a four-year-old autistic boy using techniques off Applied Behavior Analysis.&quot;</i> Acta Neuropsychologica, vol. 8, no. 2.</li>
-                                        </ol>
-
-                                    </li>
-                                </ul>
-                            </div>
-
-                        <h2>Media</h2>
-                        <img class="imgCenter" src="../img/depresja-plakat-big.jpg" />
-
+                    u"Terapia ręki dla dzieci 5-7 letnich <span class='attention'>NOWOŚĆ !</span>",
+                    u"""<h2>Cele:</h2>
+                        <ul>
+                            <li>usprawnianie małej motoryki, czyli precyzyjnych ruchów dłoni i palców,</li>
+                            <li>dostarczanie wrażeń dotykowych i poznawania dzięki nim różnych kształtów i struktur materiałów oraz nabywanie umiejętności ich rozróżniania.</li>
+                        </ul>
                     """,
-                    u"""
-                    <script type="text/javascript">
-                        markSelected('pomocRodziceKonferencja');
-                    </script>
+                    u""" 
+                        <script type="text/javascript">
+                            markSelected('grupoweTerapiaReki');
+                        </script>
                     """
-                ],
-
+                ],            
 
     u'pomocDlaNauczycieli.html':
                 [
                     u"Pomoc dla nauczycieli",
                     u"""
 
-                            <h2>1. WARSZTATY DLA NAUCZYCIELI <br/>"Jak rozmawiać z uczniami?",<br /> "Jak rozmawiać z trudnym rodzicem?", <br/>"Czy mam wpływ na zachowanie i efekty pracy z dziećmi?"<span class='attention' style="font-size: 0.4em;">NOWOŚĆ !</span></h2>
-                            <p>- na pisemny wniosek szkół, placówek.</p>
+                            <h2>1. WARSZTATY DLA NAUCZYCIELI</h2>
+                            <p>- tematyka wynikająca z zapotrzebowania placówek, na ich pisemny wniosek.</p>
 
                             <h2>2. UDZIAŁ W RADACH PEDAGOGICZNYCH</h2>
                             <p>- zgodnie z zapotrzebowaniem placówek, na pisemny ich wniosek.</p>
 
-                            <h2>3. DYŻUR PEDAGOGA SPECJALNEGO, SOCJOTERAPEUTY</h2>
-                            <p>- w godzinach od 12:00 do 18:00 w każdy wtorek na terenie poradni w celu porad, konsultacji, wsparcia po wcześniejszym umówieniu telefonicznie lub osobiście w sekretariacie poradni.</p>
+                            <h2>3. PORADY prowadzone przez psychologa, pedagoga lub logopedę</h2>
+                            <p>- na terenie poradni, po wcześniejszym umówieniu w sekretariacie poradni.</p>
 
                             <h2>4. GRUPA ROZWOJU ZAWODOWEGO LOGOPEDÓW PRZEDSZKOLNYCH I SZKOLNYCH</h2>
                             <p>- cykliczne spotkania logopedów pracujących w przedszkolach i szkołach z logopedami białogardzkiej poradni o charakterze szkoleniowym prowadzone na terenie poradni. Mają one na celu wymianę doświadczeń w pracy logopedycznej oraz wspólne ustalanie sposobów postępowania terapeutycznego w celu podniesienia umiejętności wymowy dziecka.</p>
+                            <p class='attention' style="font-size: 1.1em;">Pierwsze spotkanie na temat "Jak skutecznie pracować z dzieckiem z sygmatyzmem?" odbędzie się 13.10.2016 roku o godzinie 17:00 w Klubie Nauczyciela na parterze w budynku poradni.</p>
 
-                            <h2>5. WSPOMAGANIE SZKÓŁ, PRZEDSZKOLI I PLACÓWEK</h2>
-                            <p>- w zakresie realizacji zadań wychowawczych i opiekuńczych oraz podnoszenia umiejętności pracy z dziećmi, młodzieżą i rodzicami – na ich wniosek w formie uzgodnionej z dyrektorem poradni, w miarę możliwości kadrowych. <span class='attention'>NOWOŚĆ !</span></p>
+                            <h2>5. SIEĆ WSPÓŁPRACY I SAMOKSZTAŁCENIA DLA SOCJOTERAPEUTÓW <span class='attention' style="font-size: 0.4em;">NOWOŚĆ !</span></h2>
+                            <p>– cykliczne spotkania dedykowane socjoterapeutom w celu:</p>
+                            
+                            <ul>
+                                <li>wymiany doświadczeń między uczestnikami,</li>
+                                <li>analizy "dobrych praktyk" stosowanych przez uczestników,</li>
+                                <li>udzielania wsparcia w pracy socjoterapeutycznej,</li>
+                                <li>poszerzania kompetencji uczestników,</li>
+                                <li>tworzenia nowych rozwiązań na potrzeby szkół uczestników,</li>
+                                <li>pogłębiania współpracy między szkołami oraz między szkołami a poradnią.</li>
+                            </ul>
 
-                            <h2>6. KONFERENCJA "DEPRESJA, SAMOOKALECZENIA, ADHD, AUTYZM – JAK POMÓC?"</h2>
-                            Dedykowana podstrona ze zbiorem informacji na temat konferencji: <a href="pomocDlaRodzicówKonferencja.html">>> kliknij tutaj <<</a>
+                            <p class='attention' style="font-size: 1.1em;">Pierwsze spotkanie organizacyjne odbędzie się <strong>07.10.2016 r.</strong> o godzinie <strong>10:30</strong> w Klubie Nauczyciela na parterze budynku poradni.</p>
+                            <p>Prowadzące: Ewa Cieszko-Kowalska – psycholog, socjoterapeuta oraz Anna Politowska-Kowal – pedagog, socjoterapeuta.</p>
+                
+                            <h2>6. WSPOMAGANIE SZKÓŁ, PRZEDSZKOLI I PLACÓWEK <span class='attention' style="font-size: 0.4em;">NOWOŚĆ !</span></h2>
+                            <p>- w zakresie realizacji zadań wychowawczych i opiekuńczych oraz podnoszenia umiejętności pracy z dziećmi, młodzieżą i rodzicami – na ich wniosek w formie uzgodnionej z dyrektorem poradni, w miarę możliwości kadrowych.</p>
                     """,
                     u"""
                     <script type="text/javascript">
@@ -1415,15 +1487,14 @@ class Zadania(Template):
                 ],
     u'badanieSłuchu.html':
                 [
-                    u"Komputerowe badanie słuchu i wzroku",
+                    u"Komputerowe badanie słuchu",
                     u"""
-                        <p>Badanie słuchu jest przeprowadzane na terenie poradni poprzez komputerowy program "Słyszę", a
-                        badanie wzroku dzięki komputerowemu programowi "Widzę". Mają one charakter przesiewowy, co oznacza,
-                        że ich celem jest wykrycie ewentualnych nieprawidłowości bez określania stopnia ubytku słuchu czy
-                        wady wzroku. Jeśli wynik wyszedłby nieprawidłowy, szczegółowe badania należy następnie przeprowadzić w specjalistycznej placówce.</p>
+                        <p>Badanie słuchu jest przeprowadzane na terenie poradni poprzez komputerowy program "Słyszę".
+                        Ma ono charakter przesiewowy, co oznacza,
+                        że celem jest wykrycie ewentualnych nieprawidłowości bez określania stopnia ubytku słuchu.
+                        Jeśli wynik wyszedłby nieprawidłowy, szczegółowe badania należy następnie przeprowadzić w specjalistycznej placówce.</p>
 
-                        <p>Zapisy na przesiewowe komputerowe badanie słuchu i wzroku można dokonać telefonicznie lub
-                        osobiście w sekretariacie poradni przez cały rok.</p>
+                        <p>Zapisy na przesiewowe komputerowe badanie słuchu w sekretariacie poradni przez cały rok.</p>
                     """,
                     u"""
                     <script type="text/javascript">
@@ -1478,7 +1549,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweMatematyka.html':
                 [
-                    u"Matematyka bez trudności",
+                    u"Matematyka bez trudności dla uczniów klas IV-VI szkoły podstawowej",
                     u"""
                         <h2>Cele</h2>
                         <ul>

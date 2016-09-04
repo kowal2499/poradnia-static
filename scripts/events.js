@@ -1,4 +1,17 @@
 var eventsDatabase = [    
+                            
+                            {
+                                   date: "14.09.2016, godz. 10.30",
+                                   action: "Spotkanie z pedagogami/przedstawicielami szkół."
+                            },
+
+                            {
+                                   date: "04.10.2016, godz. 16.00",
+                                   action: "<p>Spotkanie organizacyjne dla uczestników <strong>'SZKOŁY DLA RODZICÓW, czyli jak mówić, żeby dzieci nas słuchały i jak słuchać, żeby dzieci do nas mówiły.'</strong> - edycja 2016/2017</p>"
+                            }
+
+                            
+
                             /*{
                             date: "15/10/2015",
                             action: '<a href="#popupWindow" onclick="attachHTML(\'' + newsDatabase[0].lightboxHTML + '\')">Szkolenie dla logopedów pt. \'Jak skutecznie pokonać jąkanie?\'</a>'

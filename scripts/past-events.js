@@ -16,9 +16,14 @@ var eventsDatabase = [
                             // },
 
                             {
-                                   date: "03/04/2016",
-                                   action: "<a href='https://prezi.com/eibtmyxztygo/jak-chwalic-dziecko/'>Chwalić dziecko też trzeba umieć! - zapraszamy do zapoznania się z prezentacją:<br><img src='img/praise.jpg' style='margin-top: 10px;'></a>"
+                                   date: "01/09/2016",
+                                   action: "<a href='download/wspomaganie.pdf' download>Artykuł na temat wspomagania szkół/przedszkoli/placówek<img src='img/wspomaganie2016.jpg' style='margin-top: 10px; width: 120px;'></a>"
                             },
+
+                            // {
+                            //        date: "03/04/2016",
+                            //        action: "<a href='https://prezi.com/eibtmyxztygo/jak-chwalic-dziecko/'>Chwalić dziecko też trzeba umieć! - zapraszamy do zapoznania się z prezentacją:<br><img src='img/praise.jpg' style='margin-top: 10px;'></a>"
+                            // },
 
                             {
                                    date: "16/02/2016",
