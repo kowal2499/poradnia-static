@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
+    <wiadomość>
+        <tytuł>
+            <tekst>Oferta Poradni na rok szkolny 2016/2017</tekst>
+        </tytuł>
+        <data>
+            07/09/2016
+        </data>
+        <obrazek>
+            <plik>img/news-oferta.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                Zapraszamy do zapoznania się z ofertą Poradni na rok szkolny 2016/2017. Pełny jej opis zawarliśmy w zakładce <a href='subpages/zadania.html'>"Oferta"</a>.<br>Można także pobrać plik "pdf" z całą ofertą Poradni <a href='download/ofertaPoradni_2016-2017.pdf' download> >> klikając tutaj <<</a>.<br><br>
+                <p>Zachęcamy do zapisywania dzieci na zajęcia grupowe organizowane na terenie poradni (termin kwalifikacji do 30 września 2016 roku).</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
     <!-- ################################################################## -->
     
     <wiadomość>
@@ -421,7 +444,7 @@
 
     <!-- ################################################################## -->
 
-    <wiadomość>
+<!--     <wiadomość>
         <tytuł>
             <tekst>Nowa oferta Poradni</tekst>
         </tytuł>
@@ -440,7 +463,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- ################################################################## -->
 

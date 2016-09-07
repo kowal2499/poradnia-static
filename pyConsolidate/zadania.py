@@ -69,7 +69,7 @@ class Zadania(Template):
 
                                     <tr class="odd">
                                         <td>10.</td>
-                                        <td><a href="szkPomocGrupoweBajkoterapia.html">Bajkoterapia dla dzieci kl. 0-II i III-IV szkoły podstawowej.</a></td>
+                                        <td><a href="szkPomocGrupoweBajkoterapia.html">Bajkoterapia dla dzieci kl. 0-I i II-III szkoły podstawowej.</a></td>
                                         <td><ul><li>M. Hewelt</li></ul></td>
                                     </tr>
 
