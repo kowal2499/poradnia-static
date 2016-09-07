@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
+    <!-- ################################################################## -->
+    
+    <wiadomość>
+        <tytuł>
+            <tekst>Nowa forma wsparcia dla socjoterapeutów - zapraszamy</tekst>
+        </tytuł>
+        <data>
+            07/09/2016
+        </data>
+        <obrazek>
+            <plik>img/siec_wspolpracy_mini.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Poradnia Psychologiczno-Pedagogiczna w Białogardzie  zaprasza <strong>socjoterapeutów</strong> prowadzących zajęcia socjoterapeutyczne dla dzieci i młodzieży na terenie miasta i gminy Białogard, miasta i gminy Karlino oraz miasta i gminy Tychowo do uczestnictwa w nowej formie wsparcia: <strong>"Sieć współpracy i samokształcenia dla socjoterapeutów"</strong>. ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html>
+            <![CDATA[
+               <div style='margin: 10px; border-radius: 7px; border: 1px solid gray;'>
+                    <div class='myTitle' style='width: 80%; margin-bottom: 30px;'>Nowa forma wsparcia dla socjoterapeutów</div>
+                    <img src='img/siec_wspolpracy.jpg' style='width: 80%'>
+
+                    <div style='margin:20px;'>
+                    <p>
+                       Poradnia Psychologiczno-Pedagogiczna w Białogardzie  zaprasza <strong>socjoterapeutów</strong> prowadzących zajęcia socjoterapeutyczne dla dzieci i młodzieży na terenie miasta i gminy Białogard, miasta i gminy Karlino oraz miasta i gminy Tychowo do uczestnictwa w nowej formie wsparcia: <strong>'Sieć współpracy i samokształcenia dla socjoterapeutów'</strong>.
+                    </p>
+                    <p>Zajęcia są zorganizowane w celu:</p>
+                    <ul>
+                        <li>wymiany doświadczeń między uczestnikami,</li>
+                        <li>analizy 'dobrych praktyk' stosowanych przez uczestników,</li>
+                        <li>udzielania wsparcia w pracy socjoterapeutycznej,</li>
+                        <li>poszerzania kompetencji uczestników,</li>
+                        <li>tworzenia nowych rozwiązań na potrzeby szkół uczestników,</li>
+                        <li>pogłębiania współpracy między szkołami oraz między szkołami a poradnią.</li>
+                    </ul>
+                    <p>
+                        Pierwsze spotkanie organizacyjne odbędzie się <strong>21.10.2016 r.</strong> o godzinie <strong>10:30</strong> w Klubie Nauczyciela na parterze w budynku poradni. Prowadzącymi będą: Ewa Cieszko-Kowalska – psycholog, socjoterapeuta oraz Anna Politowska-Kowal – pedagog, socjoterapeuta. W/w spotkanie pozwoli na integrację uczestników, <i>rozpoznanie potrzeb i oczekiwań socjoterapeutów</i>, uwspólnienie rozumienia celów i form pracy oraz wypracowanie zasad, które mogą okazać się pomocne w dalszym współdziałaniu.
+                    </p>
+                    <p> 
+                        Zachęcamy do aktywnego uczestnictwa w 'Sieci współpracy i samokształcenia dla socjoterapeutów'. W przypadku niemożliwości wzięcia udziału w spotkaniu organizacyjnym, prosimy o kontakt telefoniczny z poradnią lub bezpośrednio z prowadzącymi celem poinformowania o chęci dalszej współpracy w ramach sieci, co pozwoli na informowanie o kolejnych działaniach.
+                    </p>
+
+                </div>
+
+                   
+               </div>
+            ]]>
+        </okienko_html>
+    </wiadomość>
+
+
+
+
 	<!-- ################################################################## -->
 
     <wiadomość>

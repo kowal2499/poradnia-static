@@ -18,7 +18,7 @@ document.getElementById("tasksMenu").innerHTML =
 "                                                  <li id='grupoweDobryStart'><a href='pomocGrupoweDobryStart.html'><div class='liElement'>\"Metoda Dobrego Startu dzieci 6-letnich\"</div></a></li>"+
 "                                                  <li id='grupoweTerapiaReki'><a href='pomocGrupoweTerapiaReki2.html'><div class='liElement'>Terapia ręki dla dzieci 5-7 letnich <span class='attention'>NOWOŚĆ !</span></div></a></li>"+
 "                                                  <li id='grupoweJakajace'><div class='liElement'>Zajęcia dla dzieci jąkających się</div></li>"+
-"                                                  <li id='grupoweBajkoterapia'><a href='pomocGrupoweBajkoterapia.html'><div class='liElement'>Bajkoterapia kl. 0-I szkoły podstawowej<br /></div></a></li>"+
+"                                                  <li id='grupoweBajkoterapia'><a href='pomocGrupoweBajkoterapia.html'><div class='liElement'>Bajkoterapia dla dzieci kl. 0-I szkoły podstawowej<br /></div></a></li>"+
 "                                                  <li id='grupoweSensoryka'><a href='pomocGrupoweSensoryka.html'><div class='liElement'>Zajęcia usprawniające sensorykę i rozwój ogólny w wieku od 2 do 7 lat</div></a></li>"+
 "                                                  <li id='grupoweStymulacjaSluch'><div class='liElement'>Zajęcia stymulujące funkcje słuchowe u dzieci słabosłyszących<br /></div></li>"+
 "                                                  <li id='grupoweStymulacjaWzrok'><div class='liElement'>Zajęcia stymulujące funkcje wzrokowe u dzieci słabowidzących<br /></div></li>"+

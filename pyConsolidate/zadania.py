@@ -69,7 +69,7 @@ class Zadania(Template):
 
                                     <tr class="odd">
                                         <td>10.</td>
-                                        <td><a href="szkPomocGrupoweBajkoterapia.html">Bajkoterapia kl. 0-II i III-IV szkoły podstawowej.</a></td>
+                                        <td><a href="szkPomocGrupoweBajkoterapia.html">Bajkoterapia dla dzieci kl. 0-II i III-IV szkoły podstawowej.</a></td>
                                         <td><ul><li>M. Hewelt</li></ul></td>
                                     </tr>
 
@@ -172,7 +172,7 @@ class Zadania(Template):
 
                         <tr>
                             <td>9.</td>
-                            <td><a href="pomocGrupoweBajkoterapia.html">Bajkoterapia kl. 0-I szkoły podstawowej.</a></td>
+                            <td><a href="pomocGrupoweBajkoterapia.html">Bajkoterapia dla dzieci kl. 0-I szkoły podstawowej.</a></td>
                             <td><ul><li>M. Hewelt</li></ul></td>
                         </tr>
 
@@ -1461,7 +1461,7 @@ class Zadania(Template):
                             <p>- cykliczne spotkania logopedów pracujących w przedszkolach i szkołach z logopedami białogardzkiej poradni o charakterze szkoleniowym prowadzone na terenie poradni. Mają one na celu wymianę doświadczeń w pracy logopedycznej oraz wspólne ustalanie sposobów postępowania terapeutycznego w celu podniesienia umiejętności wymowy dziecka.</p>
                             <p class='attention' style="font-size: 1.1em;">Pierwsze spotkanie na temat "Jak skutecznie pracować z dzieckiem z sygmatyzmem?" odbędzie się 13.10.2016 roku o godzinie 17:00 w Klubie Nauczyciela na parterze w budynku poradni.</p>
 
-                            <h2>5. SIEĆ WSPÓŁPRACY I SAMOKSZTAŁCENIA DLA SOCJOTERAPEUTÓW <span class='attention' style="font-size: 0.4em;">NOWOŚĆ !</span></h2>
+                            <h2 id="sieć_współpracy">5. SIEĆ WSPÓŁPRACY I SAMOKSZTAŁCENIA DLA SOCJOTERAPEUTÓW <span class='attention' style="font-size: 0.4em;">NOWOŚĆ !</span></h2>
                             <p>– cykliczne spotkania dedykowane socjoterapeutom w celu:</p>
                             
                             <ul>
@@ -1473,7 +1473,7 @@ class Zadania(Template):
                                 <li>pogłębiania współpracy między szkołami oraz między szkołami a poradnią.</li>
                             </ul>
 
-                            <p class='attention' style="font-size: 1.1em;">Pierwsze spotkanie organizacyjne odbędzie się <strong>07.10.2016 r.</strong> o godzinie <strong>10:30</strong> w Klubie Nauczyciela na parterze budynku poradni.</p>
+                            <p class='attention' style="font-size: 1.1em;">Pierwsze spotkanie organizacyjne odbędzie się <strong>21.10.2016 r.</strong> o godzinie <strong>10:30</strong> w Klubie Nauczyciela na parterze budynku poradni.</p>
                             <p>Prowadzące: Ewa Cieszko-Kowalska – psycholog, socjoterapeuta oraz Anna Politowska-Kowal – pedagog, socjoterapeuta.</p>
                 
                             <h2>6. WSPOMAGANIE SZKÓŁ, PRZEDSZKOLI I PLACÓWEK <span class='attention' style="font-size: 0.4em;">NOWOŚĆ !</span></h2>
