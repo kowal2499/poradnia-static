@@ -3,6 +3,54 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Szkolenie dla logopedów "Jak skutecznie pracować z dzieckiem z sygmatyzmem?"</tekst>
+        </tytuł>
+        <data>
+            11/09/2016
+        </data>
+        <obrazek>
+            <plik>img/dziecko-mówi.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                Zapraszamy wszystkich chętnych logopedów do udziału w kolejnym spotkaniu, które odbędzie się w Poradni Psychologiczno- Pedagogicznej w Białogardzie w Klubie Nauczyciela na parterze /przy ulicy Dworcowej 2/ 13 października o godzinie 17.00.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html>
+            <![CDATA[
+                <div style='margin: 10px; border-radius: 7px; border: 1px solid gray;'>
+                    <div class='myTitle' style='width: 80%; margin-bottom: 30px;'>Szkolenie dla logopedów 'Jak skutecznie pracować z dzieckiem z sygmatyzmem?'</div>
+                    
+
+                    <div style='margin:20px;'>
+                        <p>
+                        W bieżącym roku szkolnym 2016/2017 wzorem lat ubiegłych kontynuujemy logopedyczne spotkania logopedów pracujących w placówkach oświatowych w powiecie białogardzkim (tzw. Grupa Rozwoju Zawodowego Logopedów Szkolnych i Przedszkolnych). Będzie to po raz kolejny okazja, aby porozmawiać, wymienić się doświadczeniami, razem ustalić sposoby postępowania terapeutycznego oraz zacieśnić naszą współpracę, która służy wspólnemu celowi - podnoszeniu kompetencji językowych w porozumiewaniu się językiem ojczystym u naszych dzieci. Dzięki temu także efekty naszej pracy będą lepsze. Cieszymy, się że na spotkania przybywa coraz liczniejsze grono zainteresowanych. Mamy nadzieję, że tak będzie i tym razem, miło będzie ponownie się zobaczyć i wymienić doświadczeniami.
+                        </p>
+                        <div style='text-align: center; font-size: 1.2em;''>
+                        <p>
+                        Zapraszamy wszystkich chętnych logopedów do udziału w kolejnym spotkaniu, które odbędzie się w Poradni Psychologiczno- Pedagogicznej w Białogardzie w Klubie Nauczyciela na parterze /przy ulicy Dworcowej 2/.
+                        </p>
+                        <p style='text-align: center; color: #89AB93;'>
+                        <strong>13 października o godzinie 17.00</strong>
+                        </p>
+                        
+                        <p>Temat spotkania: <strong>Jak skutecznie pracować z dzieckiem z sygmatyzmem?</strong></p>
+                        </div>
+
+
+                    </div>
+                </div>
+            ]]>
+
+        </okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
             <tekst>Oferta Poradni na rok szkolny 2016/2017</tekst>
         </tytuł>
         <data>
