@@ -2,7 +2,7 @@ var eventsDatabase = [
                             
                             {
                                    date: "14.09.2016, godz. 10.30",
-                                   action: "Spotkanie z pedagogami/przedstawicielami szkół."
+                                   action: "Spotkanie z pedagogami/przedstawicielami placówek."
                             },
 
                             {
