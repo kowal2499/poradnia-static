@@ -1,13 +1,13 @@
 var eventsDatabase = [    
                             
-                            {
-                                   date: "14.09.2016, godz. 10.30",
-                                   action: "Spotkanie z pedagogami/przedstawicielami szkół."
-                            },
-
+                            
                             {
                                    date: "04.10.2016, godz. 16.00",
                                    action: "<p>Spotkanie organizacyjne dla uczestników <strong>'SZKOŁY DLA RODZICÓW, czyli jak mówić, żeby dzieci nas słuchały i jak słuchać, żeby dzieci do nas mówiły.'</strong> - edycja 2016/2017</p>"
+                            },
+                            {
+                                   date: "13.10.2016 godz. 17:00",
+                                   action: "<p>Szkolenie dla logopedów.</p>"
                             },
 
                             {
