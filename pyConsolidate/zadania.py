@@ -149,7 +149,7 @@ class Zadania(Template):
                         <tr>
                             <td>5.</td>
                             <td><a href="pomocGrupoweSłuchamiOpowiadam.html">"Bystrzaki - przedszkolaki" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6 letnich <span class='attention'>NOWOŚĆ !</span></a></td>
-                            <td><ul><li>M. Jonko</li><li>M. Waiszewska</li></ul></td>
+                            <td><ul><li>M. Jonko</li><li>M. Weiszewska</li></ul></td>
                         </tr>
 
                         <tr class="odd">
@@ -397,6 +397,7 @@ class Zadania(Template):
                             <div class="download">
                             <ul>
                                 <li><a href='../download/wniosek o objęcie dziecka terapią.doc' download>Wniosek o objęcie dziecka terapią – zobacz (dokument Word)</a></li>
+                                <li><a href='../download/Procedury dotyczące kwalifikowania, organizowania i korzystania z zajęć specjalistycznych na terenie poradni.pdf' download>Procedury dotyczące kwalifikowania, organizowania zajęć specjalistycznych i korzystania z nich na terenie Poradni Psychologiczno-Pedagogicznej w Bałogardzie – zobacz (dokument pdf)</a></li>
                             </ul>
                             </div>
                     """,
@@ -578,7 +579,7 @@ class Zadania(Template):
                         <h2>Materiały do pobrania</h2>
                         <div class="download">
                             <ul>
-                                <li><a href='../download/Procedury dotyczące kwalifikowania, organizowania i korzystania z zajęć specjalistycznych na terenie poradni.pdf' download>Procedury dotyczące kwalifikowania, organizowania grupowych zajęć specjalistycznych i korzystania z nich na terenie Poradni Psychologiczno-Pedagogicznej w Bałogardzie – zobacz (dokument pdf)</a></li>
+                                <li><a href='../download/Procedury dotyczące kwalifikowania, organizowania i korzystania z zajęć specjalistycznych na terenie poradni.pdf' download>Procedury dotyczące kwalifikowania, organizowania zajęć specjalistycznych i korzystania z nich na terenie Poradni Psychologiczno-Pedagogicznej w Bałogardzie – zobacz (dokument pdf)</a></li>
                                 <li><a href='../download/wniosek o objęcie dziecka terapią.doc' download>Wniosek o objęcie dziecka terapią – zobacz (dokument Word)</a></li>
                             </ul>
                         </div>
@@ -1158,8 +1159,6 @@ class Zadania(Template):
                         i jak słuchać, żeby dzieci do nas mówiły"</strong> w I i II semestrze.
 
                         <p>Sekretariat poradni przyjmuje zapisy przez cały rok.</p>
-
-                        <div class="attention" style="font-size: 1.3em;">Spotkanie organizacyjne odbędzie się 4 października 2016 roku o godz. 16:00 w Klubie Nauczyciela w budynku poradni.</div>
 
                         <h2>Cele treningu</h2>
                         <ul>
