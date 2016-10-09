@@ -3,6 +3,62 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>"Bystrzaki - przedszkolaki" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6-cio letnich</tekst>
+        </tytuł>
+        <data>
+            10/10/2016
+        </data>
+        <obrazek>
+            <plik>img/bystrzak.jpg</plik>
+            <link></link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                Zapraszamy na:<br>Spotkanie organizacyjne rodziców dzieci 6-letnich w Poradni Psychologiczno-Pedagogicznej ul. Dworcowa 2 w dniu 24 października 2016r./poniedziałek/ o godz.15.00.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html>
+            <![CDATA[
+                <div style='margin: 10px; border-radius: 7px; border: 1px solid gray;'>
+                    
+                    
+
+                        <div style='margin:20px;'>
+
+                            <div style='width: 80%; background-color: #89AB93; margin: 20px auto; padding: 20px; margin-bottom: 20px'>
+                                <h2 style='color: white; text-align: center; font-size: 2.6em;'>'Bystrzaki - przedszkolaki'</h2>
+                                <p style='color: #ddd; text-align: center; font-size: 1.4em;'>zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6 letnich NOWOŚĆ !</p>
+
+                            </div>
+                            Zapraszamy na: <br><br>
+                            Spotkanie organizacyjne rodziców dzieci 6-letnich w Poradni Psychologiczno-Pedagogicznej ul. Dworcowa 2 w dniu 24 października 2016r./poniedziałek/ o godz.15.00.
+
+                            <p>Jeśli rodzicu, chcesz aby Twoje dziecko było jak najlepiej przygotowane w zakresie:</p>
+                            <ul>
+                                <li>poprawnej i wyraźnej wymowy;</li>
+                                <li>podjęcia nauki w klasie pierwszej, szczególnie gotowości do opanowania umiejętności czytania;</li>
+                                <li>lepszej komunikacji językowej, poprzez opanowanie poprawności w wypowiadaniu się, większej chęci do mówienia i działania.</li>
+                            </ul>
+
+                            <p><strong>Zapraszamy na bezpłatne, co tygodniowe zajęcia</strong><br>Dodatkowe informacje tel. 94 312 25 -96 lub 515 082 620 lub osobiście w sekretariacie Poradni.</p>
+
+                            <p>Zapraszamy!!!</p>
+                        </div>
+
+
+                    </div>
+                </div>
+            ]]>
+
+        </okienko_html>
+    </wiadomość>
+
+
+
+    <wiadomość>
+        <tytuł>
             <tekst>Szkolenie dla logopedów "Jak skutecznie pracować z dzieckiem z sygmatyzmem?"</tekst>
         </tytuł>
         <data>
