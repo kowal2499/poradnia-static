@@ -8,10 +8,10 @@ var eventsDatabase = [
 
 
                            
-                            {
-                                   date: "13.10.2016 godz. 17:00",
-                                   action: "<p>Szkolenie dla logopedów.</p>"
-                            },
+                            // {
+                            //        date: "13.10.2016 godz. 17:00",
+                            //        action: "<p>Szkolenie dla logopedów.</p>"
+                            // },
 
                             
 
@@ -22,7 +22,7 @@ var eventsDatabase = [
                             
                             {
                                    date: "24.10.2016 godz. 15:00",
-                                   action: "<p>'Bystrzaki - przedskolaki' - spotkanie organizacyjne</p>"
+                                   action: "<p>'Bystrzaki - przedszkolaki' - spotkanie organizacyjne dla rodziców</p>"
                             }
 
                             
