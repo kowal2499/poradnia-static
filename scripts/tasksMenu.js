@@ -29,15 +29,18 @@ document.getElementById("tasksMenu").innerHTML =
 "                                                  <li id='szkGrupoweSherborne'><a href='szkPomocGrupoweSherborne.html'><div class='liElement'>Metoda Ruchu Rozwijającego Weroniki Sherborne</div></a></li>"+
 "                                                  <li id='szkGrupoweStymulacjaOgolnyRozwoj'><div class='liElement'>Zajęcia stymulujące ogólny rozwój dla dzieci o zaburzonym lub opóźnionym rozwoju</div></li>"+
 "                                                  <li id='szkPomocGrupoweDobryStart1'><a href='szkPomocGrupoweDobryStart1.html'><div class='liElement'>\"Metoda Dobrego Startu\" dla uczniów kl. I szkoły podstawowej</div></a></li>"+
-"                                                  <li id='szkPomocGrupoweTerapiaReki'><a href='pomocGrupoweTerapiaReki.html'><div class='liElement'>Terapia ręki dla dzieci 5-7 letnich <span class='attention'>NOWOŚĆ !</span></div></a></li>"+
 
+"                                                  <li id='grupoweKompetencjeSpoleczne'><a href='pomocGrupoweKompetencjeSpołeczne.html'><div class='liElement'>Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. II - III szkoły podstawowej</div></a></li>"+
+"                                                  <li id='grupoweKompetencjeSpoleczne4-6'><a href='pomocGrupoweKompetencjeSpołeczneIV-VI.html'><div class='liElement'>Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. IV - VI szkoły podstawowej</div></a></li>"+
+"                                                  <li id='szkPomocGrupoweTerapiaReki'><a href='pomocGrupoweTerapiaReki.html'><div class='liElement'>Terapia ręki dla dzieci 5-7 letnich <span class='attention'>NOWOŚĆ !</span></div></a></li>"+
 "                                                  <li id='szkPomocGrupoweDobryStart2'><a href='pomocGrupoweBystryUmysl.html'><div class='liElement'>\"Bystry umysł\" - zajęcia doskonalące koncentrację uwagi dla klas II-IV szkoły podstawowej <span class='attention'>NOWOŚĆ !</span></div></a></li>"+
 "                                                  <li id='grupoweTworczeMyslenie'><a href='pomocGrupoweTwórczeMyślenie.html'><div class='liElement'>Trening twórczego myślenia dla uczników klas IV - VI szkoły podstawowej</div></a></li>"+
-"                                                  <li id='grupoweKompetencjeSpoleczne'><a href='pomocGrupoweKompetencjeSpołeczne.html'><div class='liElement'>Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. III - VI szkoły podstawowej</div></a></li>"+
+
+
 "                                                  <li id='szkGrupoweJakajace'><div class='liElement'>Zajęcia dla dzieci jąkających się.</div></li>"+
 "                                                  <li id='grupoweArteterapia'><div class='liElement'>Zajęcia stymulujące rozwój z wykorzystaniem arteterapii dla uczniów klas IV-VI szkoły podstawowej</div></li>"+
 "                                                  <li id='szkGrupoweBajkoterapia'><a href='szkPomocGrupoweBajkoterapia.html'><div class='liElement'>Bajkoterapia dla dzieci klas 0-I i II-III szkoły podstawowej</div></a></li>"+
-"                                                  <li id='szkGrupoweSensoryka'><a href='szkPomocGrupoweSensoryka.html'><div class='liElement'>Zajęcia usprawniające sensorykę i rozwój ogólny w wieku od 2 do 7 lat</div></a></li>"+
+"                                                  <li id='szkGrupoweSensoryka'><a href='szkPomocGrupoweSensoryka.html'><div class='liElement'>'Uczę się przez zmysły' - zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 7 lat</div></a></li>"+
 "                                                  <li id='szkGrupoweFunkcjeSluchowe'><div class='liElement'>Zajęcia stymulujące funkcje słuchowe u dzieci słabosłyszących<br /></div></li>"+
 "                                                  <li id='szkGrupoweFunkcjeWzrokowe'><div class='liElement'>Zajęcia stymulujące funkcje wzrokowe u dzieci słabowidzących<br /></div></li>"+
 "                                                  <li id='szkGrupoweKorekcyjnoKompensacyjne'><a href='pomocGrupoweZajeciaKorekcyjnoKompensacyjne.html'><div class='liElement'>Zajęcia korekcyjno – kompensacyjne dla uczniów ze specyficznymi trudnościami w uczeniu się</div></a></li>"+

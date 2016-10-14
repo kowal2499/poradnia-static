@@ -425,14 +425,14 @@ class Zadania(Template):
                             </ol>
                          </p>
 
-                        <h2 id="harmonogram">Harmonogram zajęć grupowych na terenie poradni w roku szkolnym 2015/2016</h2>
+                        <h2 id="harmonogram">Harmonogram zajęć grupowych na terenie poradni w roku szkolnym 2016/2017</h2>
                         <br />
                         <table>
                             <tr><th>Lp.</th><th>Nazwa zajęć</th><th>Termin</th><th>Miejsce</th><th>Prowadzące</th></tr>
                             <tr>
                                 <td>1.</td>
-                                <td><a href='szkPomocGrupoweSensoryka.html'>Zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 6-ciu lat</a></td>
-                                <td>poniedziałek, godz. 14:30</td>
+                                <td><a href='szkPomocGrupoweSensoryka.html'>'Uczę się przez zmysły' - zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 7 lat</a></td>
+                                <td>poniedziałek, godz. 15:30</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>A.&nbsp;Gudańska-Walkowska</li><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
@@ -440,7 +440,7 @@ class Zadania(Template):
                             <tr class="odd">
                                 <td>2.</td>
                                 <td><a href='pomocGrupoweSherborne.html'>Metoda Ruchu Rozwijającego Weroniki Sherborne – dla dzieci młodszych</a></td>
-                                <td>poniedziałek, godz. 15:30</td>
+                                <td>poniedziałek, godz. 16:30</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>A.&nbsp;Gudańska-Walkowska</li><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
@@ -448,15 +448,15 @@ class Zadania(Template):
                             <tr>
                                 <td>3.</td>
                                 <td><a href='szkPomocGrupoweSherborne.html'>Metoda Ruchu Rozwijającego Weroniki Sherborne – dla dzieci starszych</a></td>
-                                <td>poniedziałek, godz. 16:30</td>
+                                <td>poniedziałek, godz. 17:30</td>
                                 <td>Klub Nauczyciela, parter</td>
-                                <td><ul><li>S.&nbsp;Cąkała</li><li>A.&nbsp;Politowska-Kowal</li></ul></td>
+                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
                             <tr class="odd">
                                 <td>4.</td>
                                 <td><a href='pomocGrupoweMatematyka.html'>\"Matematyka bez trudności\" dla uczniów z klas IV-VI SP</a></td>
-                                <td>poniedziałek, godz. 17:30</td>
+                                <td>środa, godz. 15:00</td>
                                 <td>Gabinet nr 5, parter</td>
                                 <td><ul><li>A.&nbsp;Gudańska-Walkowska</li></ul></td>
                             </tr>
@@ -466,113 +466,81 @@ class Zadania(Template):
                                 <td><a href='szkPomocGrupoweDobryStart1.html'>Metoda Dobrego Startu dla dzieci z kl. I SP</a></td>
                                 <td>poniedziałek, godz. 16:30</td>
                                 <td>Gabinet nr 5, I piętro</td>
-                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li><li>M.&nbsp;Jakubowska</li></ul></td>
+                                <td><ul><li>M.&nbsp;Jakubowska</li></ul></td>
                             </tr>
 
                             <tr class="odd">
                                 <td>6.</td>
-                                <td><a href='pomocGrupoweDobryStart.html'>Metoda Dobrego Startu dla dzieci 5-letnich</a></td>
-                                <td>wtorek, godz. 14:00</td>
-                                <td>Gabinet nr 6, I piętro</td>
-                                <td><ul><li>S.&nbsp;Cąkała</li></ul></td>
-                            </tr>
-
-                            <tr>
-                                <td>7.</td>
-                                <td><a href='pomocGrupoweDobryStartOdr.html'>Metoda Dobrego Startu dla dzieci odroczonych od obowiązku szkolnego</a></td>
-                                <td>środa, godz. 15:00</td>
+                                <td><a href='pomocGrupoweDobryStart.html'>Metoda Dobrego Startu dla dzieci 6-letnich</a></td>
+                                <td>poniedziałek, godz. 14:30</td>
                                 <td>Klub Nauczyciela, parter</td>
-                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li></ul></td>
-                            </tr>
-
-                            <tr class="odd">
-                                <td>8.</td>
-                                <td><a href='szkPomocGrupoweBajkoterapia.html'>Bajkoterapia dla dzieci z klas I-III SP</a></td>
-                                <td><ul><li>poniedziałek godz. 16:30</li><li>środa, godz. 13:30</li></ul></td>
-                                <td>Gabinet nr 7, parter</td>
                                 <td><ul><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
                             <tr>
-                                <td>9.</td>
-                                <td><a href='pomocGrupoweSłuchamiOpowiadam.html'>&quot;Słucham i opowiadam&quot; – zajęcia stymulujące funkcje słuchowe i sprawność językową dzieci 5-letnich</a></td>
-                                <td>wtorek, godz. 15:30</td>
-                                <td>Gabinet nr 5, I piętro</td>
-                                <td><ul><li>M.&nbsp;Jonko</li></ul></td>
+                                <td>7.</td>
+                                <td><a href='szkPomocGrupoweBajkoterapia.html'>Bajkoterapia dla dzieci z klas II-III SP</a></td>
+                                <td>wtorek godz. 15:00</td>
+                                <td>Klub Nauczyciela, parter</td>
+                                <td><ul><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
                             <tr class="odd">
-                                <td>10.</td>
-                                <td><a href="pomocGrupoweLepiejGloskuje.html">Zajęcia \"Lepiej głoskuję, lepiej opowiadam\" dla dzieci 5-letnich</a></td>
-                                <td>co drugi wtorek, godz. 16:00</td>
-                                <td>Gabinet nr 4, I piętro</td>
-                                <td><ul><li>M.&nbsp;Weiszewska</li></ul></td>
+                                <td>8.</td>
+                                <td><a href='pomocGrupoweSłuchamiOpowiadam.html'>&quot;Bystrzaki - przedszkolaki&quot; – zajęcia stymulujące funkcje słuchowe i sprawność językową dzieci 6-letnich</a></td>
+                                <td>poniedziałek, godz. 15:00</td>
+                                <td>Gabinet nr 5, I piętro</td>
+                                <td><ul><li>M.&nbsp;Jonko</li><li>M.&nbsp;Weiszewska</li></ul></td>
                             </tr>
 
                             <tr>
-                                <td>11.</td>
-                                <td><a href='pomocGrupowePercepcjaSłuchowa.html'>Zajęcia rozwijające percepcję słuchową dla dzieci 5-letnich</a></td>
+                                <td>9.</td>
+                                <td><a href='pomocGrupowePercepcjaSłuchowa.html'>Zajęcia rozwijające percepcję słuchową dla dzieci 6-letnich</a></td>
                                 <td>środa, godz. 16:00</td>
                                 <td>Gabinet nr 4, I piętro</td>
                                 <td><ul><li>H.&nbsp;Górzyńska</li></ul></td>
                             </tr>
 
                             <tr class="odd">
-                                <td>12.</td>
-                                <td><a href='pomocGrupoweKompetencjeSpołeczne.html'>Zajęcia podnoszące kompetencje społeczne dla uczniów kl. I-III SP</a></td>
-                                <td>wtorek, godz. 16:00</td>
+                                <td>10.</td>
+                                <td><a href='pomocGrupoweKompetencjeSpołeczne.html'>Zajęcia podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. II-III SP</a></td>
+                                <td>czwartek, godz. 16:00</td>
                                 <td>Klub Nauczyciela, parter</td>
-                                <td><ul><li>S.&nbsp;Cąkała</li><li>M.&nbsp;Lis</li></ul></td>
+                                <td><ul><li>E.&nbsp;Cieszko-Kowalska</li><li>A.Politowska - Kowal</li></ul></td>
+                            </tr>
+
+                            <tr>
+                                <td>11.</td>
+                                <td><a href='pomocGrupoweKompetencjeSpołeczneIV-VI.html'>Zajęcia podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. IV-VI SP</a></td>
+                                <td>czwartek, godz. 15:00</td>
+                                <td>Klub Nauczyciela, parter</td>
+                                <td><ul><li>E.&nbsp;Cieszko-Kowalska</li></ul></td>
+                            </tr>
+
+                            <tr class="odd">
+                                <td>12.</td>
+                                <td><a href='pomocGrupoweTerapiaReki.html'>Terapia ręki dla dzieci 5-7 letnich</a></td>
+                                <td>wtorek, godz. 14:00</td>
+                                <td>Klub Nauczyciela, parter</td>
+                                <td><ul><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
                             <tr>
                                 <td>13.</td>
-                                <td><a href='pomocGrupoweKompetencjeSpołeczne.html'>Zajęcia podnoszące kompetencje społeczne dla uczniów kl. IV-VI SP</a></td>
-                                <td>środa, godz. 17:00</td>
-                                <td>Gabinet nr 5, I piętro</td>
-                                <td><ul><li>E.&nbsp;Cieszko-Kowalska</li></ul></td>
+                                <td><a href='pomocGrupoweBystryUmysl.html'>'Bystry umysł' - zajęcia doskonalące koncentrację uwagi dla klas II-IV szkoły podstawowej.</a></td>
+                                <td>środa, godz. 16:00</td>
+                                <td>Gabinet nr 5, parter</td>
+                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li></ul></td>
                             </tr>
 
                             <tr class="odd">
                                 <td>14.</td>
-                                <td><a href='pomocGrupoweKompetencjeSpołeczne.html'>Zajęcia podnoszące kompetencje społeczne dla uczniów z klas IV-VI SP kontynuujących zajęcia drugi rok</a></td>
-                                <td>środa, godz. 16:00</td>
-                                <td>Gabinet nr 5, I piętro</td>
-                                <td><ul><li>E.&nbsp;Cieszko-Kowalska</li></ul></td>
-                            </tr>
-
-                            <tr>
-                                <td>15.</td>
-                                <td><a href='pomocGrupoweTwórczeMyślenie.html'>Trening twórczego myślenia dla uczniów klas IV-VI SP</a></td>
-                                <td>co druga środa, godz. 15:00</td>
-                                <td>Gabinet nr 5, I piętro</td>
-                                <td><ul><li>E.&nbsp;Cieszko-Kowalska</li></ul></td>
-                            </tr>
-
-                            <tr class="odd">
-                                <td>16.</td>
-                                <td><a href='szkPomocGrupoweGrupaWsparcia.html'>Grupa wsparcia i rozwoju osobistego dla młodzieży</a></td>
-                                <td>wtorek, godz. 18:00</td>
-                                <td>Gabinet nr 10, I piętro</td>
-                                <td><ul><li>S.&nbsp;Cąkała</li></ul></td>
-                            </tr>
-
-                            <tr>
-                                <td rowspan="2">17.</td>
-                                <td rowspan="2"><a href="pomocGrupoweZajeciaKorekcyjnoKompensacyjne.html">Zajęcia korekcyjno-kompensacyjne</a></td>
-                                <td><ul><li>poniedziałek, godz. 14:30, 15:30, 17:30</li><li>czwartek, godz. 13:15, 14:15, 15:15</li></ul></td>
+                                <td><a href="pomocGrupoweZajeciaKorekcyjnoKompensacyjne.html">Zajęcia korekcyjno-kompensacyjne</a></td>
+                                <td><ul><li>poniedziałek, godz. 14:00</li><li>czwartek, godz. 14:00, 15:00, 17:00</li></ul></td>
                                 <td>Gabinet nr 11, I piętro</td>
                                 <td><ul><li>A.Politowska - Kowal</li></ul></td>
                             </tr>
-                            <tr>
-
-                                <td><ul><li>poniedziałek, godz. 13:30, 17:30</li></ul></td>
-                                <td>Gabinet nr 7, parter</td>
-                                <td><ul><li>M. Hewelt</li></ul></td>
-                            </tr>
-
-
-
+                            
                         </table>
 
 
@@ -675,7 +643,7 @@ class Zadania(Template):
                 ],
     u'szkPomocGrupoweSensoryka.html':
                 [
-                    u"Zajęcia usprawniające sensorykę i rozwój ogólny w wieku od 2 do 7 lat",
+                    u"'Uczę się przez zmysły' - zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 7 lat",
                     u"""
                     <!--<div class="grupoweDetale">
                         <p>Prowadzące:</p>
@@ -759,41 +727,7 @@ class Zadania(Template):
                     </script>
                     """
                 ],
-    u'pomocGrupoweDobryStartOdr.html':
-                [
-                    u"Metoda Dobrego Startu dla dzieci odroczonych od obowiązku szkolnego",
-                    u"""
-                            <!--<div class="grupoweDetale">
-                                <p>Prowadzące: A. Gudańska-Walkowska, S. Cąkała</p>
-                                <p>Termin zajęć:</p>
-                                <p>Miejsce:</p>
-                            </div>-->
-
-                            <p>Dla potrzeb szkolnictwa w Polsce Metodę Dobrego Startu adaptowała prof. Marta Bogdanowicz. Zajęcia są wskazane dla dzieci przygotowujących się do nauki czytania i pisania. Założeniem Metody Dobrego Startu jest jednoczesne rozwijanie funkcji wzrokowych, słuchowych, językowych, dotykowo-kinestetycznych (czucie dotyku i ruchu) i motorycznych oraz ich współdziałania, czyli integracji percepcyjno-motorycznej. Funkcje te leżą u podstaw złożonych czynności czytania i pisania. Celem metody jest także kształtowanie lateralizacji (ustalenie ręki dominującej) oraz orientacji w schemacie ciała i w przestrzeni.</p>
-
-                            <h2>Schemat zajęć</h2>
-                            <ol>
-                                <li>Zajęcia wprowadzające:</li>
-                                    <ul>
-                                        <li>ćwiczenia kształtujące orientację w schemacie własnego ciała-zabawa ruchowa, w której dzieci rozpoznają i nazywają części ciała oraz rozróżniają prawą i lewą stronę ciała,</li>
-                                        <li>ćwiczenia kształtujące orientację w przestrzeni – stwarzają możliwość do utrwalania umiejętności rozróżniania kierunków oraz stosowania pojęć określających relacje przestrzenne,</li>
-                                        <li>następnie dzieci poznają piosenkę, wierszyk, który będzie towarzyszył im w dalszej części zajęć</li>
-                                    </ul>
-                                <li>Zajęcia właściwe:</li>
-                                    <ul>
-                                        <li>ćwiczenia ruchowe,</li>
-                                        <li>ćwiczenia ruchowo-słuchowe - dzieci śpiewając piosenkę, wypowiadając rytmicznie wierszyk wystukują jej rytm otwartymi dłońmi, pięściami, palcami,</li>
-                                        <li>ćwiczenia ruchowo-słuchowo-wzrokowe - dzieci uczą się kreślić wzór w rytm jednocześnie śpiewanej piosenki, mówionego wierszyka</li>
-                                    </ul>
-                                <li>Zajęcia końcowe – na zakończenie przeprowadza się krótkie ćwiczenia relaksujące lub wyciszające.</li>
-                            </ol>
-                    """,
-                    u"""
-                    <script type="text/javascript">
-                        markSelected('grupoweDobryStartDlaOdroczonych');
-                    </script>
-                    """
-                ],
+    
     u'szkPomocGrupoweDobryStart1.html':
                 [
                     u"\"Metoda Dobrego Startu\" dla uczniów kl. I szkoły podstawowej",
@@ -917,13 +851,8 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweKompetencjeSpołeczne.html':
                 [
-                    u"Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. III - VI szkoły podstawowej",
+                    u"Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. II - III szkoły podstawowej",
                     u"""
-                        <!--<div class="grupoweDetale">
-                            <p>Prowadzące: E. Cieszko-Kowalska, S. Cąkała</p>
-                            <p>Termin zajęć: wtorek godz.</p>
-                            <p>Miejsce: PPP Białogard, gabinet nr 5, I piętro</p>
-                        </div>-->
                      <h2>Cele</h2>
                      <ul>
                         <li>utrwalanie prawidłowych wzorców zachowania w grupie,</li>
@@ -940,7 +869,70 @@ class Zadania(Template):
                     </script>
                     """
                 ],
-    u'pomocGrupoweTwórczeMyślenie.html':
+    u'pomocGrupoweKompetencjeSpołeczneIV-VI.html':
+                [
+                    u"Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. IV - VI szkoły podstawowej",
+                    u"""
+                     <h2>Cele</h2>
+                     <ul>
+                        <li>utrwalanie prawidłowych wzorców zachowania w grupie,</li>
+                        <li>odreagowywanie napięć emocjonalnych,</li>
+                        <li>kształtowanie zdolności konstruktywnego reagowania w trudnych sytuacjach i umiejętności rozwiązywania konflików,</li>
+                        <li>rozwijanie umiejętności pełnienia ról społecznych,</li>
+                        <li>wzmacnianie poczucia własnej wartości, poznawanie swoich mocnych stron,</li>
+                        <li>przeżycie korektywnego doświadczenia stanowiącego alternatywę dla przebytych wcześniej urazów.</li>
+                     </ul>
+                    """,
+                    u"""
+                    <script type="text/javascript">
+                        markSelected('grupoweKompetencjeSpoleczne4-6');
+                    </script>
+                    """
+                ],
+    
+    u'pomocGrupoweSłuchamiOpowiadam.html':
+                [
+                    u"\"Bystrzaki - przedszkolaki\" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6 letnich <span class='attention'>NOWOŚĆ !</span>",
+                    u"""
+                        
+                        <h2>Cele</h2>
+                        <ul>
+                            <li>stymulowanie i usprawnianie percepcji słuchowej oraz wspieranie rozwoju psychoruchowego,</li>
+                            <li>lepsze przygotowanie do podjęcia nauki w klasie pierwszej, szczególnie w zakresie gotowości do opanowania umiejętności czytania,</li>
+                            <li>rozwijanie komunikacji językowej dziecka, poprzez opanowanie poprawności gramatycznej i stylistycznej wypowiedzi,</li>
+                            <li>kształcenie mowy ekspresyjnej, wyzwalanie motywacji do mówienia i działania,</li>
+                            <li>rozwijanie sfery emocjonalno-społecznej i motywacyjnej rozwoju dziecka,</li>
+                            <li>wyzwalanie potencjalnych możliwości dziecka oraz wzmacnianie jego mocnych stron.</li>
+                        </ul>
+                    """,
+                    u"""
+                    <script type="text/javascript">
+                        markSelected('grupoweSluchamOpowiadam');
+                    </script>
+                    """
+                ],
+    u'szkPomocGrupoweGrupaWsparcia.html':
+                [
+                    u"Grupa Wsparcia i Rozwoju Osobistego dla Młodzieży",
+                    u"""
+                        <h2>Cele</h2>
+                            <ul>
+                                <li>wzmacnianie poczucia własnej wartości, poznanie swoich mocnych stron i ograniczeń;</li>
+                                <li>nauka skutecznej komunikacji - praca nad umiejętnością wyrażania własnego zdania i postawą asertywną;</li>
+                                <li>doskonalenie umiejętności wyrażania i rozpoznawania uczuć;</li>
+                                <li>doskonalenie umiejętności radzenia sobie w sytuacjach stresogennych;</li>
+                                <li>nauka strategii rozwiązywania problemów i podejmowania decyzji;</li>
+                                <li>nauka planowania aktywności, rozkładu dnia, przewidywania konsekwencji swoich działań;</li>
+                                <li>planowanie i osiąganie ważnych celów życiowych.</li>
+                            </ul>
+                    """,
+                    u"""
+                    <script type="text/javascript">
+                        markSelected('szkGrupoweGrupaWsparcia');
+                    </script>
+                    """
+                ],
+     u'pomocGrupoweTwórczeMyślenie.html':
                 [
                     u"Trening twórczego myślenia dla uczniów klas IV-VI szkoły podstawowej",
                     u"""
@@ -961,27 +953,6 @@ class Zadania(Template):
                     u"""
                     <script type="text/javascript">
                         markSelected('grupoweTworczeMyslenie');
-                    </script>
-                    """
-                ],
-    u'pomocGrupoweSłuchamiOpowiadam.html':
-                [
-                    u"\"Bystrzaki - przedszkolaki\" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6 letnich <span class='attention'>NOWOŚĆ !</span>",
-                    u"""
-                        
-                        <h2>Cele</h2>
-                        <ul>
-                            <li>stymulowanie i usprawnianie percepcji słuchowej oraz wspieranie rozwoju psychoruchowego,</li>
-                            <li>lepsze przygotowanie do podjęcia nauki w klasie pierwszej, szczególnie w zakresie gotowości do opanowania umiejętności czytania,</li>
-                            <li>rozwijanie komunikacji językowej dziecka, poprzez opanowanie poprawności gramatycznej i stylistycznej wypowiedzi,</li>
-                            <li>kształcenie mowy ekspresyjnej, wyzwalanie motywacji do mówienia i działania,</li>
-                            <li>rozwijanie sfery emocjonalno-społecznej i motywacyjnej rozwoju dziecka,</li>
-                            <li>wyzwalanie potencjalnych możliwości dziecka oraz wzmacnianie jego mocnych stron.</li>
-                        </ul>
-                    """,
-                    u"""
-                    <script type="text/javascript">
-                        markSelected('grupoweSluchamOpowiadam');
                     </script>
                     """
                 ],
@@ -1501,51 +1472,8 @@ class Zadania(Template):
                     </script>
                     """
                 ],
-    u'szkPomocGrupoweGrupaWsparcia.html':
-                [
-                    u"Grupa Wsparcia i Rozwoju Osobistego dla Młodzieży",
-                    u"""
-                        <h2>Cele</h2>
-                            <ul>
-                                <li>wzmacnianie poczucia własnej wartości, poznanie swoich mocnych stron i ograniczeń;</li>
-                                <li>nauka skutecznej komunikacji - praca nad umiejętnością wyrażania własnego zdania i postawą asertywną;</li>
-                                <li>doskonalenie umiejętności wyrażania i rozpoznawania uczuć;</li>
-                                <li>doskonalenie umiejętności radzenia sobie w sytuacjach stresogennych;</li>
-                                <li>nauka strategii rozwiązywania problemów i podejmowania decyzji;</li>
-                                <li>nauka planowania aktywności, rozkładu dnia, przewidywania konsekwencji swoich działań;</li>
-                                <li>planowanie i osiąganie ważnych celów życiowych.</li>
-                            </ul>
-                    """,
-                    u"""
-                    <script type="text/javascript">
-                        markSelected('szkGrupoweGrupaWsparcia');
-                    </script>
-                    """
-                ],
-    u'pomocGrupoweLepiejGloskuje.html':
-                [
-                    u"Zajęcia grupowe dla dzieci 5-letnich \"Lepiej głoskuję, lepiej opowiadam\"",
-                    u"""
-                        <h2>Cele</h2>
-
-                        <p>Zajęcia grupowe dla dzieci 5-letnich \"Lepiej głoskuję, lepiej opowiadam\" mają na celu odkrywanie języka w jego różnych aspektach poprzez:</p>
-                        <ul>
-                            <li>rozwój świadomości metafonolofgicznej – czyli dotyczącej dźwiękowej struktury języka (umiejętność dzielenia słów na sylaby, sprawne określanie głoski na początku,
-                                na końcu i w środku słowa, dzielenie słów na głoski, różnicowanie głosek o podobnym brzmieniu, dobra spostrzegawczość i uwaga słuchowa),</li>
-                            <li>rozwój świadomości metamorfologicznej – czyli bogacenie zasobu słownictwa, wiedzy o sposobach tworzenia wyrazów,</li>
-                            <li>rozwój świadomości metasyntaktycznej – czyli wiedzy o budowie zdania, rozpoznawanie części mowy,</li>
-                            <li>rozwój świadomości metapragmatycznej – czyli umiejętności bardziej sprawnego używania języka – w tym aktywnego słuchania i rozumienia słuchanego tekstu,
-                                umiejętność planowania swoich wypowiedzi, wyrażania swoich myśli, przeżyć i spostrzeżeń.</li>
-                        </ul>
-
-                        <p>Najogólniejszym celem zajęć jest dobre przygotowanie dzieci do nauki poprawnego czytania i pisania.</p>
-                    """,
-                    u"""
-                    <script type="text/javascript">
-                        markSelected('pomocGrupoweLepiejGloskuje');
-                    </script>
-                    """
-                ],
+    
+    
     u'pomocGrupoweMatematyka.html':
                 [
                     u"Matematyka bez trudności dla uczniów klas IV-VI szkoły podstawowej",

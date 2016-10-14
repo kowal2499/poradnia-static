@@ -272,6 +272,16 @@
                 </div>
 
                 <div class="newsWrapper">
+                    <div class="myTitle">Harmonogram</div>
+                            <div class="clear"></div>
+                            <div class="pin">
+                                <a href="subpages/pomocGrupowe.html"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>&nbsp;Harmonogram zajęć grupowych dla dzieci organizowanych na terenie Poradni</a>
+                                
+                            </div> 
+                </div>
+
+
+                <div class="newsWrapper">
                     <div class="myTitle">Polecamy</div>
                             <div class="clear"></div>
                             <div class="pin">
