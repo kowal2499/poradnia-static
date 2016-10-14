@@ -3,6 +3,31 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Nabór na stanowisko Referenta ds. Administracyjno-Biurowych</tekst>
+            <link>extra/kariera.html</link>
+        </tytuł>
+        <data>
+            14/10/2016
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+            
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Dyrektor Poradni Psychologiczno – Pedagogicznej w Białogardzie ogłasza nabór na stanowisko <strong>Referenta ds. Administracyjno-Biurowych</strong></p>
+                <a href="extra/kariera.html" class="btn btn-default">Szczegóły</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+
+    <wiadomość>
+        <tytuł>
             <tekst>"Bystrzaki - przedszkolaki" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6-letnich</tekst>
         </tytuł>
         <data>
@@ -282,27 +307,6 @@
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
     </wiadomość>
-
-    <!-- ################################################################## -->
-
-    <!-- <wiadomość>
-        <tytuł>
-            <tekst>Kontakt telefoniczny z Poradnią</tekst>
-        </tytuł>
-        <data>
-            16/06/2016
-        </data>
-        <obrazek>
-        </obrazek>
-        <opis>
-            <![CDATA[
-            Informujemy, że z powodu awarii telefon stacjonarny jest nieczynny. Zachęcamy do kontaktu pod numerem telefonu komórkowego: <strong>515 082 620</strong>.
-            ]]>
-        </opis>
-        <okienko>nie</okienko>
-        <okienko_tylko_obrazek></okienko_tylko_obrazek>
-        <okienko_html></okienko_html>
-    </wiadomość> -->
 
     <!-- ################################################################## -->
 
