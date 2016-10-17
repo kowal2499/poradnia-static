@@ -39,7 +39,7 @@ document.getElementById("tasksMenu").innerHTML =
 
 "                                                  <li id='szkGrupoweJakajace'><div class='liElement'>Zajęcia dla dzieci jąkających się.</div></li>"+
 "                                                  <li id='grupoweArteterapia'><div class='liElement'>Zajęcia stymulujące rozwój z wykorzystaniem arteterapii dla uczniów klas IV-VI szkoły podstawowej</div></li>"+
-"                                                  <li id='szkGrupoweBajkoterapia'><a href='szkPomocGrupoweBajkoterapia.html'><div class='liElement'>Bajkoterapia dla dzieci klas 0-I i II-III szkoły podstawowej</div></a></li>"+
+"                                                  <li id='szkGrupoweBajkoterapia'><a href='szkPomocGrupoweBajkoterapia.html'><div class='liElement'>Bajkoterapia dla dzieci klas II-III szkoły podstawowej</div></a></li>"+
 "                                                  <li id='szkGrupoweSensoryka'><a href='szkPomocGrupoweSensoryka.html'><div class='liElement'>'Uczę się przez zmysły' - zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 7 lat</div></a></li>"+
 "                                                  <li id='szkGrupoweFunkcjeSluchowe'><div class='liElement'>Zajęcia stymulujące funkcje słuchowe u dzieci słabosłyszących<br /></div></li>"+
 "                                                  <li id='szkGrupoweFunkcjeWzrokowe'><div class='liElement'>Zajęcia stymulujące funkcje wzrokowe u dzieci słabowidzących<br /></div></li>"+

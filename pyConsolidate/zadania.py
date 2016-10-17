@@ -829,7 +829,7 @@ class Zadania(Template):
                 ],
     u'szkPomocGrupoweBajkoterapia.html':
                 [
-                    u"Bajkoterapia dla dzieci klas 0-I i II-III szkoły podstawowej",
+                    u"Bajkoterapia dla dzieci klas II-III szkoły podstawowej",
                     u"""
                         <p>Bajkoterapia to - mówiąc najprościej – terapia przez bajki. Terapeutyczne opowiadania pomagają uporać się z dziecięcymi lękami i wątpliwościami. Wyjaśniają istotę zachowań uznawanych przez społeczeństwo. Bajki dotykają ważnych obszarów takich, jak zazdrość i odwaga, złość, tolerancja, wdzięczność, rywalizacja między rówieśnikami, agresja, lęk i wiele innych. Dla szkraba są wyjątkowo bezpieczne gdyż ma ona możliwość stawienia czoła problemom, które przeżywają zwierzątka, misie, rycerze lub inni bohaterowie. Dziecko identyfikuje się z tym, który w jakiś sposób jest mu najbliższy. Robi to jednak zupełnie nieświadomie dzięki czemu nie czuje się „przyciskane”, kontrolowane lub zmuszane do wynurzeń. W taki sposób znajduje zrozumienie, czuje, że nie jest samo, doświadcza rozwiązania i ma szansę zdecydować czy ono mu odpowiada. Często próbuje tego samego rozwiązania w świecie realnym.</p>
                         <h2>Cele terapii</h2>
