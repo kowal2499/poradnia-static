@@ -16,7 +16,7 @@ var eventsDatabase = [
                             
 
                             {
-                                   date: "21.10.2016 godz. 10:30",
+                                   date: "09.12.2016 godz. 11:30",
                                    action: "<p><a href='subpages/pomocDlaNauczycieli.html#sieć_współpracy'>Sieć współpracy i samokształcenia dla socjoterapeutów.</a></p>"
                             }, 
                             
