@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Nowy dyrektor Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
+        </tytuł>
+        <data>
+            03/11/2016
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+            
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Informujemy, że zgodnie z Uchwałą nr 78/2016 Zarządu Powiatu w Białogardzie z dnia 11 października 2016 roku powierza się Pani Bożenie Pantoł stanowisko dyrektora Poradni Psychologiczno-Pedagogicznej w Białogardzie na okres 5 lat szkolnych, tj. od dnia 1 listopada 2016 roku do dnia 31 sierpnia 2021 roku. </p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
     <wiadomość>
         <tytuł>
             <tekst>Nabór na stanowisko Referenta ds. Administracyjno-Biurowych</tekst>
@@ -26,7 +49,7 @@
 
 
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>"Bystrzaki - przedszkolaki" - zajęcia stymulujące funkcje słuchowe i sprawność językową dla dzieci 6-letnich</tekst>
         </tytuł>
@@ -78,7 +101,7 @@
             ]]>
 
         </okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
 
 
