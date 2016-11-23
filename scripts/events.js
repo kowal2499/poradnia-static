@@ -17,7 +17,7 @@ var eventsDatabase = [
 
                             {
                                    date: "09.12.2016 godz. 11:30",
-                                   action: "<p><a href='subpages/pomocDlaNauczycieli.html#sieć_współpracy'>Sieć współpracy i samokształcenia dla socjoterapeutów.</a></p>"
+                                   action: "<p><a href='extra/siec-wsparcia-02.html'>Sieć współpracy i samokształcenia dla socjoterapeutów.</a></p>"
                             } 
                             
                             // {
