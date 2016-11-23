@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
+    <wiadomość>
+        <tytuł>
+            <tekst>Wybór pracownika na stanowisko referenta ds. administracyjno-biurowych w Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
+        </tytuł>
+        <data>
+            23/11/2016
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+            
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Dyrektor Poradni Psychologiczno-Pedagogicznej w Białogardzie informuje, że Katarzyna Pietrasiewicz została wybrana na stanowisko referenta ds. administracyjno-biurowych w Poradni Psychologiczno-Pedagogicznej w Białogardzie.</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Drugie spotkanie w ramach "Sieci współpracy i samokształcenia dla socjoterapeutów"</tekst>
+            <link>extra/siec-wsparcia-02.html</link>
+        </tytuł>
+        <data>
+            23/11/2016
+        </data>
+        <obrazek>
+            <plik>img/siec_wspolpracy_mini.jpg</plik>
+            <link>extra/siec-wsparcia-02.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Dyrektor Poradni Psychologiczno-Pedagogicznej w Białogardzie zaprasza socjoterapeutów z powiatu białogardzkiego do uczestnictwa w <strong>"Sieci współpracy i samokształcenia dla socjoterapeutów"</strong></p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
 
     <wiadomość>
         <tytuł>
