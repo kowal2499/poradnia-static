@@ -3,6 +3,37 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Zmiana dwóch wniosków</tekst>
+        </tytuł>
+        <data>
+            24/11/2016
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+            
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Informujemy, że w zakładce do pobrania zostały umieszczone zmodyfikowane dwa druki: 
+                    <ul>
+                        <li>wniosek o przeprowadzenie badań diagnostycznych <a href="download/wniosek o przeprowadzenie badań diagnostycznych.pdf" class="btn btn-default text-center" download>Pobierz</a></li>
+                        <li>wniosek o wydanie opinii/informacji <a href="download/wniosek o wydanie opinii-informacji.pdf" class="btn btn-default text-center" download>Pobierz</a></li> 
+                    </ul>
+                </p>
+
+                <p>
+                    Przypominamy także, że dzieci i młodzież do 18-tego roku życia mogą brać udział w diagnozie przeprowadzanej w Poradni Psychologiczno-Pedagogicznej w Białogardzie jedynie na wniosek rodzica/opiekuna prawnego, wypełnionego w dniu badania. W związku z tym <span style='text-decoration: underline'>niezbędna jest obecność rodzica/opiekuna prawnego podczas każdej części diagnozy dziecka</span>.
+                </p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
             <tekst>Wybór pracownika na stanowisko referenta ds. administracyjno-biurowych w Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
         </tytuł>
         <data>
@@ -40,6 +71,7 @@
                 <p>Dyrektor Poradni Psychologiczno-Pedagogicznej w Białogardzie zaprasza socjoterapeutów z powiatu białogardzkiego do uczestnictwa w <strong>"Sieci współpracy i samokształcenia dla socjoterapeutów"</strong></p>
 
                 <a href="extra/siec-wsparcia-02.html" class="btn btn-default text-center">Czytaj dalej ...</a>
+                <br>
             ]]>
         </opis>
         <okienko>nie</okienko>
@@ -224,7 +256,7 @@
 
     <!-- ################################################################## -->
     
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Nowa forma wsparcia dla socjoterapeutów - zapraszamy</tekst>
         </tytuł>
@@ -273,7 +305,7 @@
                </div>
             ]]>
         </okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
 
 
@@ -356,7 +388,7 @@
     <!-- ################################################################## -->
 
 
-    <wiadomość>
+   <!--  <wiadomość>
         <tytuł>
             <tekst>Oferta i propozycje współpracy z Poradnią na spotkaniu dla pedagogów/przedstawicieli placówek</tekst>
         </tytuł>
@@ -375,11 +407,11 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- ################################################################## -->
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Gimnastyka buzi i języka, czyli jak doskonalić mowę? - spotkanie logopedyczne</tekst>
         </tytuł>
@@ -423,7 +455,7 @@
                 </div>
             ]]>
         </okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- ################################################################## -->
 
@@ -470,7 +502,7 @@
 
     <!-- ################################################################## -->
     
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>II Powiatowa Konferencja już za nami...</tekst>
             <link>extra/konferencja2016/konferencja.html</link>
@@ -491,7 +523,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- ################################################################## -->
 
@@ -567,7 +599,7 @@
 
     <!-- ################################################################## -->
     
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Szkolenie na temat: "Jak skutecznie pokonać jąkanie?"</tekst>
         </tytuł>
@@ -609,7 +641,7 @@
                </div>
             ]]>
         </okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- ################################################################## -->
 

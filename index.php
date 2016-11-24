@@ -78,7 +78,7 @@
         }
 
         #welcomeArea p {
-            font-size: 0.9em;
+            font-size: 1.05em;
             
             margin-left: 25%;
             margin-right: 20px;
@@ -131,6 +131,11 @@
             margin-top: 20px;
             margin-bottom: 20px;
 
+        }
+
+        .newsWindowMessage {
+            font-size: 1.05em;
+            color: #333;
         }
         /*
             main colors:
@@ -389,6 +394,8 @@ function attachHTML(content) {
     </script>
 
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQGfqQzuQ09iqS32nZnfoCfoO9s1UoJKU&callback=initialize" type="text/javascript"></script>
+
+    <?php include_once("analyticstracking.php") ?>
 
 </body>
 </html>

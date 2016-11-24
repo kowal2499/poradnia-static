@@ -31,6 +31,11 @@ class Template(object):
                 resultStr = self.template
                 for id, content in enumerate(self.database[filee]):
                     resultStr = resultStr.replace(u"<!--arg" + unicode(id) + u"-->", content)
+
+                resultStr = resultStr + """
+
+
+                """
                 outputFile.write(resultStr.encode('utf8'))
                 outputFile.close()
             except IOError:
