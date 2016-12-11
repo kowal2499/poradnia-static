@@ -3,10 +3,32 @@
 
     <wiadomość>
         <tytuł>
-            <tekst>Zmiana dwóch wniosków</tekst>
+            <tekst>Wesołych Świąt !</tekst>
         </tytuł>
         <data>
-            24/11/2016
+            12/12/2016
+        </data>
+        <obrazek>
+            <plik>img/christmas-card-mini.jpg</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Z okazji Świąt Bożego Narodzenia wielu głębokich i radosnych przeżyć, wewnętrznego spokoju i radości oraz wszelkiej pomyślności w każdym dniu nadchodzącego Roku życzą pracownicy Poradni Psychologiczno-Pedagogicznej w Białogardzie.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek>img/christmas-card.jpg</okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Nabór na stanowisko psychologa w Poradni Psychologiczno-Pedagogicznej</tekst>
+            <link>extra/kariera-psycholog.html</link>
+        </tytuł>
+        <data>
+            11/12/2016
         </data>
         <obrazek>
             <plik>img/news-praca.png</plik>
@@ -14,23 +36,14 @@
         </obrazek>
         <opis>
             <![CDATA[
-                <p>Informujemy, że w zakładce do pobrania zostały umieszczone zmodyfikowane dwa druki: 
-                    <ul>
-                        <li>wniosek o przeprowadzenie badań diagnostycznych <a href="download/wniosek o przeprowadzenie badań diagnostycznych.pdf" class="btn btn-default text-center" download>Pobierz</a></li>
-                        <li>wniosek o wydanie opinii/informacji <a href="download/wniosek o wydanie opinii-informacji.pdf" class="btn btn-default text-center" download>Pobierz</a></li> 
-                    </ul>
-                </p>
-
-                <p>
-                    Przypominamy także, że dzieci i młodzież do 18-tego roku życia mogą brać udział w diagnozie przeprowadzanej w Poradni Psychologiczno-Pedagogicznej w Białogardzie jedynie na wniosek rodzica/opiekuna prawnego, wypełnionego w dniu badania. W związku z tym <span style='text-decoration: underline'>niezbędna jest obecność rodzica/opiekuna prawnego podczas każdej części diagnozy dziecka</span>.
-                </p>
+                <p>Dyrektor Poradni Psychologiczno – Pedagogicznej w Białogardzie ogłasza nabór na stanowisko <strong>psychologa</strong></p>
+                <a href="extra/kariera-psycholog.html" class="btn btn-default">Szczegóły</a>
             ]]>
         </opis>
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
     </wiadomość>
-
 
     <wiadomość>
         <tytuł>
@@ -71,7 +84,6 @@
                 <p>Dyrektor Poradni Psychologiczno-Pedagogicznej w Białogardzie zaprasza socjoterapeutów z powiatu białogardzkiego do uczestnictwa w <strong>"Sieci współpracy i samokształcenia dla socjoterapeutów"</strong></p>
 
                 <a href="extra/siec-wsparcia-02.html" class="btn btn-default text-center">Czytaj dalej ...</a>
-                <br>
             ]]>
         </opis>
         <okienko>nie</okienko>
@@ -310,9 +322,9 @@
 
 
 
-	<!-- ################################################################## -->
+    <!-- ################################################################## -->
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Życzenia na nowy rok szkolny</tekst>
         </tytuł>
@@ -331,7 +343,7 @@
         <okienko>tak</okienko>
         <okienko_tylko_obrazek>img/rokszkolny2016-2017_big.jpg</okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- ################################################################## -->
     
@@ -388,7 +400,7 @@
     <!-- ################################################################## -->
 
 
-   <!--  <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Oferta i propozycje współpracy z Poradnią na spotkaniu dla pedagogów/przedstawicieli placówek</tekst>
         </tytuł>
