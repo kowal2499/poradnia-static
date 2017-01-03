@@ -1,4 +1,9 @@
 var eventsDatabase = [    
+
+                            {
+                                   date: "17.01.2017 godz. 16:30",
+                                   action: "<p><a href='extra/siec-wspolpracy-02.html'>Sieć współpracy i samokształcenia dla nauczycieli wychowania przedszkolnego.<img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px;'></a></p>"
+                            } 
                             
                             
                             // {
@@ -27,16 +32,16 @@ var eventsDatabase = [
 
                             
 
-                            /*{
-                            date: "15/10/2015",
-                            action: '<a href="#popupWindow" onclick="attachHTML(\'' + newsDatabase[0].lightboxHTML + '\')">Szkolenie dla logopedów pt. \'Jak skutecznie pokonać jąkanie?\'</a>'
-                            },*/
+                            // {
+                            // date: "15/10/2015",
+                            // action: '<a href="#popupWindow" onclick="attachHTML(\'' + newsDatabase[0].lightboxHTML + '\')">Szkolenie dla logopedów pt. \'Jak skutecznie pokonać jąkanie?\'</a>'
+                            // },
                             
  
-                            /*{
-                            date: "01/10/2015",
-                            action: "<a href='subpages/pomocDlaRodzicówSzkoła.html'>Spotkanie organizacyjne I edycji \"Szkoły dla Rodziców i Wychowawców\"</a>"
-                            },*/
+                            // {
+                            // date: "01/10/2015",
+                            // action: "<a href='subpages/pomocDlaRodzicówSzkoła.html'>Spotkanie organizacyjne I edycji \"Szkoły dla Rodziców i Wychowawców\"</a>"
+                            // },
 
                             // {
                             //        date: "19/12/2015",

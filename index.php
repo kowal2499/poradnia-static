@@ -351,8 +351,8 @@
     <script src="bootstrap/js/bootstrap.min.js"></script>
 
     <!-- <script type="text/javascript" src="scripts/news.js"></script> -->
-    <script type="text/javascript" src="scripts/events.js?v=4"></script>
-    <script type="text/javascript" src="scripts/past-events.js?v=4"></script>
+    <script type="text/javascript" src="scripts/events.js?v=5"></script>
+    <script type="text/javascript" src="scripts/past-events.js?v=5"></script>
 
     
     

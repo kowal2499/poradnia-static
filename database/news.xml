@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
+	<wiadomość>
+        <tytuł>
+            <tekst>Drugie spotkanie w ramach "Sieci współpracy i samokształcenia dla nauczycieli wychowania przedszkolnego"</tekst>
+            <link>extra/siec-wspolpracy-02.html</link>
+        </tytuł>
+        <data>
+            03/01/2017
+        </data>
+        <obrazek>
+            <plik>img/siec_wspolpracy_mini.jpg</plik>
+            <link>extra/siec-wspolpracy-02.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Drugie spotkanie w ramach pracy <em>"Sieci współpracy i samokształcenia dla nauczycieli wychowania przedszkolnego"</em> odbędzie się dnia 17.01.2017r. o godz. 16:30 w
+                   Klubie Nauczyciela (sala nr 3 w PPP Białogard).</p><p>Na spotkaniu, zgodnie ze wcześniejszymi ustaleniami, zaprezentowany zostanie materiał nt. "Mutyzm wybiórczy – fakty i mity".</p>
+
+                <a href="extra/siec-wspolpracy-02.html" class="btn btn-default text-center">Czytaj dalej ...</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
     <wiadomość>
         <tytuł>
             <tekst>Wesołych Świąt !</tekst>
