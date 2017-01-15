@@ -337,7 +337,7 @@
  <!-- ==================== FOOTER ==================== -->
 <div class="footer">
     <div class="container">
-        &copy; 2016 Poradnia Psychologiczno-Pedagogiczna w Białogardzie
+        &copy; 2017 Poradnia Psychologiczno-Pedagogiczna w Białogardzie
     </div>
 </div>
 

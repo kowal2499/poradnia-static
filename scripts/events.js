@@ -1,9 +1,20 @@
 var eventsDatabase = [    
+                            
 
                             {
                                    date: "17.01.2017 godz. 16:30",
-                                   action: "<p><a href='extra/siec-wspolpracy-02.html'>Sieć współpracy i samokształcenia dla nauczycieli wychowania przedszkolnego.<img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px;'></a></p>"
-                            } 
+                                   action: "<p><a href='extra/siec-wspolpracy-02.html'>Sieć współpracy i samokształcenia dla nauczycieli wychowania przedszkolnego.<br><img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
+                            },
+
+                            {
+                                   date: "03.02.2017 godz. 11:30",
+                                   action: "<p><a href='extra/socjoterapeuci-03.html'>Sieć współpracy i samokształcenia dla socjoterapeutów.<br><img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
+                            },
+
+                            {
+                                   date: "13-17.02.2017",
+                                   action: "<p><a href='extra/ferie-z-poradnia.html'>Ferie z Poradnią<br><img src='img/ferie-z-poradnia-mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
+                            }
                             
                             
                             // {
