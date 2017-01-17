@@ -1131,7 +1131,7 @@ class Zadania(Template):
                                     <li>Maria Jonko – logopeda, pedagog</li>
                                     <li>Anna Politowska-Kowal - pedagog</li>
                                 </ul>
-                                <strong>Zapisy:</strong> do 6 lutego 2017 r. w Poradni Psychologiczno – Pedagogicznej w Białogardzie, ul. Dworcowa 2 poprzez wypełnienie wniosku <a href="../download/wniosek_o_zakwalifikowanie_dziecka_na Ferie_z_Poradnia.pdf" download>(pobierz pdf)</a> oraz dostarczenie do sekretariatu poradni czynnego od poniedziałku do piątku w godzinach 7.30 -15.30.<br>
+                                <strong>Zapisy:</strong> do 6 lutego 2017 r. w Poradni Psychologiczno – Pedagogicznej w Białogardzie, ul. Dworcowa 2 poprzez wypełnienie wniosku <a href="../download/wniosek_o_zakwalifikowanie_dziecka.pdf" download>(pobierz pdf)</a> oraz dostarczenie do sekretariatu poradni czynnego od poniedziałku do piątku w godzinach 7.30 -15.30.<br>
                                 </p>
 
                                 <hr>

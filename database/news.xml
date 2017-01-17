@@ -3,6 +3,26 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Zmiana obowiązujących formularzy</tekst>
+        </tytuł>
+        <data>
+            17/01/2017
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Informujemy, że od 1 lutego 2017 roku w Poradni Psychologiczno-Pedagogicznej w Białogardzie będą obowiązywać nowe druki.</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <wiadomość>
+        <tytuł>
             <tekst>Ruszają zapisy na "Ferie z Poradnią" - unikalne zajęcia, które bawią i uczą</tekst>
             <link>extra/ferie-z-poradnia.html</link>
         </tytuł>
