@@ -3,6 +3,93 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Zakończyły się "Ferie z Poradnią" - unikalne zajęcia, które bawią i uczą</tekst>
+            <link>extra/ferie-z-poradnia-2017/ferie.html</link>
+        </tytuł>
+        <data>
+            17/02/2017
+        </data>
+        <obrazek>
+            <plik>img/ferie-z-poradnia-mini.jpg</plik>
+            <link>extra/ferie-z-poradnia-2017/ferie.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>W dniach od 13.02. do 17.02.2017 roku w naszej poradni zorganizowaliśmy po raz pierwszy akcję pod tytułem "Ferie z Poradnią". W spotkaniach uczestniczyli uczniowie z klas I-III szkół podstawowych z Białogardu i powiatu białogardzkiego.</p>
+
+                <a href="extra/ferie-z-poradnia-2017/ferie.html" class="btn btn-default text-center">Czytaj dalej ...</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Rusza "Szkoła dla Rodziców" cz. II – Rodzeństwo bez rywalizacji! </tekst>
+            <link>subpages/pomocDlaRodzicówSzkoła.html#szkola-cz-2</link>
+        </tytuł>
+        <data>
+            06/02/2017
+        </data>
+        <obrazek>
+            <plik>img/mini-szkola-ii.jpg</plik>
+            <link>subpages/pomocDlaRodzicówSzkoła.html#szkola-cz-2</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>
+                    Poradnia Psychologiczno-Pedagogiczna w Białogardzie serdecznie zaprasza <strong>RODZICÓW:</strong>
+                </p>
+                <ul>
+                    <li>absolwentów "Szkoły dla Rodziców" cz. I,</li>
+                    <li>mających więcej niż jedno dziecko,</li>
+                    <li>pragnących wspierać dzieci w budowaniu wzajemnych relacji opartych na szacunku i więzi,</li>
+                    <li>chcących konstruktywnie radzić sobie z zazdrością, rywalizacją, kłótniami między rodzeństwem</li>
+                </ul>
+                <p>
+                    do udziału w drugiej części – <strong>"Rodzeństwo bez rywalizacji"</strong>.
+                </p>
+
+                 <p>
+                    <strong>Spotkanie informacyjne odbędzie się 8.03.2017 roku o godz. 16:30 w budynku poradni, w gabinecie nr 5 na I piętrze.</strong>
+                    <br><br>
+                    <a href="subpages/pomocDlaRodzicówSzkoła.html#szkola-cz-2" class="btn btn-default text-center">Dodatkowe informacje ...</a>
+                </p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Nowy psycholog w Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
+        </tytuł>
+        <data>
+            01/02/2017
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+            
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Informujemy, że pani Anna Wrzesińska została zatrudniona na stanowisku psychologa w Poradni Psychologiczno-Pedagogicznej w Białogardzie od 1 lutego 2017 roku.</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <wiadomość>
+        <tytuł>
             <tekst>Zmiana obowiązujących formularzy</tekst>
         </tytuł>
         <data>
@@ -21,7 +108,7 @@
         <okienko_html></okienko_html>
     </wiadomość>
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Ruszają zapisy na "Ferie z Poradnią" - unikalne zajęcia, które bawią i uczą</tekst>
             <link>extra/ferie-z-poradnia.html</link>
@@ -45,7 +132,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <wiadomość>
         <tytuł>
@@ -118,7 +205,7 @@
     </wiadomość> -->
 
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Nabór na stanowisko psychologa w Poradni Psychologiczno-Pedagogicznej</tekst>
             <link>extra/kariera-psycholog.html</link>
@@ -139,7 +226,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- <wiadomość>
         <tytuł>
@@ -188,7 +275,7 @@
     </wiadomość>
  -->
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Nowy dyrektor Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
         </tytuł>
@@ -207,7 +294,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
 
   <!--   <wiadomość>

@@ -1112,7 +1112,14 @@ class Zadania(Template):
                                     </div>
                                 </div>
                                 
-                                <hr>
+                                <div>
+                               
+                                <a href="../extra/ferie-z-poradnia-2017/ferie.html" class="btn btn-default text-center pull-right">Relacja z edycji 2017</a>
+                                <br><br><br>
+                                </div>
+
+
+                                <!--
 
                                 <p>
                                 <strong>"Ferie z Poradnią"</strong> dla uczniów klas I-III szkół podstawowych z powiatu białogardzkiego.<br> 
@@ -1164,6 +1171,8 @@ class Zadania(Template):
                                     <strong>Zapraszamy dzieci do wspólnej zabawy.<br>
                                     Każdego dnia czekać będą dla nich zadania – niespodzianki!!!</strong>
                                 </p>
+
+                                -->
                                 
                                 <hr>
 
@@ -1246,12 +1255,12 @@ class Zadania(Template):
                         </ul>
 
                         <div id="szkola-cz-2">
-                        <h1>Część II - "Rodzeństwo bez rywalizacji"</h1>
+                        <h1 id="czII">Część II - "Rodzeństwo bez rywalizacji"</h1>
                         <p>
                         Istnieje także możliwość udziału absolwentów "Szkoły dla Rodziców cz. I" w cz. II - <strong>"Rodzeństwo bez rywalizacji"</strong> <span class='attention'>NOWOŚĆ !</span>
                         </p>
 
-                        <!-- <img src="../img/rodzenstwo-plakat.jpg" class="img-responsive center-block"> -->
+                        <img src="../img/plakat-rodzenstwo-bez-rywalizacji.jpg" alt="Rodzeństwo bez rywalizacji' class="block-center" style="width: 80%; padding-bottom: 20px;">
                         <h2>Cele zajęć:</h2>
                         <ul>
                             <li>wspieranie procesu budowania wzajemnych (opartych na więzi i szacunku) relacji między dziećmi,</li>
@@ -1268,7 +1277,16 @@ class Zadania(Template):
                             <li>problemy sprawiedliwości, ulubieńców i egoizmu,</li>
                             <li>wpływ ról na relacje między dziećmi.</li>
                         </ul>
-                        </div>
+
+                        <h2>Forma zajęć:</h2>
+                            <ul>
+                                <li>7 spotkań prowadzonych metodami aktywnymi,</li>
+                                <li>każde ze spotkań trwa 2-3 godziny,</li>
+                                <li>spotkania mają stałą strukturę: rundka na początek (omówienie pracy domowej, z czym przychodzę na zajęcia, co się zdarzyło w ciągu tygodnia), po czym omówienie nowego tematu, ćwiczenia praktyczne oraz rundka na zakończenie (z jakim uczuciem, myślą wychodzę dziś z zajęć);</li>
+                                <li>w zajęciach wykorzystywana jest książka "Rodzeństwo bez rywalizacji" A. Faber, E. Mazlisch;</li>
+                                <li>każdy z rodziców na bieżąco otrzymuje materiały z danego spotkania, uczestnicy mają także do wykonania zadania domowe służące praktycznemu wdrażaniu nowych umiejętności, pracują także w domu ze wskazaną wcześniej książką.</li>
+                            </ul>
+
 
                     """,
                     u"""

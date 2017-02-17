@@ -1,0 +1,50 @@
+.img-wrapper {
+    position: relative;
+}
+
+.area-left {
+    position: absolute; 
+    width: 50%; 
+    height: 100%; 
+    top: 0px;
+}
+
+.area-right {
+    position: absolute; 
+    width: 50%; 
+    height: 100%; 
+    top: 0px; 
+    left: 50%;
+}
+
+.area-left-arrow {
+  position: absolute; 
+  top:46%;
+  opacity: 0;
+  left: -30px;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.area-left:hover .area-left-arrow {
+  opacity: 1;
+  left: 10px;
+}
+
+.area-right-arrow {
+  position: absolute; 
+  top:46%;
+  opacity: 0;
+  right: -30px;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.area-right:hover .area-right-arrow {
+  opacity: 1;
+  right: 10px;
+}

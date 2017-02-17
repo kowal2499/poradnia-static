@@ -16,6 +16,11 @@ var eventsDatabase = [
                             // },
 
                             {
+                                   date: "17/02/2017",
+                                   action: "<a href='extra/ferie-z-poradnia-2017/ferie.html'>Ferie z Poradnią 2017 - FOTORELACJA<br><img src='img/ferie-z-poradnia-mini.jpg' style='margin-top: 10px; width: 120px;'></a>"
+                            },
+
+                            {
                                    date: "01/09/2016",
                                    action: "<a href='download/wspomaganie.pdf' download>Artykuł na temat wspomagania szkół/przedszkoli/placówek<img src='img/wspomaganie2016.jpg' style='margin-top: 10px; width: 120px;'></a>"
                             },
