@@ -11,6 +11,21 @@ var eventsDatabase = [
                                    date: "08.03.2017 godz. 16:30",
                                    action: "<p><a href='subpages/pomocDlaRodzicówSzkoła.html#szkola-cz-2'>'Szkoła dla Rodziców' cz. II – Rodzeństwo bez rywalizacji<br><img src='img/mini-szkola-ii.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
                             },
+
+                            {
+                                   date: "09.03.2017 godz. 17:00",
+                                   action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 1</a></p>"
+                            },
+
+                            {
+                                   date: "16.03.2017 godz. 17:00",
+                                   action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 2</a></p>"
+                            },
+
+                            {
+                                   date: "23.03.2017 godz. 17:00",
+                                   action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 3</a></p>"
+                            },
                             
                             
                             // {

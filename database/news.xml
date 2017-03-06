@@ -3,6 +3,32 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Cykl trzech spotkań warsztatowych dla rodziców "Jak pomóc dziecku w radzeniu sobie z emocjami?"</tekst>
+            <link>extra/emocje.html</link>
+        </tytuł>
+        <data>
+            01/03/2017
+        </data>
+        <obrazek>
+            <plik>img/emocje-mini.jpg</plik>
+            <link>extra/emocje.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Serdecznie zapraszamy rodziców szczególnie dzieci uczęszczających na zajęcia w poradni na warsztaty <strong>"Jak pomóc dziecku w radzeniu sobie z emocjami?"</strong>.</p>
+                <p>Jest to cykl trzech spotkań, które odbędą się 9.03, 16.03 i 23.03.2017 r. o godz. 17:00 w Klubie Nauczyciela na parterze w budynku poradni.</p>
+
+                <a href="extra/emocje.html" class="btn btn-default text-center">Czytaj dalej ...</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
             <tekst>Zakończyły się "Ferie z Poradnią" - unikalne zajęcia, które bawią i uczą</tekst>
             <link>extra/ferie-z-poradnia-2017/ferie.html</link>
         </tytuł>
