@@ -29,7 +29,7 @@ var eventsDatabase = [
 
                             {
                                    date: "07.04.2017 godz. 11:30",
-                                   action: "<p><a href='extra/socjoterapeuci-04.html.html'>'Sieci współpracy i samokształcenia dla socjoterapeutów'<br><img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
+                                   action: "<p><a href='extra/socjoterapeuci-04.html'>'Sieć współpracy i samokształcenia dla socjoterapeutów'<br><img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
                             }
                             
                             
