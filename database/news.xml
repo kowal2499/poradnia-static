@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
-    <wiadomość>
+     <wiadomość>
+        <tytuł>
+            <tekst>Kolejne spotkanie w ramach "Sieci współpracy i samokształcenia dla socjoterapeutów".</tekst>
+            <link>extra/socjoterapeuci-04.html</link>
+        </tytuł>
+        <data>
+            10/03/2017
+        </data>
+        <obrazek>
+            <plik>img/siec_wspolpracy_mini.jpg</plik>
+            <link>extra/socjoterapeuci-04.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Zapraszamy na trzecie spotkanie w ramach <strong>"Sieci współpracy 
+                i samokształcenia dla socjoterapeutów"</strong> z powiatu białogardzkiego organizowane przez pracowników Poradni Psychologiczno-Pedagogicznej w Białogardzie.</p>
+                <p>Odbędzie się ono <strong>7 kwietnia 2017 roku o godzinie 11:30</strong> w Klubie Nauczyciela na parterze w budynku poradni. Zachęcamy do aktywnego uczestnictwa wszystkich zainteresowanych tematyką socjoterapii, także tych, którzy nie brali udziału 
+                w poprzednich spotkaniach.</p>
+
+                <a href="extra/socjoterapeuci-04.html" class="btn btn-default text-center">Czytaj dalej ...</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Cykl trzech spotkań warsztatowych dla rodziców "Jak pomóc dziecku w radzeniu sobie z emocjami?"</tekst>
             <link>extra/emocje.html</link>
@@ -24,7 +51,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
 
     <wiadomość>
@@ -52,7 +79,7 @@
     </wiadomość>
 
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Rusza "Szkoła dla Rodziców" cz. II – Rodzeństwo bez rywalizacji! </tekst>
             <link>subpages/pomocDlaRodzicówSzkoła.html#szkola-cz-2</link>
@@ -89,7 +116,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
 
 
@@ -160,7 +187,7 @@
         <okienko_html></okienko_html>
     </wiadomość> -->
 
-    <wiadomość>
+   <!--  <wiadomość>
         <tytuł>
             <tekst>Trzecie spotkanie w ramach "Sieci współpracy i samokształcenia dla socjoterapeutów"</tekst>
             <link>extra/socjoterapeuci-03.html</link>
@@ -182,9 +209,9 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
-	<wiadomość>
+	<!-- <wiadomość>
         <tytuł>
             <tekst>Drugie spotkanie w ramach "Sieci współpracy i samokształcenia dla nauczycieli wychowania przedszkolnego"</tekst>
             <link>extra/siec-wspolpracy-02.html</link>
@@ -207,7 +234,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
 
     <!-- <wiadomość>

@@ -434,7 +434,7 @@ class Zadania(Template):
                                 <td><a href='szkPomocGrupoweSensoryka.html'>'Uczę się przez zmysły' - zajęcia usprawniające sensorykę i rozwój ogólny dzieci w wieku od 2 do 7 lat</a></td>
                                 <td>poniedziałek, godz. 15:30</td>
                                 <td>Klub Nauczyciela, parter</td>
-                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li><li>M.&nbsp;Hewelt</li></ul></td>
+                                <td><ul><li>A. Wrzesińska</li><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
                             <tr class="odd">
@@ -442,7 +442,7 @@ class Zadania(Template):
                                 <td><a href='pomocGrupoweSherborne.html'>Metoda Ruchu Rozwijającego Weroniki Sherborne – dla dzieci młodszych</a></td>
                                 <td>poniedziałek, godz. 16:30</td>
                                 <td>Klub Nauczyciela, parter</td>
-                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li><li>M.&nbsp;Hewelt</li></ul></td>
+                                <td><ul><li>A. Wrzesińska</li><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
                             <tr>
@@ -450,91 +450,75 @@ class Zadania(Template):
                                 <td><a href='szkPomocGrupoweSherborne.html'>Metoda Ruchu Rozwijającego Weroniki Sherborne – dla dzieci starszych</a></td>
                                 <td>poniedziałek, godz. 17:30</td>
                                 <td>Klub Nauczyciela, parter</td>
-                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li><li>M.&nbsp;Hewelt</li></ul></td>
+                                <td><ul><li>A. Wrzesińska</li><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
                             <tr class="odd">
                                 <td>4.</td>
-                                <td><a href='pomocGrupoweMatematyka.html'>\"Matematyka bez trudności\" dla uczniów z klas IV-VI SP</a></td>
-                                <td>środa, godz. 15:00</td>
-                                <td>Gabinet nr 5, parter</td>
-                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li></ul></td>
-                            </tr>
-
-                            <tr>
-                                <td>5.</td>
                                 <td><a href='szkPomocGrupoweDobryStart1.html'>Metoda Dobrego Startu dla dzieci z kl. I SP</a></td>
                                 <td>poniedziałek, godz. 16:30</td>
                                 <td>Gabinet nr 5, I piętro</td>
                                 <td><ul><li>M.&nbsp;Jakubowska</li></ul></td>
                             </tr>
 
-                            <tr class="odd">
-                                <td>6.</td>
+                            <tr>
+                                <td>5.</td>
                                 <td><a href='pomocGrupoweDobryStart.html'>Metoda Dobrego Startu dla dzieci 6-letnich</a></td>
                                 <td>poniedziałek, godz. 14:30</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
-                            <tr>
-                                <td>7.</td>
+                            <tr class="odd">
+                                <td>6.</td>
                                 <td><a href='szkPomocGrupoweBajkoterapia.html'>Bajkoterapia dla dzieci z klas II-III SP</a></td>
                                 <td>wtorek godz. 15:00</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
-                            <tr class="odd">
-                                <td>8.</td>
+                            <tr>
+                                <td>7.</td>
                                 <td><a href='pomocGrupoweSłuchamiOpowiadam.html'>&quot;Bystrzaki - przedszkolaki&quot; – zajęcia stymulujące funkcje słuchowe i sprawność językową dzieci 6-letnich</a></td>
                                 <td>poniedziałek, godz. 15:00</td>
                                 <td>Gabinet nr 5, I piętro</td>
                                 <td><ul><li>M.&nbsp;Jonko</li><li>M.&nbsp;Weiszewska</li></ul></td>
                             </tr>
 
-                            <tr>
-                                <td>9.</td>
+                            <tr class="odd">
+                                <td>8.</td>
                                 <td><a href='pomocGrupowePercepcjaSłuchowa.html'>Zajęcia rozwijające percepcję słuchową dla dzieci 6-letnich</a></td>
                                 <td>środa, godz. 16:00</td>
                                 <td>Gabinet nr 4, I piętro</td>
                                 <td><ul><li>H.&nbsp;Górzyńska</li></ul></td>
                             </tr>
 
-                            <tr class="odd">
-                                <td>10.</td>
+                            <tr>
+                                <td>9.</td>
                                 <td><a href='pomocGrupoweKompetencjeSpołeczne.html'>Zajęcia podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. II-III SP</a></td>
                                 <td>czwartek, godz. 16:00</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>E.&nbsp;Cieszko-Kowalska</li><li>A.Politowska - Kowal</li></ul></td>
                             </tr>
 
-                            <tr>
-                                <td>11.</td>
+                            <tr class="odd">
+                                <td>10.</td>
                                 <td><a href='pomocGrupoweKompetencjeSpołeczneIV-VI.html'>Zajęcia podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. IV-VI SP</a></td>
                                 <td>czwartek, godz. 15:00</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>E.&nbsp;Cieszko-Kowalska</li></ul></td>
                             </tr>
 
-                            <tr class="odd">
-                                <td>12.</td>
+                            <tr>
+                                <td>11.</td>
                                 <td><a href='pomocGrupoweTerapiaReki.html'>Terapia ręki dla dzieci 5-7 letnich</a></td>
                                 <td>wtorek, godz. 14:00</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>M.&nbsp;Hewelt</li></ul></td>
                             </tr>
 
-                            <tr>
-                                <td>13.</td>
-                                <td><a href='pomocGrupoweBystryUmysl.html'>'Bystry umysł' - zajęcia doskonalące koncentrację uwagi dla klas II-IV szkoły podstawowej.</a></td>
-                                <td>środa, godz. 16:00</td>
-                                <td>Gabinet nr 5, parter</td>
-                                <td><ul><li>A.&nbsp;Gudańska-Walkowska</li></ul></td>
-                            </tr>
-
                             <tr class="odd">
-                                <td>14.</td>
+                                <td>12.</td>
                                 <td><a href="pomocGrupoweZajeciaKorekcyjnoKompensacyjne.html">Zajęcia korekcyjno-kompensacyjne</a></td>
                                 <td><ul><li>poniedziałek, godz. 14:00</li><li>czwartek, godz. 14:00, 15:00, 17:00</li></ul></td>
                                 <td>Gabinet nr 11, I piętro</td>
@@ -1260,7 +1244,7 @@ class Zadania(Template):
                         Istnieje także możliwość udziału absolwentów "Szkoły dla Rodziców cz. I" w cz. II - <strong>"Rodzeństwo bez rywalizacji"</strong> <span class='attention'>NOWOŚĆ !</span>
                         </p>
 
-                        <img src="../img/plakat-rodzenstwo-bez-rywalizacji.jpg" alt="Rodzeństwo bez rywalizacji' class="block-center" style="width: 80%; padding-bottom: 20px;">
+                        <!--<img src="../img/plakat-rodzenstwo-bez-rywalizacji.jpg" alt="Rodzeństwo bez rywalizacji' class="block-center" style="width: 80%; padding-bottom: 20px;">-->
                         <h2>Cele zajęć:</h2>
                         <ul>
                             <li>wspieranie procesu budowania wzajemnych (opartych na więzi i szacunku) relacji między dziećmi,</li>
@@ -1278,7 +1262,7 @@ class Zadania(Template):
                             <li>wpływ ról na relacje między dziećmi.</li>
                         </ul>
 
-                        <h2>Forma zajęć:</h2>
+                        <!--<h2>Forma zajęć:</h2>
                             <ul>
                                 <li>7 spotkań prowadzonych metodami aktywnymi,</li>
                                 <li>każde ze spotkań trwa 2-3 godziny,</li>
@@ -1286,6 +1270,7 @@ class Zadania(Template):
                                 <li>w zajęciach wykorzystywana jest książka "Rodzeństwo bez rywalizacji" A. Faber, E. Mazlisch;</li>
                                 <li>każdy z rodziców na bieżąco otrzymuje materiały z danego spotkania, uczestnicy mają także do wykonania zadania domowe służące praktycznemu wdrażaniu nowych umiejętności, pracują także w domu ze wskazaną wcześniej książką.</li>
                             </ul>
+                        -->
 
 
                     """,
@@ -1335,7 +1320,6 @@ class Zadania(Template):
                      <p><strong>Warsztaty są też okazją do wymiany wzajemnych doświadczeń pomiędzy rodzicami.</strong></p>
                      <br>
             
-                     <a href="../extra/emocje.html" class="btn btn-default text-center">Dodatkowe informacje ...</a>
                     """,
                     u"""
                     <script type="text/javascript">

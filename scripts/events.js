@@ -7,25 +7,30 @@ var eventsDatabase = [
                             //        action: "<p><a href='extra/ferie-z-poradnia.html'>Ferie z Poradnią<br><img src='img/ferie-z-poradnia-mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
                             // },
 
-                            {
-                                   date: "08.03.2017 godz. 16:30",
-                                   action: "<p><a href='subpages/pomocDlaRodzicówSzkoła.html#szkola-cz-2'>'Szkoła dla Rodziców' cz. II – Rodzeństwo bez rywalizacji<br><img src='img/mini-szkola-ii.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
-                            },
+                            // {
+                            //        date: "08.03.2017 godz. 16:30",
+                            //        action: "<p><a href='subpages/pomocDlaRodzicówSzkoła.html#szkola-cz-2'>'Szkoła dla Rodziców' cz. II – Rodzeństwo bez rywalizacji<br><img src='img/mini-szkola-ii.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
+                            // },
+
+                            // {
+                            //        date: "09.03.2017 godz. 17:00",
+                            //        action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 1</a></p>"
+                            // },
+
+                            // {
+                            //        date: "16.03.2017 godz. 17:00",
+                            //        action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 2</a></p>"
+                            // },
+
+                            // {
+                            //        date: "23.03.2017 godz. 17:00",
+                            //        action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 3</a></p>"
+                            // },
 
                             {
-                                   date: "09.03.2017 godz. 17:00",
-                                   action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 1</a></p>"
-                            },
-
-                            {
-                                   date: "16.03.2017 godz. 17:00",
-                                   action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 2</a></p>"
-                            },
-
-                            {
-                                   date: "23.03.2017 godz. 17:00",
-                                   action: "<p><a href='extra/emocje.html'>'Jak pomóc dziecku w radzeniu sobie z emocjami?' - spotkanie 3</a></p>"
-                            },
+                                   date: "07.04.2017 godz. 11:30",
+                                   action: "<p><a href='extra/socjoterapeuci-04.html.html'>'Sieci współpracy i samokształcenia dla socjoterapeutów'<br><img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
+                            }
                             
                             
                             // {
