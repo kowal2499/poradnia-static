@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
-     <wiadomość>
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Spotkanie Grupy Rozwoju Zawodowego Logopedów Przedszkolnych i Szkolnych</tekst>
+            <link>extra/grupa-rozwoju-zawodowego-logopedow.html</link>
+        </tytuł>
+        <data>
+            26/03/2017
+        </data>
+        <obrazek>
+            <plik>img/dziecko-mówi.jpg</plik>
+            <link>extra/grupa-rozwoju-zawodowego-logopedow.html</link>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Dyrektor oraz logopedzi Poradni Psychologiczno-Pedagogicznej serdecznie zapraszają na spotkanie Grupy Rozwoju Zawodowego Logopedów Przedszkolnych i Szkolnych miasta i powiatu białogardzkiego, które odbędzie się  we wtorek <strong>4 kwietnia 2017</strong> roku o godzinie <strong>17:00</strong> w Poradni Psychologiczno-Pedagogicznej przy ul. Dworcowa 2 w Białogardzie w Klubie Nauczyciela (parter).</p>
+
+                <a href="extra/socjoterapeuci-04.html" class="btn btn-default text-center">Czytaj dalej ...</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
         <tytuł>
             <tekst>Kolejne spotkanie w ramach "Sieci współpracy i samokształcenia dla socjoterapeutów".</tekst>
             <link>extra/socjoterapeuci-04.html</link>
@@ -15,9 +41,9 @@
         </obrazek>
         <opis>
             <![CDATA[
-                <p>Zapraszamy na trzecie spotkanie w ramach <strong>"Sieci współpracy 
+                <p>Zapraszamy na czwarte spotkanie w ramach <strong>"Sieci współpracy 
                 i samokształcenia dla socjoterapeutów"</strong> z powiatu białogardzkiego organizowane przez pracowników Poradni Psychologiczno-Pedagogicznej w Białogardzie.</p>
-                <p>Odbędzie się ono <strong>7 kwietnia 2017 roku o godzinie 11:30</strong> w Klubie Nauczyciela na parterze w budynku poradni. Zachęcamy do aktywnego uczestnictwa wszystkich zainteresowanych tematyką socjoterapii, także tych, którzy nie brali udziału 
+                <p>Odbędzie się ono <strong>7 kwietnia 2017 roku o godzinie 11:00</strong> w Klubie Nauczyciela na parterze w budynku poradni. Zachęcamy do aktywnego uczestnictwa wszystkich zainteresowanych tematyką socjoterapii, także tych, którzy nie brali udziału 
                 w poprzednich spotkaniach.</p>
 
                 <a href="extra/socjoterapeuci-04.html" class="btn btn-default text-center">Czytaj dalej ...</a>
