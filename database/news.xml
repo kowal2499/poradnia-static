@@ -4,6 +4,47 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Wesołych Świąt Wielkanocnych !</tekst>
+        </tytuł>
+        <data>
+            09/04/2017
+        </data>
+        <obrazek>
+            <plik>img/wielkanoc-poradnia-2016-mini.jpg</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+            Wielu radosnych i niepowtarzalnych chwil na Święta Wielkanocne, smacznego jajka oraz wiosennego nastroju w rodzinnym gronie życzą pracownicy Poradni Psychologiczno-Pedagogicznej w Białogardzie.
+            ]]>
+        </opis>
+        <okienko>tak</okienko>
+        <okienko_tylko_obrazek>img/wielkanoc-poradnia-2016.jpg</okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Zmiana godzin pracy</tekst>
+        </tytuł>
+        <data>
+            09/04/2017
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+            
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Informujemy, że w dniu 14.04.2017 roku Poradnia Psychologiczno-Pedagogiczna w Białogardzie będzie otwarta do godziny 13:30.</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <!-- <wiadomość>
+        <tytuł>
             <tekst>Spotkanie Grupy Rozwoju Zawodowego Logopedów Przedszkolnych i Szkolnych</tekst>
             <link>extra/grupa-rozwoju-zawodowego-logopedow.html</link>
         </tytuł>
@@ -24,29 +65,26 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
 
     <wiadomość>
         <tytuł>
-            <tekst>Kolejne spotkanie w ramach "Sieci współpracy i samokształcenia dla socjoterapeutów".</tekst>
-            <link>extra/socjoterapeuci-04.html</link>
+            <tekst>Spotkanie podsumowujące "Sieć współpracy i samokształcenia dla socjoterapeutów"</tekst>
+            <link>extra/socjoterapeuci-05.html</link>
         </tytuł>
         <data>
-            10/03/2017
+            08/04/2017
         </data>
         <obrazek>
             <plik>img/siec_wspolpracy_mini.jpg</plik>
-            <link>extra/socjoterapeuci-04.html</link>
+            <link>extra/socjoterapeuci-05.html</link>
         </obrazek>
         <opis>
             <![CDATA[
-                <p>Zapraszamy na czwarte spotkanie w ramach <strong>"Sieci współpracy 
-                i samokształcenia dla socjoterapeutów"</strong> z powiatu białogardzkiego organizowane przez pracowników Poradni Psychologiczno-Pedagogicznej w Białogardzie.</p>
-                <p>Odbędzie się ono <strong>7 kwietnia 2017 roku o godzinie 11:00</strong> w Klubie Nauczyciela na parterze w budynku poradni. Zachęcamy do aktywnego uczestnictwa wszystkich zainteresowanych tematyką socjoterapii, także tych, którzy nie brali udziału 
-                w poprzednich spotkaniach.</p>
+                <p>Serdecznie zapraszamy na spotkanie podsumowujące <strong>"Sieć współpracy i samokształcenia dla socjoterapeutów"</strong> z powiatu białogardzkiego organizowane przez pracowników Poradni Psychologiczno-Pedagogicznej w Białogardzie. Odbędzie się ono <strong><u>19 maja 2017 roku o godzinie 11:00</u></strong> w Klubie Nauczyciela na parterze w budynku poradni. Zachęcamy do aktywnego uczestnictwa wszystkich zainteresowanych tematyką socjoterapii, także tych, którzy nie brali udziału w poprzednich spotkaniach.</p>
 
-                <a href="extra/socjoterapeuci-04.html" class="btn btn-default text-center">Czytaj dalej ...</a>
+                <a href="extra/socjoterapeuci-05.html" class="btn btn-default text-center">Czytaj dalej ...</a>
             ]]>
         </opis>
         <okienko>nie</okienko>
@@ -146,7 +184,7 @@
 
 
 
-    <wiadomość>
+   <!--  <wiadomość>
         <tytuł>
             <tekst>Nowy psycholog w Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
         </tytuł>
@@ -165,7 +203,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <wiadomość>
         <tytuł>
@@ -754,25 +792,7 @@
 
     <!-- ################################################################## -->
 
-    <!-- <wiadomość>
-        <tytuł>
-            <tekst>Wesołych Świąt Wielkanocnych !</tekst>
-        </tytuł>
-        <data>
-            21/03/2016
-        </data>
-        <obrazek>
-            <plik>img/wielkanoc-poradnia-2016-mini.jpg</plik>
-        </obrazek>
-        <opis>
-            <![CDATA[
-            Wielu radosnych i niepowtarzalnych chwil na Święta Wielkanocne, smacznego jajka oraz wiosennego nastroju w rodzinnym gronie życzą pracownicy Poradni Psychologiczno-Pedagogicznej w Białogardzie.
-            ]]>
-        </opis>
-        <okienko>tak</okienko>
-        <okienko_tylko_obrazek>img/wielkanoc-poradnia-2016.jpg</okienko_tylko_obrazek>
-        <okienko_html></okienko_html>
-    </wiadomość> -->
+    
 
     <!-- ################################################################## -->
     
