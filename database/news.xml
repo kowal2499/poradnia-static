@@ -2,7 +2,7 @@
 <aktualności>
 
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Wesołych Świąt Wielkanocnych !</tekst>
         </tytuł>
@@ -20,9 +20,9 @@
         <okienko>tak</okienko>
         <okienko_tylko_obrazek>img/wielkanoc-poradnia-2016.jpg</okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Zmiana godzin pracy</tekst>
         </tytuł>
@@ -41,7 +41,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- <wiadomość>
         <tytuł>
