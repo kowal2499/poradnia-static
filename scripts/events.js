@@ -32,10 +32,10 @@ var eventsDatabase = [
                             //        action: "<p><a href='extra/grupa-rozwoju-zawodowego-logopedow.html'>'Grupa Rozwoju Zawodowego Logopedów Przedszkolnych i Szkolnych'<br><img src='img/dziecko-mówi.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
                             // },
 
-                            {
-                                   date: "19.05.2017 godz. 11:00",
-                                   action: "<p><a href='extra/socjoterapeuci-05.html'>'Sieć współpracy i samokształcenia dla socjoterapeutów' - Spotkanie podsumowujące<br><img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
-                            }
+                            // {
+                            //        date: "19.05.2017 godz. 11:00",
+                            //        action: "<p><a href='extra/socjoterapeuci-05.html'>'Sieć współpracy i samokształcenia dla socjoterapeutów' - Spotkanie podsumowujące<br><img src='img/siec_wspolpracy_mini.jpg' style='margin-top: 10px; width: 40%;'></a></p>"
+                            // }
                             
                             
                             // {

@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aktualności>
 
+    <wiadomość>
+        <tytuł>
+            <tekst>Zmiana obowiązujących formularzy</tekst>
+        </tytuł>
+        <data>
+            29/05/2017
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Informujemy, że w Poradni Psychologiczno-Pedagogicznej w Białogardzie obowiązują nowe druki i procedury.</p><p> Druki można pobrać bezpośrednio z sekcji <a href="subpages/doPobrania.html">'Formularze'</a>.
+                Wszelkich dodatkowych informacji udziela sekretariat poradni.</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
 
     <!-- <wiadomość>
         <tytuł>
@@ -68,7 +89,7 @@
     </wiadomość> -->
 
 
-    <wiadomość>
+    <!-- <wiadomość>
         <tytuł>
             <tekst>Spotkanie podsumowujące "Sieć współpracy i samokształcenia dla socjoterapeutów"</tekst>
             <link>extra/socjoterapeuci-05.html</link>
@@ -90,7 +111,7 @@
         <okienko>nie</okienko>
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
-    </wiadomość>
+    </wiadomość> -->
 
     <!-- <wiadomość>
         <tytuł>
@@ -118,7 +139,7 @@
     </wiadomość> -->
 
 
-    <wiadomość>
+<!--     <wiadomość>
         <tytuł>
             <tekst>Zakończyły się "Ferie z Poradnią" - unikalne zajęcia, które bawią i uczą</tekst>
             <link>extra/ferie-z-poradnia-2017/ferie.html</link>
@@ -141,7 +162,7 @@
         <okienko_tylko_obrazek></okienko_tylko_obrazek>
         <okienko_html></okienko_html>
     </wiadomość>
-
+ -->
 
     <!-- <wiadomość>
         <tytuł>
@@ -205,25 +226,7 @@
         <okienko_html></okienko_html>
     </wiadomość> -->
 
-    <wiadomość>
-        <tytuł>
-            <tekst>Zmiana obowiązujących formularzy</tekst>
-        </tytuł>
-        <data>
-            17/01/2017
-        </data>
-        <obrazek>
-            <plik>img/news-praca.png</plik>
-        </obrazek>
-        <opis>
-            <![CDATA[
-                <p>Informujemy, że od 1 lutego 2017 roku w Poradni Psychologiczno-Pedagogicznej w Białogardzie będą obowiązywać nowe druki.</p>
-            ]]>
-        </opis>
-        <okienko>nie</okienko>
-        <okienko_tylko_obrazek></okienko_tylko_obrazek>
-        <okienko_html></okienko_html>
-    </wiadomość>
+
 
     <!-- <wiadomość>
         <tytuł>
