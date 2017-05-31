@@ -3,6 +3,28 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Grafik pracy na czerwiec/lipiec/sierpień 2017</tekst>
+        </tytuł>
+        <data>
+            31/05/2017
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>W związku ze zmianą organizacji pracy w Poradni Psychologiczno-Pedagogicznej w Białogardzie w miesiącach czerwiec-lipiec-sierpień 2017 roku zamieszczamy grafik pracowników pedagogicznych: psychologów, pedagogów i logopedów. </p>
+                <a class="btn btn-default" href="extra/grafik2017.html">Pokaż grafik</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
             <tekst>Zmiana obowiązujących formularzy</tekst>
         </tytuł>
         <data>
