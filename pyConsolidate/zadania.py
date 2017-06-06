@@ -495,7 +495,7 @@ class Zadania(Template):
 
                             <tr>
                                 <td>9.</td>
-                                <td><a href='pomocGrupoweKompetencjeSpołeczne.html'>Zajęcia podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. II-III SP</a></td>
+                                <td><a href='pomocGrupoweKompetencjeSpołeczne.html'>Zajęcia podnoszące kompetencje społeczne dla uczniów kl. II-III SP</a></td>
                                 <td>czwartek, godz. 16:00</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>E.&nbsp;Cieszko-Kowalska</li><li>A.Politowska - Kowal</li></ul></td>
@@ -503,7 +503,7 @@ class Zadania(Template):
 
                             <tr class="odd">
                                 <td>10.</td>
-                                <td><a href='pomocGrupoweKompetencjeSpołeczneIV-VI.html'>Zajęcia podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. IV-VI SP</a></td>
+                                <td><a href='pomocGrupoweKompetencjeSpołeczneIV-VI.html'>Zajęcia podnoszące kompetencje społeczne dla uczniów kl. IV-VI SP</a></td>
                                 <td>czwartek, godz. 15:00</td>
                                 <td>Klub Nauczyciela, parter</td>
                                 <td><ul><li>E.&nbsp;Cieszko-Kowalska</li></ul></td>
@@ -827,7 +827,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweKompetencjeSpołeczne.html':
                 [
-                    u"Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. II - III szkoły podstawowej",
+                    u"Zajęcia grupowe podnoszące kompetencje społeczne dla uczniów kl. II - III szkoły podstawowej",
                     u"""
                      <h2>Cele</h2>
                      <ul>
@@ -847,7 +847,7 @@ class Zadania(Template):
                 ],
     u'pomocGrupoweKompetencjeSpołeczneIV-VI.html':
                 [
-                    u"Zajęcia grupowe podnoszące kompetencje społeczne (socjoterapeutyczne) dla uczniów kl. IV - VI szkoły podstawowej",
+                    u"Zajęcia grupowe podnoszące kompetencje społeczne dla uczniów kl. IV - VI szkoły podstawowej",
                     u"""
                      <h2>Cele</h2>
                      <ul>
