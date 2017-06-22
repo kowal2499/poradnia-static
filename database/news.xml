@@ -3,6 +3,48 @@
 
     <wiadomość>
         <tytuł>
+            <tekst>Zmiany godzin pracy w sekretariacie poradni </tekst>
+        </tytuł>
+        <data>
+            22/06/2017
+        </data>
+        <obrazek>
+            <plik>img/news-praca.png</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Informujemy, że sekretariat Poradni Psychologiczno-Pedagogicznej w Białogardzie będzie czynny w miesiącu lipcu i sierpniu 2017 roku od godziny 7:00 do godziny 15:00.</p>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+    <wiadomość>
+        <tytuł>
+            <tekst>Podsumowanie roku szkolnego w Poradni Psychologiczno-Pedagogicznej w Białogardzie</tekst>
+        </tytuł>
+        <data>
+            21/06/2017
+        </data>
+        <obrazek>
+            <plik>img/beach.jpg</plik>
+        </obrazek>
+        <opis>
+            <![CDATA[
+                <p>Nieuchronnie zbliża się zakończenie roku szkolnego, dlatego też w Poradni Psychologiczno-Pedagogicznej w Białogardzie dokonujemy podsumowania naszej pracy...</p>
+                <a class="btn btn-default" href="extra/podsumowanie2017.html">Czytaj artykuł</a>
+            ]]>
+        </opis>
+        <okienko>nie</okienko>
+        <okienko_tylko_obrazek></okienko_tylko_obrazek>
+        <okienko_html></okienko_html>
+    </wiadomość>
+
+
+    <wiadomość>
+        <tytuł>
             <tekst>Grafik pracy na czerwiec/lipiec/sierpień 2017</tekst>
         </tytuł>
         <data>

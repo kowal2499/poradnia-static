@@ -119,6 +119,11 @@ function refresh(brickVal) {
         html += '       <div class="col-xs-12 col-sm-5 col-md-9">';
         html += '           <div class="row artTitle">' + '<a href=' + advicesDatabase[index].link + '>' + advicesDatabase[index].title + '</a></div>';
         html += '           <div class="row author">' + advicesDatabase[index].author + '</div>';
+
+        if (advicesDatabase[index].date) {
+            html += '           <div class="row date">' + advicesDatabase[index].date + '</div>';
+        }
+
         html += '           <div class="row artDescription"><hr style="margin: 5px; margin-left: 0px" /><p>' + advicesDatabase[index].shortDesc + '</p></div>';
         html += '           <div class="row continueReading"><a href=' + advicesDatabase[index].link + '>Czytaj dalej...</a></div>';
         html += '       </div>';
